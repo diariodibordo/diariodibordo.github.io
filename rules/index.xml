@@ -1,4 +1,62 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>📚 Manuale | Diario di Bordo</title><link>https://diariodibordo.github.io/rules/</link><atom:link href="https://diariodibordo.github.io/rules/index.xml" rel="self" type="application/rss+xml"/><description>📚 Manuale</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>it</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate><image><url>https://diariodibordo.github.io/media/icon_hu26adfb5ce2d32387d10aa42e394c6120_38733_512x512_fill_lanczos_center_3.png</url><title>📚 Manuale</title><link>https://diariodibordo.github.io/rules/</link></image><item><title>⚔️ Combattimento</title><link>https://diariodibordo.github.io/rules/combattimento/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>https://diariodibordo.github.io/rules/combattimento/</guid><description>&lt;h2 id="turni">Turni&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>📚 Manuale | Diario di Bordo</title><link>https://diariodibordo.github.io/rules/</link><atom:link href="https://diariodibordo.github.io/rules/index.xml" rel="self" type="application/rss+xml"/><description>📚 Manuale</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>it</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate><image><url>https://diariodibordo.github.io/media/icon_hu26adfb5ce2d32387d10aa42e394c6120_38733_512x512_fill_lanczos_center_3.png</url><title>📚 Manuale</title><link>https://diariodibordo.github.io/rules/</link></image><item><title>⭕️ Punteggi di Caratteristica</title><link>https://diariodibordo.github.io/rules/punteggi-caratteristica/</link><pubDate>Sat, 20 Jan 2024 04:01:54 +0100</pubDate><guid>https://diariodibordo.github.io/rules/punteggi-caratteristica/</guid><description>&lt;p>Le sei caratteristiche forniscono una descrizione rapida delle facoltà fisiche e mentali di ogni creatura.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Caratteristica&lt;/th>
+&lt;th>Descrizione&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Forza&lt;/td>
+&lt;td>Misura la potenza fisica.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Destrezza&lt;/td>
+&lt;td>Misura l&amp;rsquo;agilità.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Costituzione&lt;/td>
+&lt;td>Misura la resistenza.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Intelligenza&lt;/td>
+&lt;td>Misura il ragionamento e la memoria.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Saggezza&lt;/td>
+&lt;td>Misura la percezione e l&amp;rsquo;intuizione.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Carisma&lt;/td>
+&lt;td>Misura la forza di personalità.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="modificatori">Modificatori&lt;/h2>
+&lt;p>TODO
+&amp;hellip;&lt;/p>
+&lt;h2 id="vantaggio-e-svantaggio">Vantaggio e Svantaggio&lt;/h2>
+&lt;p>(magari andrebbe spostato su una sezione più generale)
+&amp;hellip;&lt;/p>
+&lt;h2 id="bonus-di-competenza">Bonus di competenza&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Il &lt;strong>bonus di competenza&lt;/strong> viene usato nelle regole relative alle &lt;em>prove di caratteristica&lt;/em>, ai &lt;em>tiri salvezza&lt;/em> e ai &lt;em>tiri per colpire&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Il &lt;strong>bonus di competenza&lt;/strong> non può essere aggiunto ad un singolo tiro del dado o aun altro numero più di una volta.&lt;/p>
+&lt;ul>
+&lt;li>In alcune occasioni il bonus di competenza può essere moltiplicato o diviso (es., privilegi).&lt;/li>
+&lt;li>Se il bonus di competenza del personaggio va applicato più di una volta allo stesso tiro, &amp;hellip; (continuare qui. pag 174 phb).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>Pag. 173 PHB&lt;/p>
+&lt;h2 id="prove-di-caratteristica">Prove di caratteristica&lt;/h2>
+&lt;p>Una prova che misura le doti innate e l&amp;rsquo;addestramento di un personaggio o di un mostro di fronte a una sfida da superare.&lt;/p>
+&lt;p>Il DM richiede una &lt;strong>prova di caratteristica&lt;/strong> quando un personaggio o un mostro si cimenta in un&amp;rsquo;azione (diversa da un &lt;em>attacco&lt;/em>) con esito incerto.&lt;/p>
+&lt;p>Pag. 174 PHB&lt;/p></description></item><item><title>⚔️ Combattimento</title><link>https://diariodibordo.github.io/rules/combattimento/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>https://diariodibordo.github.io/rules/combattimento/</guid><description>&lt;h2 id="turni">Turni&lt;/h2>
 &lt;p>&amp;hellip;&lt;/p>
 &lt;h2 id="azioni">Azioni&lt;/h2>
 &lt;p>&amp;hellip;&lt;/p></description></item></channel></rss>
