@@ -258,6 +258,7 @@ effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
+&lt;p>&lt;strong>TODO : completare le descrizioni&lt;/strong>&lt;/p>
 &lt;h3 id="forza">Forza&lt;/h3>
 &lt;h4 id="prove-di-forza">Prove di Forza&lt;/h4>
 &lt;h4 id="tiri-per-colpire-e-danni">Tiri Per Colpire e Danni&lt;/h4>
@@ -294,4 +295,74 @@ effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;
 &lt;/ul></description></item><item><title>Combattimento</title><link>https://diariodibordo.github.io/rules/combattimento/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>https://diariodibordo.github.io/rules/combattimento/</guid><description>&lt;h2 id="turni">Turni&lt;/h2>
 &lt;p>&amp;hellip;&lt;/p>
 &lt;h2 id="azioni">Azioni&lt;/h2>
-&lt;p>&amp;hellip;&lt;/p></description></item></channel></rss>
+&lt;p>&amp;hellip;&lt;/p></description></item><item><title>Condizioni</title><link>https://diariodibordo.github.io/rules/condizioni/</link><pubDate>Sun, 21 Jan 2024 11:01:03 +0100</pubDate><guid>https://diariodibordo.github.io/rules/condizioni/</guid><description>&lt;p>Una &lt;strong>condizione&lt;/strong> permane finchè non viene contrastata, o per una durata specifica dell&amp;rsquo;effetto che l&amp;rsquo;ha impostata.&lt;/p>
+&lt;p>Se più effetti impongono la stessa condizione su una creatura, ogni istanza di quella condizione ha una sua durata, ma gli effetti di una condizione non peggiorano.&lt;/p>
+&lt;ul>
+&lt;li>La maggior parte delle condizioni sono svantaggiose, ma alcune possono essere vantaggiose (es., invisibile).&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Condizione&lt;/th>
+&lt;th>Effetto&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Accecato&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Affascinato&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Afferrato&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Assordato&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Avvelenato&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Incapacitato&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Invisibile&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Paralizzato&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Pietrificato&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Privo di Sensi&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Prono&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Spaventato&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Stordito&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Trattenuto&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>
