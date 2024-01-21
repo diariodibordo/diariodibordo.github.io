@@ -222,7 +222,76 @@ effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;
 &lt;li>I personaggi abili in una determinata impresa aiutano quelli che non lo sono.&lt;/li>
 &lt;/ul>
 &lt;p>Ogni membro del gruppo effettua la &lt;strong>prova di caratteristica&lt;/strong> richiesta. Se almeno metà del gruppo ha successo, l&amp;rsquo;intero gruppo ha successo, altrimenti fallisce (es., sabbie mobili in una palude).&lt;/p>
-&lt;p>PHB. 175&lt;/p></description></item><item><title>Combattimento</title><link>https://diariodibordo.github.io/rules/combattimento/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>https://diariodibordo.github.io/rules/combattimento/</guid><description>&lt;h2 id="turni">Turni&lt;/h2>
+&lt;p>PHB. 175&lt;/p>
+&lt;h2 id="descrizione-delle-caratteristiche"> Descrizione delle Caratteristiche&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Caratteristica&lt;/th>
+&lt;th>Utilizzi&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Forza&lt;/td>
+&lt;td>&lt;ul>&lt;li>Prove di Forza&lt;/li>&lt;li>Tiri per Colpire e Danni (Armi da Mischia)&lt;/li>&lt;li>Sollevamento e Trasporto&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Destrazza&lt;/td>
+&lt;td>&lt;ul>&lt;li>Prove di Destrezza&lt;/li>&lt;li>Tiri per Colpire e Danni (Armi a Distanza)&lt;/li>&lt;li>Classe Armatura&lt;/li>&lt;li>Iniziativa&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Costituzione&lt;/td>
+&lt;td>&lt;ul>&lt;li>Prove di Costituzione&lt;/li>&lt;li>Punti Ferita&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Intelligenza&lt;/td>
+&lt;td>&lt;ul>&lt;li>Prove di Intelligenza&lt;/li>&lt;li>Caratteristica da Incantatore&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Saggezza&lt;/td>
+&lt;td>&lt;ul>&lt;li>Prove di Saggezza&lt;/li>&lt;li>Caratteristica da Incantatore&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Carisma&lt;/td>
+&lt;td>&lt;ul>&lt;li>Prove di Carisma&lt;/li>&lt;li>Caratteristica da Incantatore&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="forza">Forza&lt;/h3>
+&lt;h4 id="prove-di-forza">Prove di Forza&lt;/h4>
+&lt;h4 id="tiri-per-colpire-e-danni">Tiri Per Colpire e Danni&lt;/h4>
+&lt;h4 id="sollevamento-e-trasporto">Sollevamento e Trasporto&lt;/h4>
+&lt;h5 id="variante-ingombro">Variante: Ingombro&lt;/h5>
+&lt;p>PHB. 175-176&lt;/p>
+&lt;h3 id="destrezza">Destrezza&lt;/h3>
+&lt;h4 id="prove-di-destrezza">Prove di Destrezza&lt;/h4>
+&lt;h4 id="tiri-per-colpire-e-danni-1">Tiri Per Colpire e Danni&lt;/h4>
+&lt;h4 id="classe-armatura">Classe Armatura&lt;/h4>
+&lt;h3 id="costituzione">Costituzione&lt;/h3>
+&lt;h4 id="prove-di-costituzione">Prove di Costituzione&lt;/h4>
+&lt;h4 id="punti-ferita">Punti Ferita&lt;/h4>
+&lt;h3 id="intelligenza">Intelligenza&lt;/h3>
+&lt;h4 id="prove-di-intelligenza">Prove di Intelligenza&lt;/h4>
+&lt;h4 id="caratteristica-da-incantatore">Caratteristica da Incantatore&lt;/h4>
+&lt;h3 id="saggezza">Saggezza&lt;/h3>
+&lt;h4 id="prove-di-saggezza">Prove di Saggezza&lt;/h4>
+&lt;h4 id="caratteristica-da-incantatore-1">Caratteristica da Incantatore&lt;/h4>
+&lt;h3 id="carisma">Carisma&lt;/h3>
+&lt;h4 id="prove-di-carisma">Prove di Carisma&lt;/h4>
+&lt;h4 id="caratteristica-da-incantatore-2">Caratteristica da Incantatore&lt;/h4>
+&lt;h2 id="tiri-salvezza">Tiri Salvezza&lt;/h2>
+&lt;p>Un &lt;strong>tiro salvezza&lt;/strong> rappresenta un tentativo di resistere a un incantesimo, una trappola, un veleno, una malattia o una minaccia simile.&lt;/p>
+&lt;ul>
+&lt;li>Solitamente i giocatori o i mostri non decidono di effettuare un &lt;strong>tiro salvezza&lt;/strong>, ma vengono obbligati dal DM quando subiscono dei danni.&lt;/li>
+&lt;/ul>
+&lt;p>Si tira un d20 e si aggiunge al risultato il modificatore di caratteristica appropriato (dipende dal &lt;strong>tiro salvezza&lt;/strong> richiesto dal DM).&lt;/p>
+&lt;ul>
+&lt;li>Ogni classe fornisce competenza su almeno due &lt;strong>tiri salvezza&lt;/strong>.&lt;/li>
+&lt;li>Un tiro salvezza può essere modificato da un bonus o penalità situazionale, e può essere influenzato da vantaggio e svantaggio.&lt;/li>
+&lt;li>Le competenze nei &lt;strong>tiri salvezza&lt;/strong> funzionano esattamente come le competenze nelle abilità per le &lt;strong>prove di caratteristica&lt;/strong>.&lt;/li>
+&lt;li>La CD di un &lt;strong>tiro salvezza&lt;/strong> è determianta dall&amp;rsquo;effetto che lo causa, così come l&amp;rsquo;esito (solitamente un tiro salvezza superato significa che la creatura subisce danni ridotti o non li subisce proprio).&lt;/li>
+&lt;/ul></description></item><item><title>Combattimento</title><link>https://diariodibordo.github.io/rules/combattimento/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>https://diariodibordo.github.io/rules/combattimento/</guid><description>&lt;h2 id="turni">Turni&lt;/h2>
 &lt;p>&amp;hellip;&lt;/p>
 &lt;h2 id="azioni">Azioni&lt;/h2>
 &lt;p>&amp;hellip;&lt;/p></description></item></channel></rss>
