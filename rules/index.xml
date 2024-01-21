@@ -114,21 +114,67 @@
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>Dal momento che i modificatori di caratteristica influenzano praticamente ogni &lt;strong>tiro per colpire&lt;/strong>, &lt;strong>prove di caratteristica&lt;/strong> e &lt;strong>tiro salvezza&lt;/strong>, essi entrano molto più spesso in gioco dei **punteggi di caratteristica **a cui sono associati.&lt;/p>
+&lt;p>Dal momento che i modificatori di caratteristica influenzano praticamente ogni &lt;strong>tiro per colpire&lt;/strong>, &lt;strong>prove di caratteristica&lt;/strong> e &lt;strong>tiro salvezza&lt;/strong>, essi entrano molto più spesso in gioco dei &lt;strong>punteggi di caratteristica&lt;/strong> a cui sono associati.&lt;/p>
+&lt;p>Pag. 172 PHB&lt;/p>
 &lt;h2 id="bonus-di-competenza">Bonus di competenza&lt;/h2>
+&lt;p>Il &lt;strong>bonus di competenza&lt;/strong> viene usato nelle regole relative alle &lt;em>prove di caratteristica&lt;/em>, ai &lt;em>tiri salvezza&lt;/em> e ai &lt;em>tiri per colpire&lt;/em>.&lt;/p>
 &lt;ul>
-&lt;li>Il &lt;strong>bonus di competenza&lt;/strong> viene usato nelle regole relative alle &lt;em>prove di caratteristica&lt;/em>, ai &lt;em>tiri salvezza&lt;/em> e ai &lt;em>tiri per colpire&lt;/em>.&lt;/li>
-&lt;li>Il &lt;strong>bonus di competenza&lt;/strong> non può essere aggiunto ad un singolo tiro del dado o aun altro numero più di una volta.
+&lt;li>Ogni personaggio possiede un &lt;strong>bonus di competenza&lt;/strong> determianto dal &lt;em>livello&lt;/em>.&lt;/li>
+&lt;li>Il &lt;strong>bonus di competenza&lt;/strong> non può essere aggiunto ad un singolo tiro del dado o ad un altro numero &lt;strong>più di una volta&lt;/strong>.
 &lt;ul>
 &lt;li>In alcune occasioni il bonus di competenza può essere moltiplicato o diviso (es., privilegi).&lt;/li>
-&lt;li>Se il bonus di competenza del personaggio va applicato più di una volta allo stesso tiro, &amp;hellip; (continuare qui. pag 174 phb).&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;li>Se una circostanza suggerisce che il bonus di competenza del personaggio vada applicato più di una volta al tiro, il personaggio lo applica lo stesso una volta e lo moltiplica e lo divide soltanto una volta.&lt;/li>
+&lt;li>Se il &lt;strong>bonus competenza&lt;/strong> di un personaggio viene moltiplicato in una prova che non utilizza il bonus, il bonus non viene comunque aggiunto alla prova (sarebbe come moltiplicare per 0).&lt;/li>
 &lt;/ul>
+&lt;p>In generale, un personaggio non moltiplicca il suo &lt;strong>bonus di competenza&lt;/strong> ai &lt;strong>tiri per colpire&lt;/strong> o ai &lt;strong>tiri salvezza&lt;/strong>. Se un privilegio o un effetot gli consente di farlok, si applicano le regole sopracitate.&lt;/p>
 &lt;p>Pag. 173 PHB&lt;/p>
 &lt;h2 id="prove-di-caratteristica">Prove di caratteristica&lt;/h2>
 &lt;p>Una prova che misura le doti innate e l&amp;rsquo;addestramento di un personaggio o di un mostro di fronte a una sfida da superare.&lt;/p>
 &lt;p>Il DM richiede una &lt;strong>prova di caratteristica&lt;/strong> quando un personaggio o un mostro si cimenta in un&amp;rsquo;azione (diversa da un &lt;em>attacco&lt;/em>) con esito incerto.&lt;/p>
+&lt;p>Per ogni prova di caratteristica, il DM decide quale delle sei caratteristiche è rilevante per l&amp;rsquo;impresa da compiere e la difficoltà dell&amp;rsquo;impresa, rappresentata da una Classe Difficoltà (CD).&lt;/p>
+&lt;p>Per effettuare una prova di caratteristica si tira un d20 e si aggiunge il modificatore di caratteristica. Come negli altri tiri del d20 si applicano i bonus e le penalità previste e confronta il totale con la CD.&lt;/p>
+&lt;ul>
+&lt;li>Se l&amp;rsquo;esito è pari o superiore alla CD, la prova si considera superata.&lt;/li>
+&lt;li>Altrimenti la prova è considerata un fallimento, ovvero che il personaggio o il mostro non fa progressi verso il suo obiettivo (svantaggio determinato dal DM, potrebbe essere anche un piccolo progresso).&lt;/li>
+&lt;/ul>
+&lt;h3 id="classi-difficoltà-tipiche">Classi Difficoltà Tipiche&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Difficoltà dell&amp;rsquo;impresa&lt;/th>
+&lt;th>CD&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Molto Facile&lt;/td>
+&lt;td>5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Facile&lt;/td>
+&lt;td>10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Media&lt;/td>
+&lt;td>15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Difficile&lt;/td>
+&lt;td>20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Molto Difficile&lt;/td>
+&lt;td>25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Quasi Impossibile&lt;/td>
+&lt;td>30&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="contese">Contese&lt;/h3>
 &lt;p>Pag. 174 PHB&lt;/p></description></item><item><title>Combattimento</title><link>https://diariodibordo.github.io/rules/combattimento/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>https://diariodibordo.github.io/rules/combattimento/</guid><description>&lt;h2 id="turni">Turni&lt;/h2>
 &lt;p>&amp;hellip;&lt;/p>
 &lt;h2 id="azioni">Azioni&lt;/h2>
