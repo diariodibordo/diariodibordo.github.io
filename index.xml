@@ -245,7 +245,7 @@ TODO: sistemare la sezione e abbellirla (bullet list?)&lt;/p>
 &lt;li>Se una circostanza suggerisce che il bonus di competenza del personaggio vada applicato più di una volta al tiro, il personaggio lo applica lo stesso una volta e lo moltiplica e lo divide soltanto una volta.&lt;/li>
 &lt;li>Se il &lt;strong>bonus competenza&lt;/strong> di un personaggio viene moltiplicato in una prova che non utilizza il bonus, il bonus non viene comunque aggiunto alla prova (sarebbe come moltiplicare per 0).&lt;/li>
 &lt;/ul>
-&lt;p>In generale, un personaggio non moltiplicca il suo &lt;strong>bonus di competenza&lt;/strong> ai &lt;strong>tiri per colpire&lt;/strong> o ai &lt;strong>tiri salvezza&lt;/strong>. Se un privilegio o un effetot gli consente di farlok, si applicano le regole sopracitate.&lt;/p>
+&lt;p>In generale, un personaggio non moltiplica il suo &lt;strong>bonus di competenza&lt;/strong> ai &lt;strong>tiri per colpire&lt;/strong> o ai &lt;strong>tiri salvezza&lt;/strong>. Se un privilegio o un effetot gli consente di farlok, si applicano le regole sopracitate.&lt;/p>
 &lt;p>Pag. 173 PHB&lt;/p>
 &lt;h2 id="prove-di-caratteristica">Prove di caratteristica&lt;/h2>
 &lt;p>Una prova che misura le doti innate e l&amp;rsquo;addestramento di un personaggio o di un mostro di fronte a una sfida da superare.&lt;/p>
@@ -301,6 +301,15 @@ TODO: sistemare la sezione e abbellirla (bullet list?)&lt;/p>
 &lt;/ul>
 &lt;p>Pag. 174 PHB&lt;/p>
 &lt;h2 id="abilità">Abilità&lt;/h2>
+&lt;p>Un &lt;strong>abilità&lt;/strong> rappresenta un aspetto specifico di un punteggio di caratteristica, e la competenza di un soggetto in quell&amp;rsquo;abilità rappresenta un certo grado di specializzazione in quell&amp;rsquo;aspetto.&lt;/p>
+&lt;ul>
+&lt;li>Un giocatore potrebbe chiedere al DM se la competenza in una particolare abilità può essere applicata a una prova.&lt;/li>
+&lt;/ul>
+&lt;p>In entrambi i casi, la competenza in un&amp;rsquo;abilità significa che un individuo può aggiungere il proprio bonus di competenza alle prove di caratteristica relative a quell&amp;rsquo;abilità.&lt;/p>
+&lt;ul>
+&lt;li>Senza competenza in quell&amp;rsquo;abilità un individuo effettua una normale prova di caratteristica.&lt;/li>
+&lt;/ul>
+&lt;p>PHB. 174&lt;/p>
 &lt;h3 id="abilità-con-caratteristiche-diverse">Abilità con caratteristiche diverse&lt;/h3>
 &lt;h2 id="prove-passive">Prove Passive&lt;/h2>
 &lt;p>Una &lt;strong>prova passiva&lt;/strong> è un tipo particolare di &lt;strong>prova di caratteristica&lt;/strong> che non richiede alcun tiro del dado.&lt;/p>
@@ -314,8 +323,23 @@ TODO: sistemare la sezione e abbellirla (bullet list?)&lt;/p>
 &lt;li>Se il personaggio dispone di vantaggio alla prova, si aggiunge 5, in caso di svantaggio si sottrae 5.&lt;/li>
 &lt;/ul>
 &lt;p>Il totale di una prova passiva è indicato come &lt;strong>punteggio&lt;/strong>.&lt;/p>
+&lt;p>PHB. 175&lt;/p>
 &lt;h2 id="collaborare">Collaborare&lt;/h2>
-&lt;h3 id="prove-di-gruppo">Prove di Gruppo&lt;/h3></description></item><item><title>Combattimento</title><link>https://diariodibordo.github.io/rules/combattimento/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>https://diariodibordo.github.io/rules/combattimento/</guid><description>&lt;h2 id="turni">Turni&lt;/h2>
+&lt;p>Due o più personaggi possono unire le forze nel tentativo di portare a termine un&amp;rsquo;impresa. Il personaggio che guida l&amp;rsquo;operazione (o quello con il modificatore di caratteristica più alto) può
+effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;strong>vantaggio&lt;/strong>, rappresentato dall&amp;rsquo;aiuto che riceve dagli altri personaggi.&lt;/p>
+&lt;ul>
+&lt;li>In &lt;em>combattimento&lt;/em> questo richiede l&amp;rsquo;azione di &lt;strong>Aiuto&lt;/strong>.&lt;/li>
+&lt;li>Un personaggio può aiutare soltanto se sarebbe in grado di svolgere quell&amp;rsquo;impresa da solo (ha competenza nella caratteristica interessata).&lt;/li>
+&lt;li>Un personaggio può aiutare quando la collaborazione tra i due è concretamente praticabile (non basta dire che aiuta).&lt;/li>
+&lt;/ul>
+&lt;p>PHB. 175&lt;/p>
+&lt;h3 id="prove-di-gruppo">Prove di Gruppo&lt;/h3>
+&lt;p>Il DM può richiedere una &lt;strong>prova di caratteristica&lt;/strong> di gruppo.&lt;/p>
+&lt;ul>
+&lt;li>I personaggi abili in una determinata impresa aiutano quelli che non lo sono.&lt;/li>
+&lt;/ul>
+&lt;p>Ogni membro del gruppo effettua la &lt;strong>prova di caratteristica&lt;/strong> richiesta. Se almeno metà del gruppo ha successo, l&amp;rsquo;intero gruppo ha successo, altrimenti fallisce (es., sabbie mobili in una palude).&lt;/p>
+&lt;p>PHB. 175&lt;/p></description></item><item><title>Combattimento</title><link>https://diariodibordo.github.io/rules/combattimento/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>https://diariodibordo.github.io/rules/combattimento/</guid><description>&lt;h2 id="turni">Turni&lt;/h2>
 &lt;p>&amp;hellip;&lt;/p>
 &lt;h2 id="azioni">Azioni&lt;/h2>
 &lt;p>&amp;hellip;&lt;/p></description></item></channel></rss>
