@@ -151,15 +151,91 @@ TODO: sistemare la sezione e abbellirla (bullet list?)&lt;/p>
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="modificatori">Modificatori&lt;/h2>
-&lt;p>TODO
-&amp;hellip;&lt;/p>
+&lt;p>Un &lt;strong>punteggio di caratteristica&lt;/strong> non misura semplicemente le capacità innate, ma abbraccia anche l&amp;rsquo;addestramento di una creatura e la sua competenza nelle attività correlate a quella caratteristica.&lt;/p>
+&lt;ul>
+&lt;li>Avventurieri possono raggiungere punteggi pari a 20 (anche solitamente si fermano a 18).&lt;/li>
+&lt;li>Mostri e esseri divini possono arrivare a 30.&lt;/li>
+&lt;/ul>
+&lt;p>A ogni caratteristica è abbinato un &lt;strong>modificatore&lt;/strong> derivato dal &lt;strong>punteggio caratteristica&lt;/strong>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Punteggio di Caratteristica&lt;/th>
+&lt;th>Modificatore&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1&lt;/td>
+&lt;td>-5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2-3&lt;/td>
+&lt;td>-4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4-5&lt;/td>
+&lt;td>-3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6-7&lt;/td>
+&lt;td>-2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>8-9&lt;/td>
+&lt;td>-1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10-11&lt;/td>
+&lt;td>+0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12-13&lt;/td>
+&lt;td>+1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>14-15&lt;/td>
+&lt;td>+2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>16-17&lt;/td>
+&lt;td>+3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>18-19&lt;/td>
+&lt;td>+4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>20-21&lt;/td>
+&lt;td>+5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>22-23&lt;/td>
+&lt;td>+6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>24-25&lt;/td>
+&lt;td>+7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>26-27&lt;/td>
+&lt;td>+8&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>28-29&lt;/td>
+&lt;td>+9&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>30&lt;/td>
+&lt;td>+10&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Dal momento che i modificatori di caratteristica influenzano praticamente ogni &lt;strong>tiro per colpire&lt;/strong>, &lt;strong>prove di caratteristica&lt;/strong> e &lt;strong>tiro salvezza&lt;/strong>, essi entrano molto più spesso in gioco dei **punteggi di caratteristica **a cui sono associati.&lt;/p>
 &lt;h2 id="bonus-di-competenza">Bonus di competenza&lt;/h2>
 &lt;ul>
-&lt;li>
-&lt;p>Il &lt;strong>bonus di competenza&lt;/strong> viene usato nelle regole relative alle &lt;em>prove di caratteristica&lt;/em>, ai &lt;em>tiri salvezza&lt;/em> e ai &lt;em>tiri per colpire&lt;/em>.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Il &lt;strong>bonus di competenza&lt;/strong> non può essere aggiunto ad un singolo tiro del dado o aun altro numero più di una volta.&lt;/p>
+&lt;li>Il &lt;strong>bonus di competenza&lt;/strong> viene usato nelle regole relative alle &lt;em>prove di caratteristica&lt;/em>, ai &lt;em>tiri salvezza&lt;/em> e ai &lt;em>tiri per colpire&lt;/em>.&lt;/li>
+&lt;li>Il &lt;strong>bonus di competenza&lt;/strong> non può essere aggiunto ad un singolo tiro del dado o aun altro numero più di una volta.
 &lt;ul>
 &lt;li>In alcune occasioni il bonus di competenza può essere moltiplicato o diviso (es., privilegi).&lt;/li>
 &lt;li>Se il bonus di competenza del personaggio va applicato più di una volta allo stesso tiro, &amp;hellip; (continuare qui. pag 174 phb).&lt;/li>
