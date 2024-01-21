@@ -175,7 +175,30 @@
 &lt;/tbody>
 &lt;/table>
 &lt;h3 id="contese">Contese&lt;/h3>
-&lt;p>Pag. 174 PHB&lt;/p></description></item><item><title>Combattimento</title><link>https://diariodibordo.github.io/rules/combattimento/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>https://diariodibordo.github.io/rules/combattimento/</guid><description>&lt;h2 id="turni">Turni&lt;/h2>
+&lt;p>Forma speciale di &lt;strong>prova di caratteristica&lt;/strong> che capita quando gli sforzi di un personaggio o di un mostro sono direttamente contrapposti a quelli di qualcun&amp;rsquo;altro.&lt;/p>
+&lt;p>Entrambi i partecipanti a una contesa effettuano &lt;strong>prove di caratteristica&lt;/strong> separate che rappresentano i loro sforzi.&lt;/p>
+&lt;ul>
+&lt;li>Applicano tutti i bonus e le penalità appropriate, ma invece di confrontare il totale a una CD, confrontano i totali delle due prove tra loro.&lt;/li>
+&lt;li>Il contendente che ha ottenuto il totale di prova più alto vince la &lt;strong>contesa&lt;/strong>.&lt;/li>
+&lt;li>Se la &lt;strong>contesa&lt;/strong> termina in un pareggio, la situazione rimane quella che era prima della contesa, entrambi i partecipanti non riescono a raggiungere l&amp;rsquo;obiettivo desiderato.&lt;/li>
+&lt;/ul>
+&lt;p>Pag. 174 PHB&lt;/p>
+&lt;h2 id="abilità">Abilità&lt;/h2>
+&lt;h3 id="abilità-con-caratteristiche-diverse">Abilità con caratteristiche diverse&lt;/h3>
+&lt;h2 id="prove-passive">Prove Passive&lt;/h2>
+&lt;p>Una &lt;strong>prova passiva&lt;/strong> è un tipo particolare di &lt;strong>prova di caratteristica&lt;/strong> che non richiede alcun tiro del dado.&lt;/p>
+&lt;p>Rappresenta il risultato medio di un azione intrapresa ripetutamente, nell&amp;rsquo;arco di un periodo di tempo.&lt;/p>
+&lt;ul>
+&lt;li>In alternativa, può essere usata quando il DM vuole determinare segretamente se i personaggi riescono a fare qualcosa senza tirare i dadi (es., notare un mostro nascosto).&lt;/li>
+&lt;/ul>
+&lt;p>Il totale della prova passiva di un personaggio si determina nel modo seguente:&lt;/p>
+&lt;p>10 + tutti i modificatori che normalmente si applicano alla prova.&lt;/p>
+&lt;ul>
+&lt;li>Se il personaggio dispone di vantaggio alla prova, si aggiunge 5, in caso di svantaggio si sottrae 5.&lt;/li>
+&lt;/ul>
+&lt;p>Il totale di una prova passiva è indicato come &lt;strong>punteggio&lt;/strong>.&lt;/p>
+&lt;h2 id="collaborare">Collaborare&lt;/h2>
+&lt;h3 id="prove-di-gruppo">Prove di Gruppo&lt;/h3></description></item><item><title>Combattimento</title><link>https://diariodibordo.github.io/rules/combattimento/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>https://diariodibordo.github.io/rules/combattimento/</guid><description>&lt;h2 id="turni">Turni&lt;/h2>
 &lt;p>&amp;hellip;&lt;/p>
 &lt;h2 id="azioni">Azioni&lt;/h2>
 &lt;p>&amp;hellip;&lt;/p></description></item></channel></rss>
