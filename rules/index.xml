@@ -295,6 +295,7 @@ effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;
 &lt;/ul></description></item><item><title>Combattimento</title><link>https://diariodibordo.github.io/rules/combattimento/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>https://diariodibordo.github.io/rules/combattimento/</guid><description>&lt;h2 id="turni">Turni&lt;/h2>
 &lt;p>&amp;hellip;&lt;/p>
 &lt;h2 id="azioni">Azioni&lt;/h2>
+&lt;h3 id="lottare">Lottare&lt;/h3>
 &lt;p>&amp;hellip;&lt;/p></description></item><item><title>Condizioni</title><link>https://diariodibordo.github.io/rules/condizioni/</link><pubDate>Sun, 21 Jan 2024 11:01:03 +0100</pubDate><guid>https://diariodibordo.github.io/rules/condizioni/</guid><description>&lt;p>Una &lt;strong>condizione&lt;/strong> permane finchè non viene contrastata, o per una durata specifica dell&amp;rsquo;effetto che l&amp;rsquo;ha impostata.&lt;/p>
 &lt;p>Se più effetti impongono la stessa condizione su una creatura, ogni istanza di quella condizione ha una sua durata, ma gli effetti di una condizione non peggiorano.&lt;/p>
 &lt;ul>
@@ -304,44 +305,44 @@ effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;
 &lt;thead>
 &lt;tr>
 &lt;th>Condizione&lt;/th>
-&lt;th>Effetto&lt;/th>
+&lt;th>&lt;center>Effetto&lt;/center>&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Accecato&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>&lt;strong>Accecato&lt;/strong>&lt;/td>
+&lt;td>&lt;ul>&lt;li>Fallisce automaticamente qualsiasi prova di caratteristica che richiede l&amp;rsquo;uso della vista.&lt;/li>&lt;li>I &lt;b>tiri per colpire&lt;/b> contro la creatura dispongono di vantaggio, mentre quelli della creatura subiscono svantaggio.&lt;/li>&lt;/ul>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Affascinato&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>&lt;strong>Affascinato&lt;/strong>&lt;/td>
+&lt;td>&lt;ul>&lt;li>Non può attaccare o bersagliare colui che l&amp;rsquo;ha affascinata con capacità o effetti magici dannosi.&lt;/li>&lt;li>Colui che ha affascinato disponde di vantaggio a qualsiasi &lt;b>prova di caratteristica&lt;/b> effettuata per interagire socialmente con essa.&lt;/li>&lt;/ul>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Afferrato&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>&lt;strong>Afferrato&lt;/strong>&lt;/td>
+&lt;td>&lt;ul>&lt;li>La velocità di una creatura afferrata diventa 0.&lt;/li>&lt;li>La creatura afferrata non può beneficiare di alcun bonus velocità.&lt;/li>&lt;li>La condizione termina se il &lt;a href="https://diariodibordo.github.io/rules/combattimento#lottare">lottatore&lt;/a> che ha afferrato la creatura è &lt;b>incapacitato&lt;/b>.&lt;/li>&lt;li>La condizione termina anche se un effetto rimuove la creatura afferrata dalla portata del lottatore che l&amp;rsquo;ha afferrata (o dall&amp;rsquo;effetto afferrante).&lt;/li>&lt;/ul>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Assordato&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>&lt;strong>Assordato&lt;/strong>&lt;/td>
+&lt;td>Non è in grado di sentire e fallisce automaticamente qualsiasi &lt;b>prova di caratteristica&lt;/b> che richieda l&amp;rsquo;uso dell&amp;rsquo;udito.&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Avvelenato&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>&lt;strong>Avvelenato&lt;/strong>&lt;/td>
+&lt;td>Svantaggio ai &lt;b>tiri per colpire&lt;/b> e alle &lt;b>prove di caratteristica&lt;/b>.&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Incapacitato&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>&lt;strong>Incapacitato&lt;/strong>&lt;/td>
+&lt;td>Non può effettuare &lt;b>azioni&lt;/b> o &lt;b>reazioni&lt;/b>.&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Invisibile&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>&lt;strong>Invisibile&lt;/strong>&lt;/td>
+&lt;td>&lt;ul>&lt;li>Impossibile da vedere senza l&amp;rsquo;uso della magia o di sensi speciali.&lt;/li>&lt;li>Ubicazione della creatura può essere intuita dai rumori che emette o dalle tracce che lascia.&lt;/li>&lt;li>Una creatura che si sta nascondendo ed è invisibile, è considerata &lt;b>pesantemente oscurata&lt;/b>.&lt;/li>&lt;/ul>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Paralizzato&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>&lt;strong>Paralizzato&lt;/strong>&lt;/td>
+&lt;td>&lt;ul>&lt;li>Risulta &lt;b>incapacitata&lt;/b> e non può muoversi o parlare.&lt;/li>&lt;li>Fallisce i &lt;b>tiri salvezza&lt;/b> su &lt;b>forza&lt;/b> e &lt;b>destrezza&lt;/b>.&lt;/li>&lt;li>I &lt;b>tiri per colpire&lt;/b> contro la creatura possiedono &lt;b>vantaggio&lt;/b>.&lt;/li>&lt;li>Ogni attacco che colpisce la creatura è un &lt;b>colpo critico&lt;/b> se l&amp;rsquo;attaccante è situato entro 1,5m dalla creatura.&lt;/li>&lt;/ul>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Pietrificato&lt;/td>
+&lt;td>&lt;strong>Pietrificato&lt;/strong>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -365,4 +366,5 @@ effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item></channel></rss>
+&lt;/table>
+&lt;p>PHB. 290&lt;/p></description></item></channel></rss>
