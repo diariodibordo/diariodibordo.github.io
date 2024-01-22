@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Indice | Diario di Bordo</title><link>https://diariodibordo.github.io/</link><atom:link href="https://diariodibordo.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Indice</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>it</language><lastBuildDate>Sun, 21 Jan 2024 11:01:03 +0100</lastBuildDate><image><url>https://diariodibordo.github.io/media/icon_hu26adfb5ce2d32387d10aa42e394c6120_38733_512x512_fill_lanczos_center_3.png</url><title>Indice</title><link>https://diariodibordo.github.io/</link></image><item><title>⚙️ Tools</title><link>https://diariodibordo.github.io/res/tools/</link><pubDate>Sun, 21 Jan 2024 10:01:08 +0100</pubDate><guid>https://diariodibordo.github.io/res/tools/</guid><description>&lt;p>&lt;strong>WIP&lt;/strong>
-TODO: sistemare la sezione e abbellirla (bullet list?)&lt;/p>
-&lt;p>Piattaforma principale per giocare a DnD online con gli amici &lt;a href="https://roll20.net/" target="_blank" rel="noopener">Roll20&lt;/a>&lt;/p>
-&lt;p>Suite di tools per Dnd 5e &lt;a href="https://5e.tools/" target="_blank" rel="noopener">5eTools&lt;/a>&lt;/p>
-&lt;p>Per la generazione di token &lt;a href="https://rolladvantage.com/tokenstamp/" target="_blank" rel="noopener">Token Stamp2&lt;/a> o &lt;a href="https://thefatefulforce.com/battle-resources/token-creator/" target="_blank" rel="noopener">VTT Token Maker&lt;/a>.&lt;/p></description></item><item><title>Equipaggiamento</title><link>https://diariodibordo.github.io/rules/equipaggiamento/</link><pubDate>Sat, 20 Jan 2024 04:01:54 +0100</pubDate><guid>https://diariodibordo.github.io/rules/equipaggiamento/</guid><description/></item><item><title>Draghi dell'Isola delle Tempeste</title><link>https://diariodibordo.github.io/logs/draghi-isola-tempeste/</link><pubDate>Fri, 19 Jan 2024 12:01:36 +0100</pubDate><guid>https://diariodibordo.github.io/logs/draghi-isola-tempeste/</guid><description>&lt;p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Indice | Diario di Bordo</title><link>https://diariodibordo.github.io/</link><atom:link href="https://diariodibordo.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Indice</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>it</language><lastBuildDate>Sun, 21 Jan 2024 11:01:03 +0100</lastBuildDate><image><url>https://diariodibordo.github.io/media/icon_hu26adfb5ce2d32387d10aa42e394c6120_38733_512x512_fill_lanczos_center_3.png</url><title>Indice</title><link>https://diariodibordo.github.io/</link></image><item><title>Equipaggiamento</title><link>https://diariodibordo.github.io/rules/equipaggiamento/</link><pubDate>Sat, 20 Jan 2024 04:01:54 +0100</pubDate><guid>https://diariodibordo.github.io/rules/equipaggiamento/</guid><description/></item><item><title>Draghi dell'Isola delle Tempeste</title><link>https://diariodibordo.github.io/logs/draghi-isola-tempeste/</link><pubDate>Fri, 19 Jan 2024 12:01:36 +0100</pubDate><guid>https://diariodibordo.github.io/logs/draghi-isola-tempeste/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="https://diariodibordo.github.io/uploads/imgs/campaigns/stormwreck-isle/00-001.png" alt="Splash" loading="lazy" data-zoomable />&lt;/div>
@@ -121,6 +117,30 @@ TODO: sistemare la sezione e abbellirla (bullet list?)&lt;/p>
 &lt;/li>
 &lt;li>Dopo una grande e difficoltosa prova di abilità da parte di tutti gli eroi, quest&amp;rsquo;ultimi si riescono a salvare saltando utilizzando l&amp;rsquo;effetto fionda del &lt;strong>Mulinello Magico&lt;/strong>.&lt;/li>
 &lt;li>Alle 11:00am (di Giovedì) si sono accampati alle &lt;em>Sorgenti Termali&lt;/em> per riposare.&lt;/li>
+&lt;/ul>
+&lt;h3 id="episodio-7---capitolo-3">Episodio 7 - Capitolo 3&lt;/h3>
+&lt;ul>
+&lt;li>I nostri eroi sono ripartiti dall&amp;rsquo;accampamento, hanno tentato di tornare a Sonno del Drago, ma il vento li ha diretto verso il relitto della &lt;em>Rosa dei Venti&lt;/em>.&lt;/li>
+&lt;li>Dopo una perlustrazione iniziale hanno deciso di entrare da un buco in fondo alla stiva così recuperando il &lt;em>Tesoro del Capitano&lt;/em>, contenente il &lt;em>Diario del Capitano&lt;/em>.
+&lt;ul>
+&lt;li>Utilizzando le &lt;em>Spore del Vento&lt;/em>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Hanno compreso dell&amp;rsquo;amore tra &lt;strong>Aleitha&lt;/strong> e &lt;strong>Brastos&lt;/strong> e della maledizione lanciata da &lt;strong>Orcus&lt;/strong>, tutta via vogliono fare visionare il diario a &lt;strong>Runara&lt;/strong>.&lt;/li>
+&lt;li>Tornando nuovamente sulla loro barca, hanno deciso di perlustrare il relitto.&lt;/li>
+&lt;li>Inizialmente hanno esaminato il &lt;em>Ponte Superiore&lt;/em>, Ruidjert sbadatamente ha fatto cadere il timone, questo ha fatto innervosire gli Zombie che si trovavano nella stanza di sotto.&lt;/li>
+&lt;li>Per evitare la fuoriuscita degli Zombie dalla stanza il Duca ha posizionato dei detriti che hanno fermato gli ingressi nel Ponte Principale.
+&lt;ul>
+&lt;li>Tuttavia gli Zombie sono usciti dando via ad una battaglia vinta dai nostri abili eroi.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Hanno perlustrato tutte le stanze trovando qualche tesoro nella &lt;em>Stanza del Capitano&lt;/em> (&lt;em>bussola&lt;/em>, &lt;em>55mo&lt;/em> e &lt;em>strumenti da cartografo&lt;/em>) e una trappola sotto un&amp;rsquo;asse dei &lt;em>Dormitori&lt;/em>.
+&lt;ul>
+&lt;li>Sotto l&amp;rsquo;asse vi era un altro tesoro nascosto, un sacco con 200mo.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Scendendo nel &lt;em>Ponte Inferiore&lt;/em> hanno dovuto sfidare due &lt;em>Zombie&lt;/em> ed un &lt;em>Ghoul&lt;/em> che si nascondeva dietro le scatole.&lt;/li>
+&lt;li>Dopo averli sconfitti hanno prelevato dei tesori che si nascondevano in tre casse (&lt;em>10 kg di chiodi di garofano&lt;/em>, &lt;em>10 lingotti d&amp;rsquo;argento&lt;/em> e una &lt;em>pergamena magica&lt;/em>).&lt;/li>
 &lt;/ul></description></item><item><title>Prossima campagna...</title><link>https://diariodibordo.github.io/logs/next-campaign/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>https://diariodibordo.github.io/logs/next-campaign/</guid><description>&lt;h2 id="data">Data&lt;/h2>
 &lt;p>Lista eventi in ordine cronologico:&lt;/p>
 &lt;ul>
@@ -510,7 +530,7 @@ effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Prono&lt;/strong>&lt;/td>
-&lt;td>&lt;ul>&lt;li>Per muoversi può solo &lt;b>strisciare&lt;/b>, a meno che non si rialzi in piedi ponendo fine alla condizione.&lt;/li>&lt;li>Svantaggio ai &lt;b>tiri per colpire&lt;/b> e alle &lt;b>prove di caratteristica&lt;/b>.&lt;/li>&lt;li>I &lt;b>tiri per colpire&lt;/b> contro la creatura possiedono vantaggio se l&amp;rsquo;attaccante si trova a 1,5m di distanza, altrimenti possiedono svantaggio.&lt;/li>&lt;/ul>&lt;/td>
+&lt;td>&lt;ul>&lt;li>Per muoversi può solo &lt;b>strisciare&lt;/b>, a meno che non si rialzi in piedi ponendo fine alla condizione.&lt;/li>&lt;li>Svantaggio ai &lt;b>tiri per colpire&lt;/b> e alle &lt;b>prove di caratteristica&lt;/b>.&lt;/li>&lt;li>I &lt;b>tiri per colpire&lt;/b> contro la creatura possiedono vantaggio se l&amp;rsquo;attaccante si trova a 1,5m di distanza, altrimenti possiedono svantaggio.&lt;/li>&lt;li>Alzarsi da &lt;strong>Prono&lt;/strong> costa metà del movimento.&lt;/li>&lt;/ul>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>Spaventato&lt;/strong>&lt;/td>
