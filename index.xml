@@ -8,15 +8,29 @@ TODO: sistemare la sezione e abbellirla (bullet list?)&lt;/p>
 &lt;div class="w-100" >&lt;img src="https://diariodibordo.github.io/uploads/imgs/campaigns/stormwreck-isle/00-001.png" alt="Splash" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;h1 id="giocatori">Giocatori&lt;/h1>
+&lt;h2 id="giocatori">Giocatori&lt;/h2>
 &lt;p>&lt;strong>Burbit&lt;/strong>
-..background con immagini..&lt;/p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://diariodibordo.github.io/uploads/imgs/campaigns/stormwreck-isle/burbit.png" alt="burbit-token" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+..background..&lt;/p>
 &lt;p>&lt;strong>Duca Ignazio di AlbaRadiante&lt;/strong>
-..background con immagini..&lt;/p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://diariodibordo.github.io/uploads/imgs/campaigns/stormwreck-isle/duca.png" alt="duca-token" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>..background..&lt;/p>
 &lt;p>&lt;strong>Ruidjert&lt;/strong>
-..background con immagini..&lt;/p>
-&lt;h1 id="logs">Logs&lt;/h1>
-&lt;h2 id="episodio-1---capitolo-1">Episodio 1 - Capitolo 1&lt;/h2>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://diariodibordo.github.io/uploads/imgs/campaigns/stormwreck-isle/ruidjert.png" alt="ruidjert-token" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>..background..&lt;/p>
+&lt;h2 id="logs">Logs&lt;/h2>
+&lt;h3 id="episodio-1---capitolo-1">Episodio 1 - Capitolo 1&lt;/h3>
 &lt;ul>
 &lt;li>I nostri eroi dopo un lungo viaggio in barca sono giunti a &lt;em>Sonno del Drago&lt;/em>.&lt;/li>
 &lt;li>Hanno sconfitto i tre Zombie che si trovavano dietro di loro all&amp;rsquo;ingresso del Chiostro e sono stati accolti come degli eroi dai &lt;strong>Coboldi&lt;/strong> e da &lt;strong>Runara&lt;/strong>.&lt;/li>
@@ -26,7 +40,7 @@ TODO: sistemare la sezione e abbellirla (bullet list?)&lt;/p>
 &lt;li>&lt;strong>Varnoth&lt;/strong> ha spiegato che secondo lei il grande botto è stato fatto da un relitto naufragato a nord dell&amp;rsquo;isola.&lt;/li>
 &lt;li>Sono rimasti in direzione del &lt;em>Tempio di Bahamut&lt;/em>, sono le 14:00 con bel tempo.&lt;/li>
 &lt;/ul>
-&lt;h2 id="episodio-2---capitolo-2">Episodio 2 - Capitolo 2&lt;/h2>
+&lt;h3 id="episodio-2---capitolo-2">Episodio 2 - Capitolo 2&lt;/h3>
 &lt;ul>
 &lt;li>Sono andati in biblioteca e hanno conosciuto &lt;strong>Arvandus Stellabruna&lt;/strong>.&lt;/li>
 &lt;li>Hanno acquistato tre mappe per &lt;em>1mo&lt;/em> ciascuna.&lt;/li>
@@ -37,7 +51,7 @@ TODO: sistemare la sezione e abbellirla (bullet list?)&lt;/p>
 &lt;li>Arrivati all&amp;rsquo;ingresso delle grotte hanno sostenuto un lungo combattimento contro il &lt;strong>Polpo servitore delle Spore&lt;/strong> che impediva l&amp;rsquo;accesso nella grotta, nel quale hanno avuto la meglio.&lt;/li>
 &lt;li>Grazie alle abilità telepatiche dei &lt;strong>Miconidi&lt;/strong>, i pensieri di tutti i giocatori e dei Miconidi sono condivisi.&lt;/li>
 &lt;/ul>
-&lt;h2 id="episodio-3---capitolo-2">Episodio 3 - Capitolo 2&lt;/h2>
+&lt;h3 id="episodio-3---capitolo-2">Episodio 3 - Capitolo 2&lt;/h3>
 &lt;ul>
 &lt;li>I nostri eroi hanno compreso che la grotta è ammalata da un infestazione di spore.&lt;/li>
 &lt;li>All&amp;rsquo;ingresso della grotta hanno una breve conversazione telepatica con dei &lt;strong>Miconidi&lt;/strong> dopo aver sconfitto dei &lt;strong>Funghi Viola&lt;/strong>.&lt;/li>
@@ -53,7 +67,7 @@ TODO: sistemare la sezione e abbellirla (bullet list?)&lt;/p>
 &lt;li>Vengono sconfitti i due &lt;strong>Draghi di Fumo&lt;/strong> guardiani della &lt;em>Grotta di cristallo&lt;/em> dopo una durissima battaglia.&lt;/li>
 &lt;li>Gli eroi si nascondono nel santuario di Sinensa per effettuare un riposo lungo alternandosi a turni di guardia per essere sicuri di non subire agguati durate il riposo.&lt;/li>
 &lt;/ul>
-&lt;h2 id="episodio-4---capitolo-2">Episodio 4 - Capitolo 2&lt;/h2>
+&lt;h3 id="episodio-4---capitolo-2">Episodio 4 - Capitolo 2&lt;/h3>
 &lt;ul>
 &lt;li>I nostri eroi hanno sconfitto il &lt;strong>Serpente di Fuoco&lt;/strong> che si era liberato dall&amp;rsquo;estrazione del &lt;em>Cristallo arancione&lt;/em>.&lt;/li>
 &lt;li>Hanno ottenuto il rispetto di &lt;strong>Sir Gavriel&lt;/strong>, li ha introdotti alla sua missione di ricerca dell&amp;rsquo;&lt;strong>Orsogufo&lt;/strong>.&lt;/li>
@@ -68,7 +82,7 @@ TODO: sistemare la sezione e abbellirla (bullet list?)&lt;/p>
 &lt;/li>
 &lt;li>Sono le 17:00 di pomeriggio di Mercoledì.&lt;/li>
 &lt;/ul>
-&lt;h2 id="episodio-5---capitolo-2">Episodio 5 - Capitolo 2&lt;/h2>
+&lt;h3 id="episodio-5---capitolo-2">Episodio 5 - Capitolo 2&lt;/h3>
 &lt;ul>
 &lt;li>I nostri eroi hanno passato del tempo a riposarsi a &lt;em>Sonno del Drago&lt;/em> tra giochi di dadi, gare di rutti e birra.&lt;/li>
 &lt;li>Iniziano a sospettare che &lt;strong>Runara&lt;/strong> nascondi qualcosa, in quanto è sparita dal Tempio di &lt;em>Sonno del Drago&lt;/em>.&lt;/li>
@@ -84,7 +98,7 @@ TODO: sistemare la sezione e abbellirla (bullet list?)&lt;/p>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="episodio-6---capitolo-2">Episodio 6 - Capitolo 2&lt;/h2>
+&lt;h3 id="episodio-6---capitolo-2">Episodio 6 - Capitolo 2&lt;/h3>
 &lt;ul>
 &lt;li>I nostri erori si somno imbarcati alle 8:00 di mattina da &lt;em>Sonno del Drago&lt;/em> per andare ad esplorare la zona dei naufragi nord delle isola.&lt;/li>
 &lt;li>Nel viaggio si sono imbattuti in delle &lt;em>Sorgenti termali&lt;/em>, una leggera corrente li ha attirati in questa bocca costruita da rocce basaltiche, una coltre di caldi vapori e fumi aleggia.&lt;/li>
