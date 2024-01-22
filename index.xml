@@ -389,12 +389,39 @@ effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>&lt;strong>TODO : completare le descrizioni&lt;/strong>&lt;/p>
 &lt;h3 id="forza">Forza&lt;/h3>
+&lt;p>Misura la potenza del proprio corpo.&lt;/p>
 &lt;h4 id="prove-di-forza">Prove di Forza&lt;/h4>
+&lt;p>L&amp;rsquo;abilità &lt;strong>Atletica&lt;/strong> rappresenta una maggiore prestanza in certi tipi di &lt;strong>prove di forza&lt;/strong>.&lt;/p>
+&lt;ul>
+&lt;li>Nuotare, saltare, scalare, rimanere a galla in un mare in tempesta, &amp;hellip;&lt;/li>
+&lt;/ul>
 &lt;h4 id="tiri-per-colpire-e-danni">Tiri Per Colpire e Danni&lt;/h4>
+&lt;p>Un personaggio utilizza il modificatore di &lt;strong>forza&lt;/strong> ai suoi &lt;strong>tiri per colpire&lt;/strong> e &lt;strong>tiri per i danni&lt;/strong>, quando utilizza un&amp;rsquo;&lt;em>arma da mischia&lt;/em>.&lt;/p>
+&lt;ul>
+&lt;li>Alcune armi da mischia possono essere utilizzate per effettuare attacchi a distanza.&lt;/li>
+&lt;/ul>
 &lt;h4 id="sollevamento-e-trasporto">Sollevamento e Trasporto&lt;/h4>
+&lt;p>Il punteggio di &lt;strong>forza&lt;/strong> di un personaggio determina il peso che può trasportare.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Capacità di Trasporto&lt;/strong>, la capacità di trasporto di un personaggio è pari al punteggio &lt;strong>forza&lt;/strong> moltiplicato per 7,5 kg.&lt;/li>
+&lt;li>&lt;strong>Spingere, Trascinare o Sollevare&lt;/strong>, un personaggio può compiere queste azioni su un oggetto di massa massimo 15 volte il suo punteggio di &lt;strong>forza&lt;/strong>.
+&lt;ul>
+&lt;li>Se si eccede il limite la velocità di movimento si riduce a 1,5m.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Taglia e Forza&lt;/strong>, per ogni cateogria di taglia superiore alle Media, la capacità di trasporto di una creatura e il peso che essa può spingere, trascinare o sollevare raddoppiano.
+&lt;ul>
+&lt;li>Nel caso di una creatura Minuscola, quei pesi dimezzano.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
 &lt;h5 id="variante-ingombro">Variante: Ingombro&lt;/h5>
+&lt;p>Questa è una variante per aggiungere difficoltà al gioco, quando la si usa si ignora la &lt;strong>Forza&lt;/strong> richiesta da un &lt;a href="">Armatura Pesante&lt;/a>.&lt;/p>
+&lt;ul>
+&lt;li>Se il personaggio trasporta un peso superiore a 2,5 volte il suo punteggio di &lt;strong>forza&lt;/strong>, è &lt;strong>ingombrato&lt;/strong>, e la sua velocità si riduce di 3 metri.&lt;/li>
+&lt;li>Se trasporta un peso superiore a 5 volte il suo punteggio di Forza (ma rimane dentro la sua &lt;strong>capacità di trasporto&lt;/strong>), allora diventa &lt;strong>pesantemente ingombrato&lt;/strong>, il che significa che la sua velcotià si riduce di 6 metri e che il personaggio subisce svantaggio alle prove di caratteristica, tiri per colpire e ai tiri salvezza che usano Forza, Destrezza o Costituzione.&lt;/li>
+&lt;/ul>
 &lt;p>PHB. 175-176&lt;/p>
 &lt;h3 id="destrezza">Destrezza&lt;/h3>
 &lt;h4 id="prove-di-destrezza">Prove di Destrezza&lt;/h4>
