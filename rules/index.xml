@@ -442,4 +442,58 @@ effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;
 &lt;td>Morte.&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item></channel></rss>
+&lt;/table></description></item><item><title>Mostri</title><link>https://diariodibordo.github.io/rules/mostri/</link><pubDate>Sun, 21 Jan 2024 11:01:03 +0100</pubDate><guid>https://diariodibordo.github.io/rules/mostri/</guid><description>&lt;p>L&amp;rsquo;ordine delle sezioni di questa pagina ripercorre sequenzialmente le statistiche presenti nella scheda di un mostro di DnD 5e.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://diariodibordo.github.io/uploads/imgs/monsters/ancient-red-dragon-page.jpg_large" alt="red-dragon" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="sfida">Sfida&lt;/h2>
+&lt;p>Il &lt;strong>grado di sfida&lt;/strong> di un mostro indica quanto è grave la minaccia costituita dal mostro secondo le indicazioni per la pianificazione degli incontri (DMG).&lt;/p>
+&lt;h2 id="punti-esperienza">Punti Esperienza&lt;/h2>
+&lt;p>I &lt;strong>punti esperienza&lt;/strong> (PE) dati da un mostro dipendono dal suo grado di sfida.&lt;/p>
+&lt;p>I PE possono venire concessi:&lt;/p>
+&lt;ul>
+&lt;li>Quando il mostro viene sconfitto.&lt;/li>
+&lt;li>Quando la minaccia viene sventata in altri modi.&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Grado di Sfida&lt;/th>
+&lt;th>Punti Esperienza&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>0&lt;/td>
+&lt;td>0 o 10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1/8&lt;/td>
+&lt;td>25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1/4&lt;/td>
+&lt;td>50&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1/2&lt;/td>
+&lt;td>100&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1&lt;/td>
+&lt;td>200&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2&lt;/td>
+&lt;td>450&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>da completare &amp;hellip;&lt;/td>
+&lt;td>&amp;hellip;&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="creature-leggendarie">Creature Leggendarie&lt;/h2></description></item></channel></rss>
