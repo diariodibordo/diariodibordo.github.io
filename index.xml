@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Indice | Diario di Bordo</title><link>https://diariodibordo.github.io/</link><atom:link href="https://diariodibordo.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Indice</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>it</language><lastBuildDate>Sun, 21 Jan 2024 11:01:03 +0100</lastBuildDate><image><url>https://diariodibordo.github.io/media/icon_hu26adfb5ce2d32387d10aa42e394c6120_38733_512x512_fill_lanczos_center_3.png</url><title>Indice</title><link>https://diariodibordo.github.io/</link></image><item><title>Equipaggiamento</title><link>https://diariodibordo.github.io/rules/equipaggiamento/</link><pubDate>Sat, 20 Jan 2024 04:01:54 +0100</pubDate><guid>https://diariodibordo.github.io/rules/equipaggiamento/</guid><description/></item><item><title>Draghi dell'Isola delle Tempeste</title><link>https://diariodibordo.github.io/logs/draghi-isola-tempeste/</link><pubDate>Fri, 19 Jan 2024 12:01:36 +0100</pubDate><guid>https://diariodibordo.github.io/logs/draghi-isola-tempeste/</guid><description>&lt;p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Indice | Diario di Bordo</title><link>https://diariodibordo.github.io/</link><atom:link href="https://diariodibordo.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Indice</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>it</language><lastBuildDate>Sun, 28 Jan 2024 01:01:18 +0100</lastBuildDate><image><url>https://diariodibordo.github.io/media/icon_hu26adfb5ce2d32387d10aa42e394c6120_38733_512x512_fill_lanczos_center_3.png</url><title>Indice</title><link>https://diariodibordo.github.io/</link></image><item><title>Equipaggiamento</title><link>https://diariodibordo.github.io/rules/equipaggiamento/</link><pubDate>Sat, 20 Jan 2024 04:01:54 +0100</pubDate><guid>https://diariodibordo.github.io/rules/equipaggiamento/</guid><description/></item><item><title>Draghi dell'Isola delle Tempeste</title><link>https://diariodibordo.github.io/logs/draghi-isola-tempeste/</link><pubDate>Fri, 19 Jan 2024 12:01:36 +0100</pubDate><guid>https://diariodibordo.github.io/logs/draghi-isola-tempeste/</guid><description>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img src="https://diariodibordo.github.io/uploads/imgs/campaigns/stormwreck-isle/00-001.png" alt="Splash" loading="lazy" data-zoomable />&lt;/div>
@@ -474,7 +474,61 @@ effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;
 &lt;p>&amp;hellip;&lt;/p>
 &lt;h2 id="azioni">Azioni&lt;/h2>
 &lt;h3 id="lottare">Lottare&lt;/h3>
-&lt;p>&amp;hellip;&lt;/p></description></item><item><title>Condizioni</title><link>https://diariodibordo.github.io/rules/condizioni/</link><pubDate>Sun, 21 Jan 2024 11:01:03 +0100</pubDate><guid>https://diariodibordo.github.io/rules/condizioni/</guid><description>&lt;p>PHB. 290-292&lt;/p>
+&lt;p>&amp;hellip;&lt;/p></description></item><item><title>Mostri</title><link>https://diariodibordo.github.io/rules/mostri/</link><pubDate>Sun, 28 Jan 2024 01:01:18 +0100</pubDate><guid>https://diariodibordo.github.io/rules/mostri/</guid><description>&lt;p>L&amp;rsquo;ordine delle sezioni di questa pagina ripercorre sequenzialmente le statistiche presenti nella scheda di un mostro di DnD 5e.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://diariodibordo.github.io/uploads/imgs/monsters/ancient-red-dragon-page.jpg_large" alt="red-dragon" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="sfida">Sfida&lt;/h2>
+&lt;p>Il &lt;strong>grado di sfida&lt;/strong> di un mostro indica quanto è grave la minaccia costituita dal mostro secondo le indicazioni per la pianificazione degli incontri (DMG).&lt;/p>
+&lt;h2 id="punti-esperienza">Punti Esperienza&lt;/h2>
+&lt;p>I &lt;strong>punti esperienza&lt;/strong> (PE) dati da un mostro dipendono dal suo grado di sfida.&lt;/p>
+&lt;p>I PE possono venire concessi:&lt;/p>
+&lt;ul>
+&lt;li>Quando il mostro viene sconfitto.&lt;/li>
+&lt;li>Quando la minaccia viene sventata in altri modi.&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Grado di Sfida&lt;/th>
+&lt;th>Punti Esperienza&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>0&lt;/td>
+&lt;td>0 o 10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1/8&lt;/td>
+&lt;td>25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1/4&lt;/td>
+&lt;td>50&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1/2&lt;/td>
+&lt;td>100&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1&lt;/td>
+&lt;td>200&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2&lt;/td>
+&lt;td>450&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>da completare &amp;hellip;&lt;/td>
+&lt;td>&amp;hellip;&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="creature-leggendarie">Creature Leggendarie&lt;/h2></description></item><item><title>Condizioni</title><link>https://diariodibordo.github.io/rules/condizioni/</link><pubDate>Sun, 21 Jan 2024 11:01:03 +0100</pubDate><guid>https://diariodibordo.github.io/rules/condizioni/</guid><description>&lt;p>PHB. 290-292&lt;/p>
 &lt;p>Una &lt;strong>condizione&lt;/strong> permane finchè non viene contrastata, o per una durata specifica dell&amp;rsquo;effetto che l&amp;rsquo;ha impostata.&lt;/p>
 &lt;p>Se più effetti impongono la stessa condizione su una creatura, ogni istanza di quella condizione ha una sua durata, ma gli effetti di una condizione non peggiorano.&lt;/p>
 &lt;ul>
@@ -593,58 +647,4 @@ effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;
 &lt;td>Morte.&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title>Mostri</title><link>https://diariodibordo.github.io/rules/mostri/</link><pubDate>Sun, 21 Jan 2024 11:01:03 +0100</pubDate><guid>https://diariodibordo.github.io/rules/mostri/</guid><description>&lt;p>L&amp;rsquo;ordine delle sezioni di questa pagina ripercorre sequenzialmente le statistiche presenti nella scheda di un mostro di DnD 5e.&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://diariodibordo.github.io/uploads/imgs/monsters/ancient-red-dragon-page.jpg_large" alt="red-dragon" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;h2 id="sfida">Sfida&lt;/h2>
-&lt;p>Il &lt;strong>grado di sfida&lt;/strong> di un mostro indica quanto è grave la minaccia costituita dal mostro secondo le indicazioni per la pianificazione degli incontri (DMG).&lt;/p>
-&lt;h2 id="punti-esperienza">Punti Esperienza&lt;/h2>
-&lt;p>I &lt;strong>punti esperienza&lt;/strong> (PE) dati da un mostro dipendono dal suo grado di sfida.&lt;/p>
-&lt;p>I PE possono venire concessi:&lt;/p>
-&lt;ul>
-&lt;li>Quando il mostro viene sconfitto.&lt;/li>
-&lt;li>Quando la minaccia viene sventata in altri modi.&lt;/li>
-&lt;/ul>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Grado di Sfida&lt;/th>
-&lt;th>Punti Esperienza&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>0&lt;/td>
-&lt;td>0 o 10&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>1/8&lt;/td>
-&lt;td>25&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>1/4&lt;/td>
-&lt;td>50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>1/2&lt;/td>
-&lt;td>100&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>1&lt;/td>
-&lt;td>200&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>2&lt;/td>
-&lt;td>450&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>da completare &amp;hellip;&lt;/td>
-&lt;td>&amp;hellip;&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="creature-leggendarie">Creature Leggendarie&lt;/h2></description></item></channel></rss>
+&lt;/table></description></item></channel></rss>
