@@ -323,61 +323,7 @@ effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;
 &lt;p>&amp;hellip;&lt;/p>
 &lt;h2 id="azioni">Azioni&lt;/h2>
 &lt;h3 id="lottare">Lottare&lt;/h3>
-&lt;p>&amp;hellip;&lt;/p></description></item><item><title>Mostri</title><link>https://diariodibordo.github.io/rules/mostri/</link><pubDate>Sun, 28 Jan 2024 01:01:18 +0100</pubDate><guid>https://diariodibordo.github.io/rules/mostri/</guid><description>&lt;p>L&amp;rsquo;ordine delle sezioni di questa pagina ripercorre sequenzialmente le statistiche presenti nella scheda di un mostro di DnD 5e.&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://diariodibordo.github.io/uploads/imgs/monsters/ancient-red-dragon-page.jpg_large" alt="red-dragon" loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;h2 id="sfida">Sfida&lt;/h2>
-&lt;p>Il &lt;strong>grado di sfida&lt;/strong> di un mostro indica quanto è grave la minaccia costituita dal mostro secondo le indicazioni per la pianificazione degli incontri (DMG).&lt;/p>
-&lt;h2 id="punti-esperienza">Punti Esperienza&lt;/h2>
-&lt;p>I &lt;strong>punti esperienza&lt;/strong> (PE) dati da un mostro dipendono dal suo grado di sfida.&lt;/p>
-&lt;p>I PE possono venire concessi:&lt;/p>
-&lt;ul>
-&lt;li>Quando il mostro viene sconfitto.&lt;/li>
-&lt;li>Quando la minaccia viene sventata in altri modi.&lt;/li>
-&lt;/ul>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Grado di Sfida&lt;/th>
-&lt;th>Punti Esperienza&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>0&lt;/td>
-&lt;td>0 o 10&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>1/8&lt;/td>
-&lt;td>25&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>1/4&lt;/td>
-&lt;td>50&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>1/2&lt;/td>
-&lt;td>100&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>1&lt;/td>
-&lt;td>200&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>2&lt;/td>
-&lt;td>450&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>da completare &amp;hellip;&lt;/td>
-&lt;td>&amp;hellip;&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="creature-leggendarie">Creature Leggendarie&lt;/h2></description></item><item><title>Condizioni</title><link>https://diariodibordo.github.io/rules/condizioni/</link><pubDate>Sun, 21 Jan 2024 11:01:03 +0100</pubDate><guid>https://diariodibordo.github.io/rules/condizioni/</guid><description>&lt;p>PHB. 290-292&lt;/p>
+&lt;p>&amp;hellip;&lt;/p></description></item><item><title>Condizioni</title><link>https://diariodibordo.github.io/rules/condizioni/</link><pubDate>Sun, 21 Jan 2024 11:01:03 +0100</pubDate><guid>https://diariodibordo.github.io/rules/condizioni/</guid><description>&lt;p>PHB. 290-292&lt;/p>
 &lt;p>Una &lt;strong>condizione&lt;/strong> permane finchè non viene contrastata, o per una durata specifica dell&amp;rsquo;effetto che l&amp;rsquo;ha impostata.&lt;/p>
 &lt;p>Se più effetti impongono la stessa condizione su una creatura, ogni istanza di quella condizione ha una sua durata, ma gli effetti di una condizione non peggiorano.&lt;/p>
 &lt;ul>
@@ -496,4 +442,95 @@ effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;
 &lt;td>Morte.&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item></channel></rss>
+&lt;/table></description></item><item><title>Mostri</title><link>https://diariodibordo.github.io/rules/mostri/</link><pubDate>Sun, 28 Jan 2024 01:01:18 +0100</pubDate><guid>https://diariodibordo.github.io/rules/mostri/</guid><description>&lt;p>L&amp;rsquo;ordine delle sezioni di questa pagina ripercorre sequenzialmente le statistiche presenti nella scheda di un mostro di DnD 5e.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://diariodibordo.github.io/uploads/imgs/monsters/ancient-red-dragon-page.jpg_large" alt="red-dragon" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="taglia">Taglia&lt;/h2>
+&lt;h2 id="tipo">Tipo&lt;/h2>
+&lt;h3 id="descrittori">Descrittori&lt;/h3>
+&lt;h2 id="allineamento">Allineamento&lt;/h2>
+&lt;h2 id="classe-armatura">Classe Armatura&lt;/h2>
+&lt;h2 id="punti-ferita">Punti Ferita&lt;/h2>
+&lt;h2 id="velocità">Velocità&lt;/h2>
+&lt;h3 id="nuotare">Nuotare&lt;/h3>
+&lt;h3 id="scalare">Scalare&lt;/h3>
+&lt;h3 id="scavare">Scavare&lt;/h3>
+&lt;h3 id="volare">Volare&lt;/h3>
+&lt;h2 id="punteggi-di-caratteristica">Punteggi Di Caratteristica&lt;/h2>
+&lt;h2 id="tiri-salvezza">Tiri Salvezza&lt;/h2>
+&lt;h2 id="abilità">Abilità&lt;/h2>
+&lt;h2 id="vulnerabilità-resistenze-e-immunità">Vulnerabilità, Resistenze e Immunità&lt;/h2>
+&lt;h2 id="sensi"> Sensi&lt;/h2>
+&lt;h3 id="percezione-tellurica">Percezione Tellurica&lt;/h3>
+&lt;h3 id="scurovisione">Scurovisione&lt;/h3>
+&lt;h3 id="vista-cieca">Vista Cieca&lt;/h3>
+&lt;h3 id="vista-pura">Vista Pura&lt;/h3>
+&lt;h2 id="linguaggi">Linguaggi&lt;/h2>
+&lt;h3 id="telepatia">Telepatia&lt;/h3>
+&lt;h2 id="sfida">Sfida&lt;/h2>
+&lt;p>Il &lt;strong>grado di sfida&lt;/strong> di un mostro indica quanto è grave la minaccia costituita dal mostro secondo le indicazioni per la pianificazione degli incontri (DMG).&lt;/p>
+&lt;h3 id="punti-esperienza">Punti Esperienza&lt;/h3>
+&lt;p>I &lt;strong>punti esperienza&lt;/strong> (PE) dati da un mostro dipendono dal suo grado di sfida.&lt;/p>
+&lt;p>I PE possono venire concessi:&lt;/p>
+&lt;ul>
+&lt;li>Quando il mostro viene sconfitto.&lt;/li>
+&lt;li>Quando la minaccia viene sventata in altri modi.&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Grado di Sfida&lt;/th>
+&lt;th>Punti Esperienza&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>0&lt;/td>
+&lt;td>0 o 10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1/8&lt;/td>
+&lt;td>25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1/4&lt;/td>
+&lt;td>50&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1/2&lt;/td>
+&lt;td>100&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1&lt;/td>
+&lt;td>200&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2&lt;/td>
+&lt;td>450&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>da completare &amp;hellip;&lt;/td>
+&lt;td>&amp;hellip;&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="tratti-speciali">Tratti Speciali&lt;/h2>
+&lt;h3 id="incantesimi-innati">Incantesimi Innati&lt;/h3>
+&lt;h3 id="incantesimi">Incantesimi&lt;/h3>
+&lt;h3 id="poteri-psionici">Poteri Psionici&lt;/h3>
+&lt;h2 id="azioni">Azioni&lt;/h2>
+&lt;h3 id="attacchi-in-miscia-e-a-distanza">Attacchi in Miscia e a Distanza&lt;/h3>
+&lt;h3 id="multiattacco">Multiattacco&lt;/h3>
+&lt;h3 id="munizioni">Munizioni&lt;/h3>
+&lt;h2 id="reazioni">Reazioni&lt;/h2>
+&lt;h2 id="uso-limitato">Uso Limitato&lt;/h2>
+&lt;h2 id="equipaggiamento"> Equipaggiamento&lt;/h2>
+&lt;h2 id="creature-leggendarie">Creature Leggendarie&lt;/h2>
+&lt;h3 id="azioni-leggendarie"> Azioni Leggendarie&lt;/h3>
+&lt;h3 id="la-tana-di-una-creatura-leggendaria">La Tana di una Creatura Leggendaria&lt;/h3>
+&lt;h4 id="azioni-di-tana">Azioni di Tana&lt;/h4>
+&lt;h4 id="effetti-regionali">Effetti Regionali&lt;/h4></description></item></channel></rss>
