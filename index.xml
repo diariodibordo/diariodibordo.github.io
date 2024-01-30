@@ -667,7 +667,7 @@ effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;
 &lt;/tr>
 &lt;tr>
 &lt;td>Bestie&lt;/td>
-&lt;td>Creature non umanoidi che fanno parte del mondo naturale nell&amp;rsquo;ecologia fantastica.&lt;/td>
+&lt;td>Creature non umanoidi che fanno parte del mondo naturale nell&amp;rsquo;ecologia fantastica. Alcune possono avere poteri magici, ma la maggior parte non sono dotate di inteligenza, parlare un linguaggio e fare parte di una società.&lt;/td>
 &lt;td>Tutte le varietà di animali comuni, dinosauri e le versioni giganti degli animali.&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -692,43 +692,43 @@ effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;
 &lt;/tr>
 &lt;tr>
 &lt;td>Folletti&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Creature magiche strettamente legate alle forze della natura che si nascondono nei boschi crepuscolari e nelle foreste nebbiose. In alcuni mondi sono strettamente legati alla &lt;a href="">Selva Fatata&lt;/a> (nota anche come &lt;a href="">Piano di Faerie&lt;/a>). Alcuni sono presenti sui &lt;a href="">Piani Esterni&lt;/a>.&lt;/td>
+&lt;td>Driadi, Pixie, Satiri&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Giganti&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Sovrastano gli umani e i loro simili. Generalmente hanno forma umana, anche se alcuni possono avere più teste o essere afflitti da varie deformità. Vi sono sei varietà di giganti puri:&lt;ul>&lt;li>Giganti delle colline&lt;/li>&lt;li>Giganti delle pietre&lt;/li>&lt;li>Giganti del gelo&lt;/li>&lt;li>Giganti del fuoco&lt;/li>&lt;li>Giganti delle nuvole&lt;/li>&lt;li>Giganti delle tempeste&lt;/li>&lt;/ul>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Immondi&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Creature maligne originarie dei &lt;a href="">Piani Inferiori&lt;/a>. Alcuni servono una divinità, ma molti altri obbgediscono agli ordini degli arcidiavoli e dei principi dei demoni.&lt;br>&lt;br>Talvolta, i sacerdoti e i maghi malvagi evocano gli immondi sul &lt;a href="">Piano Materiale&lt;/a> affinchè obbediscano al loro ordini. Se un celestiale malvagio è una rarità, un immondo buono è inconcepibile.&lt;/td>
+&lt;td>Demoni, Diavoli, Segugi infernali, Rakshasa, Yugoloth&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Melme&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Creature gelatinose che raramente mantengono una forma fissa. Vivono per lo più sottoterra, nelle caverne e nei dungeon, dove si cibano di sporcizia, carogne o dagli sfortunati che incrociano il loro cammino.&lt;/td>
+&lt;td>Protoplasma nero, Cubo gelatinoso&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Mostruosità&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Creature spaventose fuori dal comune. Alcune sono il risultato di un esperimento magico andato storto (orsigufo), mentre altri sono il frutto di una terribile maledizione (es. minotauro e/o yuan ti). Sfidano ogni tentativo di essere categorizzati e in un certo senso vanno a costituire una categoria omnicomprensiva per tutte quelle creature che non rientrano in nessun altro tipo.&lt;/td>
+&lt;td>Orsogufo, Yuan ti, Verme purpureo, Vermeiena&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Non morti&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Creatiure che un tempo erano vive ma che ora sono precipitate in un orrendo stato di non morte attraverso la pratica di magie necromantiche o qualche maledizione sacrilega.&lt;/td>
+&lt;td>Cadaveri ambulanti, Vampiri, Zombi, Fantasmi, Spettri&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Umanoidi&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Popoli principali del mondo di DnD, civilizzati o selvaggi che siano, negli umani sono incluse una vasta gamma di specie. Dotati di linguaggio, cultura e in alcuni rari casi di poteri magici innati.&lt;/td>
+&lt;td>Umani, Nani, Elfi, Haalfling, Orchi, Goblin&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Vegetali&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>Creature vegetali (non flora comune). Molte di queste sono in grado di deambulare e alcuni sono carnivori.&lt;/td>
+&lt;td>Cumulo strisciante, Treant, Spora gassosa, Miconide&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
