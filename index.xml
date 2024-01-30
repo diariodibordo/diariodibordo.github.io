@@ -635,7 +635,16 @@ effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://diariodibordo.github.io/uploads/imgs/monsters/dungeons-and-dragons-creature-size-examples.avif" alt="red-dragon" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
 &lt;p>Un DM potrebbe avere bisogno di una creatura ad hoc, è possibile fare questo ritoccando una già esistente per renderla utile ai propri scopi, prendendo caratteristiche da altri mostri o usando una &lt;strong>variante&lt;/strong> o &lt;strong>archetipo&lt;/strong> (MM).&lt;/p>
+&lt;ul>
+&lt;li>La taglia di un mostro condiziona il modo in cui lo si affronta, vedere la sezione &lt;a href="https://diariodibordo.github.io/rules/combattimento">taglia&lt;/a> delle regole di combattimento (TODO).&lt;/li>
+&lt;/ul>
 &lt;h2 id="tipo">Tipo&lt;/h2>
 &lt;p>Il &lt;strong>tipo&lt;/strong> di un mostro definisce la sua natura fondamentale.&lt;/p>
 &lt;h3 id="descrittori">Descrittori&lt;/h3>
