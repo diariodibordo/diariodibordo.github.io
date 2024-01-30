@@ -647,6 +647,91 @@ effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;
 &lt;/ul>
 &lt;h2 id="tipo">Tipo&lt;/h2>
 &lt;p>Il &lt;strong>tipo&lt;/strong> di un mostro definisce la sua natura fondamentale.&lt;/p>
+&lt;ul>
+&lt;li>Alcuni effetti (es., &lt;em>magie&lt;/em>, &lt;em>privilegi di classe&lt;/em>, &amp;hellip;) si applicano su dei tipi particolari di creature.&lt;/li>
+&lt;/ul>
+&lt;p>Il gioco include i seguenti tipi di mostro a cui non è associata alcuna regola intrinseca:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Tipo&lt;/th>
+&lt;th>Descrizione&lt;/th>
+&lt;th>Esempi&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Aberrazioni&lt;/td>
+&lt;td>Esseri totalmente alieni le cui magie sono frutto della loro mente aliena.&lt;/td>
+&lt;td>Mind flayer, Beholder, Aboleth, Slaadi&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Bestie&lt;/td>
+&lt;td>Creature non umanoidi che fanno parte del mondo naturale nell&amp;rsquo;ecologia fantastica.&lt;/td>
+&lt;td>Tutte le varietà di animali comuni, dinosauri e le versioni giganti degli animali.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Celestiali&lt;/td>
+&lt;td>Creature originarie dei &lt;a href="">Piani Superiori&lt;/a>, sono di natura buona e solitamente fungono da messaggeri o agenti sul &lt;a href="">Piano Mortale&lt;/a> o su altri piani.&lt;/td>
+&lt;td>Angeli, Couatl, Pegasi&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Costrutti&lt;/td>
+&lt;td>Anzichè nascere vengono fabbricati. Alcuni sono programmati per eseguire istruzioni semplici, altri sono senzienti ed ingrado di pensare in modo indipendente.&lt;/td>
+&lt;td>Golem, Modron&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Draghi&lt;/td>
+&lt;td>Creature rettili di origini antiche e di grande potenza. I draghi puri, metallici buoni e draghi cromatici malvagi, sono creature di grande intelligenza e dotate di poteri magici innati. In questa categoria vi sono anche creature imparentate alla lontana con i draghi puri, seppure meno potenti.&lt;/td>
+&lt;td>Draghi, Viverne, Pseudodraghi&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elementali&lt;/td>
+&lt;td>Creature originarie dei &lt;a href="">Piani Elementali&lt;/a>. Alcune di queste creature sono masse animate dal loro rispettivo elemento, mentre altre sono di forma biologica in cui è stata infusa energia elementale.&lt;/td>
+&lt;td>Djiin, Efreet, Azer, Cacciatori invisibili, Fatali dell&amp;rsquo;acqua&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Folletti&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Giganti&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Immondi&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Melme&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Mostruosità&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Non morti&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Umanoidi&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Vegetali&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
 &lt;h3 id="descrittori">Descrittori&lt;/h3>
 &lt;h2 id="allineamento">Allineamento&lt;/h2>
 &lt;h2 id="classe-armatura">Classe Armatura&lt;/h2>
