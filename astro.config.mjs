@@ -19,7 +19,7 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Logs',
+					label: '📝 Logs',
 					autogenerate: { directory: 'logs' },
 				},
 				{
