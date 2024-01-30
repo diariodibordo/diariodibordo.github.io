@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>📚 Manuale | Diario di Bordo</title><link>https://diariodibordo.github.io/rules/</link><atom:link href="https://diariodibordo.github.io/rules/index.xml" rel="self" type="application/rss+xml"/><description>📚 Manuale</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>it</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate><image><url>https://diariodibordo.github.io/media/icon_hu26adfb5ce2d32387d10aa42e394c6120_38733_512x512_fill_lanczos_center_3.png</url><title>📚 Manuale</title><link>https://diariodibordo.github.io/rules/</link></image><item><title>Equipaggiamento</title><link>https://diariodibordo.github.io/rules/equipaggiamento/</link><pubDate>Sat, 20 Jan 2024 04:01:54 +0100</pubDate><guid>https://diariodibordo.github.io/rules/equipaggiamento/</guid><description/></item><item><title>Punteggi di Caratteristica</title><link>https://diariodibordo.github.io/rules/punteggi-caratteristica/</link><pubDate>Sat, 20 Jan 2024 04:01:54 +0100</pubDate><guid>https://diariodibordo.github.io/rules/punteggi-caratteristica/</guid><description>&lt;p>Le sei caratteristiche forniscono una descrizione rapida delle facoltà fisiche e mentali di ogni creatura.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Caratteristica&lt;/th>
+&lt;th>Descrizione&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Forza&lt;/td>
+&lt;td>Misura la potenza fisica.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Destrezza&lt;/td>
+&lt;td>Misura l&amp;rsquo;agilità.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Costituzione&lt;/td>
+&lt;td>Misura la resistenza.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Intelligenza&lt;/td>
+&lt;td>Misura il ragionamento e la memoria.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Saggezza&lt;/td>
+&lt;td>Misura la percezione e l&amp;rsquo;intuizione.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Carisma&lt;/td>
+&lt;td>Misura la forza di personalità.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="modificatori">Modificatori&lt;/h2>
+&lt;p>Un &lt;strong>punteggio di caratteristica&lt;/strong> non misura semplicemente le capacità innate, ma abbraccia anche l&amp;rsquo;addestramento di una creatura e la sua competenza nelle attività correlate a quella caratteristica.&lt;/p>
+&lt;ul>
+&lt;li>Avventurieri possono raggiungere punteggi pari a 20 (anche solitamente si fermano a 18).&lt;/li>
+&lt;li>Mostri e esseri divini possono arrivare a 30.&lt;/li>
+&lt;/ul>
+&lt;p>A ogni caratteristica è abbinato un &lt;strong>modificatore&lt;/strong> derivato dal &lt;strong>punteggio caratteristica&lt;/strong>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Punteggio di Caratteristica&lt;/th>
+&lt;th>Modificatore&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1&lt;/td>
+&lt;td>-5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2-3&lt;/td>
+&lt;td>-4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4-5&lt;/td>
+&lt;td>-3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6-7&lt;/td>
+&lt;td>-2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>8-9&lt;/td>
+&lt;td>-1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10-11&lt;/td>
+&lt;td>+0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12-13&lt;/td>
+&lt;td>+1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>14-15&lt;/td>
+&lt;td>+2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>16-17&lt;/td>
+&lt;td>+3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>18-19&lt;/td>
+&lt;td>+4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>20-21&lt;/td>
+&lt;td>+5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>22-23&lt;/td>
+&lt;td>+6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>24-25&lt;/td>
+&lt;td>+7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>26-27&lt;/td>
+&lt;td>+8&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>28-29&lt;/td>
+&lt;td>+9&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>30&lt;/td>
+&lt;td>+10&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Dal momento che i modificatori di caratteristica influenzano praticamente ogni &lt;strong>tiro per colpire&lt;/strong>, &lt;strong>prove di caratteristica&lt;/strong> e &lt;strong>tiro salvezza&lt;/strong>, essi entrano molto più spesso in gioco dei &lt;strong>punteggi di caratteristica&lt;/strong> a cui sono associati.&lt;/p>
+&lt;p>Pag. 172 PHB&lt;/p>
+&lt;h2 id="bonus-di-competenza">Bonus di competenza&lt;/h2>
+&lt;p>Il &lt;strong>bonus di competenza&lt;/strong> viene usato nelle regole relative alle &lt;em>prove di caratteristica&lt;/em>, ai &lt;em>tiri salvezza&lt;/em> e ai &lt;em>tiri per colpire&lt;/em>.&lt;/p>
+&lt;ul>
+&lt;li>Ogni personaggio possiede un &lt;strong>bonus di competenza&lt;/strong> determianto dal &lt;em>livello&lt;/em>.&lt;/li>
+&lt;li>Il &lt;strong>bonus di competenza&lt;/strong> non può essere aggiunto ad un singolo tiro del dado o ad un altro numero &lt;strong>più di una volta&lt;/strong>.
+&lt;ul>
+&lt;li>In alcune occasioni il bonus di competenza può essere moltiplicato o diviso (es., privilegi).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Se una circostanza suggerisce che il bonus di competenza del personaggio vada applicato più di una volta al tiro, il personaggio lo applica lo stesso una volta e lo moltiplica e lo divide soltanto una volta.&lt;/li>
+&lt;li>Se il &lt;strong>bonus competenza&lt;/strong> di un personaggio viene moltiplicato in una prova che non utilizza il bonus, il bonus non viene comunque aggiunto alla prova (sarebbe come moltiplicare per 0).&lt;/li>
+&lt;/ul>
+&lt;p>In generale, un personaggio non moltiplica il suo &lt;strong>bonus di competenza&lt;/strong> ai &lt;strong>tiri per colpire&lt;/strong> o ai &lt;strong>tiri salvezza&lt;/strong>. Se un privilegio o un effetot gli consente di farlok, si applicano le regole sopracitate.&lt;/p>
+&lt;p>Pag. 173 PHB&lt;/p>
+&lt;h2 id="prove-di-caratteristica">Prove di caratteristica&lt;/h2>
+&lt;p>Una prova che misura le doti innate e l&amp;rsquo;addestramento di un personaggio o di un mostro di fronte a una sfida da superare.&lt;/p>
+&lt;p>Il DM richiede una &lt;strong>prova di caratteristica&lt;/strong> quando un personaggio o un mostro si cimenta in un&amp;rsquo;azione (diversa da un &lt;em>attacco&lt;/em>) con esito incerto.&lt;/p>
+&lt;p>Per ogni prova di caratteristica, il DM decide quale delle sei caratteristiche è rilevante per l&amp;rsquo;impresa da compiere e la difficoltà dell&amp;rsquo;impresa, rappresentata da una Classe Difficoltà (CD).&lt;/p>
+&lt;p>Per effettuare una prova di caratteristica si tira un d20 e si aggiunge il modificatore di caratteristica. Come negli altri tiri del d20 si applicano i bonus e le penalità previste e confronta il totale con la CD.&lt;/p>
+&lt;ul>
+&lt;li>Se l&amp;rsquo;esito è pari o superiore alla CD, la prova si considera superata.&lt;/li>
+&lt;li>Altrimenti la prova è considerata un fallimento, ovvero che il personaggio o il mostro non fa progressi verso il suo obiettivo (svantaggio determinato dal DM, potrebbe essere anche un piccolo progresso).&lt;/li>
+&lt;/ul>
+&lt;h3 id="classi-difficoltà-tipiche">Classi Difficoltà Tipiche&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Difficoltà dell&amp;rsquo;impresa&lt;/th>
+&lt;th>CD&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Molto Facile&lt;/td>
+&lt;td>5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Facile&lt;/td>
+&lt;td>10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Media&lt;/td>
+&lt;td>15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Difficile&lt;/td>
+&lt;td>20&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Molto Difficile&lt;/td>
+&lt;td>25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Quasi Impossibile&lt;/td>
+&lt;td>30&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="contese">Contese&lt;/h3>
+&lt;p>Forma speciale di &lt;strong>prova di caratteristica&lt;/strong> che capita quando gli sforzi di un personaggio o di un mostro sono direttamente contrapposti a quelli di qualcun&amp;rsquo;altro.&lt;/p>
+&lt;p>Entrambi i partecipanti a una contesa effettuano &lt;strong>prove di caratteristica&lt;/strong> separate che rappresentano i loro sforzi.&lt;/p>
+&lt;ul>
+&lt;li>Applicano tutti i bonus e le penalità appropriate, ma invece di confrontare il totale a una CD, confrontano i totali delle due prove tra loro.&lt;/li>
+&lt;li>Il contendente che ha ottenuto il totale di prova più alto vince la &lt;strong>contesa&lt;/strong>.&lt;/li>
+&lt;li>Se la &lt;strong>contesa&lt;/strong> termina in un pareggio, la situazione rimane quella che era prima della contesa, entrambi i partecipanti non riescono a raggiungere l&amp;rsquo;obiettivo desiderato.&lt;/li>
+&lt;/ul>
+&lt;p>Pag. 174 PHB&lt;/p>
+&lt;h2 id="abilità">Abilità&lt;/h2>
+&lt;p>Un &lt;strong>abilità&lt;/strong> rappresenta un aspetto specifico di un punteggio di caratteristica, e la competenza di un soggetto in quell&amp;rsquo;abilità rappresenta un certo grado di specializzazione in quell&amp;rsquo;aspetto.&lt;/p>
+&lt;ul>
+&lt;li>Un giocatore potrebbe chiedere al DM se la competenza in una particolare abilità può essere applicata a una prova.&lt;/li>
+&lt;/ul>
+&lt;p>In entrambi i casi, la competenza in un&amp;rsquo;abilità significa che un individuo può aggiungere il proprio bonus di competenza alle prove di caratteristica relative a quell&amp;rsquo;abilità.&lt;/p>
+&lt;ul>
+&lt;li>Senza competenza in quell&amp;rsquo;abilità un individuo effettua una normale prova di caratteristica.&lt;/li>
+&lt;/ul>
+&lt;p>PHB. 174&lt;/p>
+&lt;h3 id="abilità-con-caratteristiche-diverse">Abilità con caratteristiche diverse&lt;/h3>
+&lt;h2 id="prove-passive">Prove Passive&lt;/h2>
+&lt;p>Una &lt;strong>prova passiva&lt;/strong> è un tipo particolare di &lt;strong>prova di caratteristica&lt;/strong> che non richiede alcun tiro del dado.&lt;/p>
+&lt;p>Rappresenta il risultato medio di un azione intrapresa ripetutamente, nell&amp;rsquo;arco di un periodo di tempo.&lt;/p>
+&lt;ul>
+&lt;li>In alternativa, può essere usata quando il DM vuole determinare segretamente se i personaggi riescono a fare qualcosa senza tirare i dadi (es., notare un mostro nascosto).&lt;/li>
+&lt;/ul>
+&lt;p>Il totale della prova passiva di un personaggio si determina nel modo seguente:&lt;/p>
+&lt;p>10 + tutti i modificatori che normalmente si applicano alla prova.&lt;/p>
+&lt;ul>
+&lt;li>Se il personaggio dispone di vantaggio alla prova, si aggiunge 5, in caso di svantaggio si sottrae 5.&lt;/li>
+&lt;/ul>
+&lt;p>Il totale di una prova passiva è indicato come &lt;strong>punteggio&lt;/strong>.&lt;/p>
+&lt;p>PHB. 175&lt;/p>
+&lt;h2 id="collaborare">Collaborare&lt;/h2>
+&lt;p>Due o più personaggi possono unire le forze nel tentativo di portare a termine un&amp;rsquo;impresa. Il personaggio che guida l&amp;rsquo;operazione (o quello con il modificatore di caratteristica più alto) può
+effettuare una &lt;strong>prova di caratteristica&lt;/strong> disponendo di &lt;strong>vantaggio&lt;/strong>, rappresentato dall&amp;rsquo;aiuto che riceve dagli altri personaggi.&lt;/p>
+&lt;ul>
+&lt;li>In &lt;em>combattimento&lt;/em> questo richiede l&amp;rsquo;azione di &lt;strong>Aiuto&lt;/strong>.&lt;/li>
+&lt;li>Un personaggio può aiutare soltanto se sarebbe in grado di svolgere quell&amp;rsquo;impresa da solo (ha competenza nella caratteristica interessata).&lt;/li>
+&lt;li>Un personaggio può aiutare quando la collaborazione tra i due è concretamente praticabile (non basta dire che aiuta).&lt;/li>
+&lt;/ul>
+&lt;p>PHB. 175&lt;/p>
+&lt;h3 id="prove-di-gruppo">Prove di Gruppo&lt;/h3>
+&lt;p>Il DM può richiedere una &lt;strong>prova di caratteristica&lt;/strong> di gruppo.&lt;/p>
+&lt;ul>
+&lt;li>I personaggi abili in una determinata impresa aiutano quelli che non lo sono.&lt;/li>
+&lt;/ul>
+&lt;p>Ogni membro del gruppo effettua la &lt;strong>prova di caratteristica&lt;/strong> richiesta. Se almeno metà del gruppo ha successo, l&amp;rsquo;intero gruppo ha successo, altrimenti fallisce (es., sabbie mobili in una palude).&lt;/p>
+&lt;p>PHB. 175&lt;/p>
+&lt;h2 id="descrizione-delle-caratteristiche"> Descrizione delle Caratteristiche&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Caratteristica&lt;/th>
+&lt;th>Utilizzi&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Forza&lt;/td>
+&lt;td>&lt;ul>&lt;li>Prove di Forza&lt;/li>&lt;li>Tiri per Colpire e Danni (Armi da Mischia)&lt;/li>&lt;li>Sollevamento e Trasporto&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Destrazza&lt;/td>
+&lt;td>&lt;ul>&lt;li>Prove di Destrezza&lt;/li>&lt;li>Tiri per Colpire e Danni (Armi a Distanza)&lt;/li>&lt;li>Classe Armatura&lt;/li>&lt;li>Iniziativa&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Costituzione&lt;/td>
+&lt;td>&lt;ul>&lt;li>Prove di Costituzione&lt;/li>&lt;li>Punti Ferita&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Intelligenza&lt;/td>
+&lt;td>&lt;ul>&lt;li>Prove di Intelligenza&lt;/li>&lt;li>Caratteristica da Incantatore&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Saggezza&lt;/td>
+&lt;td>&lt;ul>&lt;li>Prove di Saggezza&lt;/li>&lt;li>Caratteristica da Incantatore&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Carisma&lt;/td>
+&lt;td>&lt;ul>&lt;li>Prove di Carisma&lt;/li>&lt;li>Caratteristica da Incantatore&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="forza">Forza&lt;/h3>
+&lt;p>Misura la potenza del proprio corpo.&lt;/p>
+&lt;h4 id="prove-di-forza">Prove di Forza&lt;/h4>
+&lt;p>L&amp;rsquo;abilità &lt;strong>Atletica&lt;/strong> rappresenta una maggiore prestanza in certi tipi di &lt;strong>prove di forza&lt;/strong>.&lt;/p>
+&lt;ul>
+&lt;li>Nuotare, saltare, scalare, rimanere a galla in un mare in tempesta, &amp;hellip;&lt;/li>
+&lt;/ul>
+&lt;h4 id="tiri-per-colpire-e-danni">Tiri Per Colpire e Danni&lt;/h4>
+&lt;p>Un personaggio utilizza il modificatore di &lt;strong>forza&lt;/strong> ai suoi &lt;strong>tiri per colpire&lt;/strong> e &lt;strong>tiri per i danni&lt;/strong>, quando utilizza un&amp;rsquo;&lt;em>arma da mischia&lt;/em>.&lt;/p>
+&lt;ul>
+&lt;li>Alcune armi da mischia possono essere utilizzate per effettuare attacchi a distanza.&lt;/li>
+&lt;/ul>
+&lt;h4 id="sollevamento-e-trasporto">Sollevamento e Trasporto&lt;/h4>
+&lt;p>Il punteggio di &lt;strong>forza&lt;/strong> di un personaggio determina il peso che può trasportare.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Capacità di Trasporto&lt;/strong>, la capacità di trasporto di un personaggio è pari al punteggio &lt;strong>forza&lt;/strong> moltiplicato per 7,5 kg.&lt;/li>
+&lt;li>&lt;strong>Spingere, Trascinare o Sollevare&lt;/strong>, un personaggio può compiere queste azioni su un oggetto di massa massimo 15 volte il suo punteggio di &lt;strong>forza&lt;/strong>.
+&lt;ul>
+&lt;li>Se si eccede il limite la velocità di movimento si riduce a 1,5m.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Taglia e Forza&lt;/strong>, per ogni cateogria di taglia superiore alle Media, la capacità di trasporto di una creatura e il peso che essa può spingere, trascinare o sollevare raddoppiano.
+&lt;ul>
+&lt;li>Nel caso di una creatura Minuscola, quei pesi dimezzano.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h5 id="variante-ingombro">Variante: Ingombro&lt;/h5>
+&lt;p>Questa è una variante per aggiungere difficoltà al gioco, quando la si usa si ignora la &lt;strong>Forza&lt;/strong> richiesta da un &lt;a href="">Armatura Pesante&lt;/a>.&lt;/p>
+&lt;ul>
+&lt;li>Se il personaggio trasporta un peso superiore a 2,5 volte il suo punteggio di &lt;strong>forza&lt;/strong>, è &lt;strong>ingombrato&lt;/strong>, e la sua velocità si riduce di 3 metri.&lt;/li>
+&lt;li>Se trasporta un peso superiore a 5 volte il suo punteggio di Forza (ma rimane dentro la sua &lt;strong>capacità di trasporto&lt;/strong>), allora diventa &lt;strong>pesantemente ingombrato&lt;/strong>, il che significa che la sua velcotià si riduce di 6 metri e che il personaggio subisce svantaggio alle prove di caratteristica, tiri per colpire e ai tiri salvezza che usano Forza, Destrezza o Costituzione.&lt;/li>
+&lt;/ul>
+&lt;p>PHB. 175-176&lt;/p>
+&lt;h3 id="destrezza">Destrezza&lt;/h3>
+&lt;h4 id="prove-di-destrezza">Prove di Destrezza&lt;/h4>
+&lt;h4 id="tiri-per-colpire-e-danni-1">Tiri Per Colpire e Danni&lt;/h4>
+&lt;h4 id="classe-armatura">Classe Armatura&lt;/h4>
+&lt;h3 id="costituzione">Costituzione&lt;/h3>
+&lt;h4 id="prove-di-costituzione">Prove di Costituzione&lt;/h4>
+&lt;h4 id="punti-ferita">Punti Ferita&lt;/h4>
+&lt;h3 id="intelligenza">Intelligenza&lt;/h3>
+&lt;h4 id="prove-di-intelligenza">Prove di Intelligenza&lt;/h4>
+&lt;h4 id="caratteristica-da-incantatore">Caratteristica da Incantatore&lt;/h4>
+&lt;h3 id="saggezza">Saggezza&lt;/h3>
+&lt;h4 id="prove-di-saggezza">Prove di Saggezza&lt;/h4>
+&lt;h4 id="caratteristica-da-incantatore-1">Caratteristica da Incantatore&lt;/h4>
+&lt;h3 id="carisma">Carisma&lt;/h3>
+&lt;h4 id="prove-di-carisma">Prove di Carisma&lt;/h4>
+&lt;h4 id="caratteristica-da-incantatore-2">Caratteristica da Incantatore&lt;/h4>
+&lt;h2 id="tiri-salvezza">Tiri Salvezza&lt;/h2>
+&lt;p>Un &lt;strong>tiro salvezza&lt;/strong> rappresenta un tentativo di resistere a un incantesimo, una trappola, un veleno, una malattia o una minaccia simile.&lt;/p>
+&lt;ul>
+&lt;li>Solitamente i giocatori o i mostri non decidono di effettuare un &lt;strong>tiro salvezza&lt;/strong>, ma vengono obbligati dal DM quando subiscono dei danni.&lt;/li>
+&lt;/ul>
+&lt;p>Si tira un d20 e si aggiunge al risultato il modificatore di caratteristica appropriato (dipende dal &lt;strong>tiro salvezza&lt;/strong> richiesto dal DM).&lt;/p>
+&lt;ul>
+&lt;li>Ogni classe fornisce competenza su almeno due &lt;strong>tiri salvezza&lt;/strong>.&lt;/li>
+&lt;li>Un tiro salvezza può essere modificato da un bonus o penalità situazionale, e può essere influenzato da vantaggio e svantaggio.&lt;/li>
+&lt;li>Le competenze nei &lt;strong>tiri salvezza&lt;/strong> funzionano esattamente come le competenze nelle abilità per le &lt;strong>prove di caratteristica&lt;/strong>.&lt;/li>
+&lt;li>La CD di un &lt;strong>tiro salvezza&lt;/strong> è determianta dall&amp;rsquo;effetto che lo causa, così come l&amp;rsquo;esito (solitamente un tiro salvezza superato significa che la creatura subisce danni ridotti o non li subisce proprio).&lt;/li>
+&lt;/ul></description></item><item><title>Combattimento</title><link>https://diariodibordo.github.io/rules/combattimento/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>https://diariodibordo.github.io/rules/combattimento/</guid><description>&lt;h2 id="turni">Turni&lt;/h2>
+&lt;p>&amp;hellip;&lt;/p>
+&lt;h2 id="azioni">Azioni&lt;/h2>
+&lt;h3 id="lottare">Lottare&lt;/h3>
+&lt;p>&amp;hellip;&lt;/p></description></item><item><title>Condizioni</title><link>https://diariodibordo.github.io/rules/condizioni/</link><pubDate>Sun, 21 Jan 2024 11:01:03 +0100</pubDate><guid>https://diariodibordo.github.io/rules/condizioni/</guid><description>&lt;p>PHB. 290-292&lt;/p>
+&lt;p>Una &lt;strong>condizione&lt;/strong> permane finchè non viene contrastata, o per una durata specifica dell&amp;rsquo;effetto che l&amp;rsquo;ha impostata.&lt;/p>
+&lt;p>Se più effetti impongono la stessa condizione su una creatura, ogni istanza di quella condizione ha una sua durata, ma gli effetti di una condizione non peggiorano.&lt;/p>
+&lt;ul>
+&lt;li>La maggior parte delle condizioni sono svantaggiose, ma alcune possono essere vantaggiose (es., invisibile).&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Condizione&lt;/th>
+&lt;th>&lt;center>Effetto&lt;/center>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>Accecato&lt;/strong>&lt;/td>
+&lt;td>&lt;ul>&lt;li>Fallisce automaticamente qualsiasi prova di caratteristica che richiede l&amp;rsquo;uso della vista.&lt;/li>&lt;li>I &lt;b>tiri per colpire&lt;/b> contro la creatura dispongono di vantaggio, mentre quelli della creatura subiscono svantaggio.&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Affascinato&lt;/strong>&lt;/td>
+&lt;td>&lt;ul>&lt;li>Non può attaccare o bersagliare colui che l&amp;rsquo;ha affascinata con capacità o effetti magici dannosi.&lt;/li>&lt;li>Colui che ha affascinato disponde di vantaggio a qualsiasi &lt;b>prova di caratteristica&lt;/b> effettuata per interagire socialmente con essa.&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Afferrato&lt;/strong>&lt;/td>
+&lt;td>&lt;ul>&lt;li>La velocità di una creatura afferrata diventa 0.&lt;/li>&lt;li>La creatura afferrata non può beneficiare di alcun bonus velocità.&lt;/li>&lt;li>La condizione termina se il &lt;a href="https://diariodibordo.github.io/rules/combattimento#lottare">lottatore&lt;/a> che ha afferrato la creatura è &lt;b>incapacitato&lt;/b>.&lt;/li>&lt;li>La condizione termina anche se un effetto rimuove la creatura afferrata dalla portata del lottatore che l&amp;rsquo;ha afferrata (o dall&amp;rsquo;effetto afferrante).&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Assordato&lt;/strong>&lt;/td>
+&lt;td>Non è in grado di sentire e fallisce automaticamente qualsiasi &lt;b>prova di caratteristica&lt;/b> che richieda l&amp;rsquo;uso dell&amp;rsquo;udito.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Avvelenato&lt;/strong>&lt;/td>
+&lt;td>Svantaggio ai &lt;b>tiri per colpire&lt;/b> e alle &lt;b>prove di caratteristica&lt;/b>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Incapacitato&lt;/strong>&lt;/td>
+&lt;td>Non può effettuare &lt;b>azioni&lt;/b> o &lt;b>reazioni&lt;/b>.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Invisibile&lt;/strong>&lt;/td>
+&lt;td>&lt;ul>&lt;li>Impossibile da vedere senza l&amp;rsquo;uso della magia o di sensi speciali.&lt;/li>&lt;li>Ubicazione della creatura può essere intuita dai rumori che emette o dalle tracce che lascia.&lt;/li>&lt;li>Una creatura che si sta nascondendo ed è invisibile, è considerata &lt;b>pesantemente oscurata&lt;/b>.&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Paralizzato&lt;/strong>&lt;/td>
+&lt;td>&lt;ul>&lt;li>Risulta &lt;b>incapacitata&lt;/b> e non può muoversi o parlare.&lt;/li>&lt;li>Fallisce i &lt;b>tiri salvezza&lt;/b> su &lt;b>forza&lt;/b> e &lt;b>destrezza&lt;/b>.&lt;/li>&lt;li>I &lt;b>tiri per colpire&lt;/b> contro la creatura possiedono &lt;b>vantaggio&lt;/b>.&lt;/li>&lt;li>Ogni attacco che colpisce la creatura è un &lt;b>colpo critico&lt;/b> se l&amp;rsquo;attaccante è situato entro 1,5m dalla creatura.&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Pietrificato&lt;/strong>&lt;/td>
+&lt;td>&lt;ul>&lt;li>Una creatura assieme ad ogni oggetto non magico che sta trasportando, viene trasformata in una sostanza solida inanimata.&lt;/li>&lt;li>Risulta &lt;b>incapacitata&lt;/b>, non può muoversi o parlare e non è consapevole.&lt;/li>&lt;li>I &lt;b>tiri per colpire&lt;/b> contro la creatura hanno vantaggio.&lt;/li>&lt;li>Fallisce i &lt;b>tiri salvezza&lt;/b> su forza e destrezza.&lt;/li>&lt;li>Dispone di &lt;b>resistenza&lt;/b> a tutti i danni.&lt;/li>&lt;li>Immune a &lt;b>veleni&lt;/b> e &lt;b>malattie&lt;/b>, quelli già presenti nel suo organismo vengono sospesi (non neutralizzati).&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Privo di Sensi&lt;/strong>&lt;/td>
+&lt;td>&lt;ul>&lt;li>Risulta &lt;b>incapacitata&lt;/b>, non può muoversi o parlare e non è consapevole.&lt;/li>&lt;li>Lascia cadere tutto ciò che impugnava e cade a terra &lt;b>prona&lt;/b>.&lt;/li>&lt;li>Fallisce i &lt;b>tiri salvezza&lt;/b> su forza e destrezza.&lt;/li>&lt;li>I &lt;b>tiri per colpire&lt;/b> contro la creatura possiedono &lt;b>vantaggio&lt;/b>.&lt;/li>&lt;/li>&lt;li>Ogni attacco che colpisce la creatura è un &lt;b>colpo critico&lt;/b> se l&amp;rsquo;attaccante è situato entro 1,5m dalla creatura.&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Prono&lt;/strong>&lt;/td>
+&lt;td>&lt;ul>&lt;li>Per muoversi può solo &lt;b>strisciare&lt;/b>, a meno che non si rialzi in piedi ponendo fine alla condizione.&lt;/li>&lt;li>Svantaggio ai &lt;b>tiri per colpire&lt;/b> e alle &lt;b>prove di caratteristica&lt;/b>.&lt;/li>&lt;li>I &lt;b>tiri per colpire&lt;/b> contro la creatura possiedono vantaggio se l&amp;rsquo;attaccante si trova a 1,5m di distanza, altrimenti possiedono svantaggio.&lt;/li>&lt;li>Alzarsi da &lt;strong>Prono&lt;/strong> costa metà del movimento.&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Spaventato&lt;/strong>&lt;/td>
+&lt;td>&lt;ul>&lt;li>Svantaggio ai &lt;b>tiri per colpire&lt;/b> e alle &lt;b>prove di caratteristica&lt;/b>, finchè la fonte della paura rimane visibile.&lt;/li>&lt;li>Non può muoversi per avvicinarsi volontariamente alla fonte della sua paura.&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Stordito&lt;/strong>&lt;/td>
+&lt;td>&lt;ul>&lt;li>Risulta &lt;b>incapacitata&lt;/b>, non può muoversi e può parlare solamente a fatica.&lt;/li>&lt;li>Fallisce i &lt;b>tiri salvezza&lt;/b> su &lt;b>forza&lt;/b> e &lt;b>destrezza&lt;/b>.&lt;/li>&lt;li>I &lt;b>tiri per colpire&lt;/b> contro la creatura dispongono di vantaggio.&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>Trattenuto&lt;/strong>&lt;/td>
+&lt;td>&lt;ul>&lt;li>La velocità di una creatura trattenuta diventa 0.&lt;/li>&lt;li>I &lt;b>tiri per colpire&lt;/b> contro la creatura dispongono di vantaggio, mentre quelli della creatura subiscono svantaggio.&lt;/li>&lt;li>I &lt;b>tiri salvezza&lt;/b> su destrezza hanno svantaggio.&lt;/li>&lt;/ul>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>N.B.: Gli effetti delle condizioni sono da intendere in prima persona dove non è specificato il soggetto.&lt;/p>
+&lt;h2 id="indebolimento">Indebolimento&lt;/h2>
+&lt;p>Alcune capacità speciali e pericoli ambientali protratti nel lungo tempo possono imporre una condizione speciale di &lt;strong>indebolimento&lt;/strong>.&lt;/p>
+&lt;p>Questa è misurata in sei livelli, un effetto può imporre a una creatura uno o più livelli di indebolimento (specificato nella descrizione dell&amp;rsquo;effetto).&lt;/p>
+&lt;ul>
+&lt;li>Una creatura già sotto effetto di indebolimento che subisce un ulteriore effetto di indebolimento, aumenta il suo livello dell&amp;rsquo;ammontare specificato nell&amp;rsquo;effetto.&lt;/li>
+&lt;li>Gli effetti di indebolimento sono comulativi (non esclusivi).&lt;/li>
+&lt;li>Un effetto che rimuove l&amp;rsquo;indebolimento riduce il suo livello come specificato nella descrizione dell&amp;rsquo;effetto.
+&lt;ul>
+&lt;li>Se scende a meno di 1, tutti gli effetti di indebolimento terminano.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Si può ridurre di 1 il proprio livello di indebolimento se si completa un &lt;a href="">riposo lungo&lt;/a> mangiando e bevendo qualcosa, e se viene rianimata dalla morte.&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Livello&lt;/th>
+&lt;th>Effetto&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1&lt;/td>
+&lt;td>Svantaggio alle prove di caratteristica.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2&lt;/td>
+&lt;td>Velocità dimezzata.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3&lt;/td>
+&lt;td>Svantaggio ai tiri per colpire e ai tiri salvezza.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4&lt;/td>
+&lt;td>Massimo dei punti ferita dimezzato.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>5&lt;/td>
+&lt;td>Velocità ridotta a 0.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6&lt;/td>
+&lt;td>Morte.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Mostri</title><link>https://diariodibordo.github.io/rules/mostri/</link><pubDate>Sun, 28 Jan 2024 01:01:18 +0100</pubDate><guid>https://diariodibordo.github.io/rules/mostri/</guid><description>&lt;p>L&amp;rsquo;ordine delle sezioni di questa pagina ripercorre sequenzialmente le statistiche presenti nella scheda di un mostro di DnD 5e.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://diariodibordo.github.io/uploads/imgs/monsters/ancient-red-dragon-page.jpg_large" alt="red-dragon" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="taglia">Taglia&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Taglia&lt;/th>
+&lt;th>Spazio&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Minuscola&lt;/td>
+&lt;td>75 x 75 cm (2.5 x 2.5 ft)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Piccola&lt;/td>
+&lt;td>1,5 x 1,5 m (5 x 5 ft)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Media&lt;/td>
+&lt;td>1,5 x 1,5 m (5 x 5 ft)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Grande&lt;/td>
+&lt;td>3 x 3 m (10 x 10 ft)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Enorme&lt;/td>
+&lt;td>4,5 x 4,5 m (15 x 15 ft)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Mastodontica&lt;/td>
+&lt;td>6 x 6 m o più (20 x 20 ft)&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://diariodibordo.github.io/uploads/imgs/monsters/dungeons-and-dragons-creature-size-examples.avif" alt="red-dragon" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Un DM potrebbe avere bisogno di una creatura ad hoc, è possibile fare questo ritoccando una già esistente per renderla utile ai propri scopi, prendendo caratteristiche da altri mostri o usando una &lt;strong>variante&lt;/strong> o &lt;strong>archetipo&lt;/strong> (MM).&lt;/p>
+&lt;ul>
+&lt;li>La taglia di un mostro condiziona il modo in cui lo si affronta, vedere la sezione &lt;a href="https://diariodibordo.github.io/rules/combattimento">taglia&lt;/a> delle regole di combattimento (TODO: inserire il link alla sezione effettiva una volta creata).&lt;/li>
+&lt;/ul>
+&lt;h2 id="tipo">Tipo&lt;/h2>
+&lt;p>Il &lt;strong>tipo&lt;/strong> di un mostro definisce la sua natura fondamentale.&lt;/p>
+&lt;ul>
+&lt;li>Alcuni effetti (es., &lt;em>magie&lt;/em>, &lt;em>privilegi di classe&lt;/em>, &amp;hellip;) si applicano su dei tipi particolari di creature.&lt;/li>
+&lt;/ul>
+&lt;p>Il gioco include i seguenti tipi di mostro a cui non è associata alcuna regola intrinseca:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Tipo&lt;/th>
+&lt;th>Descrizione&lt;/th>
+&lt;th>Esempi&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Aberrazioni&lt;/td>
+&lt;td>Esseri totalmente alieni le cui magie sono frutto della loro mente aliena.&lt;/td>
+&lt;td>Mind flayer, Beholder, Aboleth, Slaadi&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Bestie&lt;/td>
+&lt;td>Creature non umanoidi che fanno parte del mondo naturale nell&amp;rsquo;ecologia fantastica. Alcune possono avere poteri magici, ma la maggior parte non sono dotate di inteligenza, parlare un linguaggio e fare parte di una società.&lt;/td>
+&lt;td>Tutte le varietà di animali comuni, dinosauri e le versioni giganti degli animali.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Celestiali&lt;/td>
+&lt;td>Creature originarie dei &lt;a href="">Piani Superiori&lt;/a>, sono di natura buona e solitamente fungono da messaggeri o agenti sul &lt;a href="">Piano Mortale&lt;/a> o su altri piani.&lt;/td>
+&lt;td>Angeli, Couatl, Pegasi&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Costrutti&lt;/td>
+&lt;td>Anzichè nascere vengono fabbricati. Alcuni sono programmati per eseguire istruzioni semplici, altri sono senzienti ed ingrado di pensare in modo indipendente.&lt;/td>
+&lt;td>Golem, Modron&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Draghi&lt;/td>
+&lt;td>Creature rettili di origini antiche e di grande potenza. I draghi puri, metallici buoni e draghi cromatici malvagi, sono creature di grande intelligenza e dotate di poteri magici innati. In questa categoria vi sono anche creature imparentate alla lontana con i draghi puri, seppure meno potenti.&lt;/td>
+&lt;td>Draghi, Viverne, Pseudodraghi&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Elementali&lt;/td>
+&lt;td>Creature originarie dei &lt;a href="">Piani Elementali&lt;/a>. Alcune di queste creature sono masse animate dal loro rispettivo elemento, mentre altre sono di forma biologica in cui è stata infusa energia elementale.&lt;/td>
+&lt;td>Djiin, Efreet, Azer, Cacciatori invisibili, Fatali dell&amp;rsquo;acqua&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Folletti&lt;/td>
+&lt;td>Creature magiche strettamente legate alle forze della natura che si nascondono nei boschi crepuscolari e nelle foreste nebbiose. In alcuni mondi sono strettamente legati alla &lt;a href="">Selva Fatata&lt;/a> (nota anche come &lt;a href="">Piano di Faerie&lt;/a>). Alcuni sono presenti sui &lt;a href="">Piani Esterni&lt;/a>.&lt;/td>
+&lt;td>Driadi, Pixie, Satiri&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Giganti&lt;/td>
+&lt;td>Sovrastano gli umani e i loro simili. Generalmente hanno forma umana, anche se alcuni possono avere più teste o essere afflitti da varie deformità. Vi sono sei varietà di giganti puri:&lt;ul>&lt;li>Giganti delle colline&lt;/li>&lt;li>Giganti delle pietre&lt;/li>&lt;li>Giganti del gelo&lt;/li>&lt;li>Giganti del fuoco&lt;/li>&lt;li>Giganti delle nuvole&lt;/li>&lt;li>Giganti delle tempeste&lt;/li>&lt;/ul>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Immondi&lt;/td>
+&lt;td>Creature maligne originarie dei &lt;a href="">Piani Inferiori&lt;/a>. Alcuni servono una divinità, ma molti altri obbgediscono agli ordini degli arcidiavoli e dei principi dei demoni.&lt;br>&lt;br>Talvolta, i sacerdoti e i maghi malvagi evocano gli immondi sul &lt;a href="">Piano Materiale&lt;/a> affinchè obbediscano al loro ordini. Se un celestiale malvagio è una rarità, un immondo buono è inconcepibile.&lt;/td>
+&lt;td>Demoni, Diavoli, Segugi infernali, Rakshasa, Yugoloth&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Melme&lt;/td>
+&lt;td>Creature gelatinose che raramente mantengono una forma fissa. Vivono per lo più sottoterra, nelle caverne e nei dungeon, dove si cibano di sporcizia, carogne o dagli sfortunati che incrociano il loro cammino.&lt;/td>
+&lt;td>Protoplasma nero, Cubo gelatinoso&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Mostruosità&lt;/td>
+&lt;td>Creature spaventose fuori dal comune. Alcune sono il risultato di un esperimento magico andato storto (orsigufo), mentre altri sono il frutto di una terribile maledizione (es. minotauro e/o yuan ti). Sfidano ogni tentativo di essere categorizzati e in un certo senso vanno a costituire una categoria omnicomprensiva per tutte quelle creature che non rientrano in nessun altro tipo.&lt;/td>
+&lt;td>Orsogufo, Yuan ti, Verme purpureo, Vermeiena&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Non morti&lt;/td>
+&lt;td>Creatiure che un tempo erano vive ma che ora sono precipitate in un orrendo stato di non morte attraverso la pratica di magie necromantiche o qualche maledizione sacrilega.&lt;/td>
+&lt;td>Cadaveri ambulanti, Vampiri, Zombi, Fantasmi, Spettri&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Umanoidi&lt;/td>
+&lt;td>Popoli principali del mondo di DnD, civilizzati o selvaggi che siano, negli umani sono incluse una vasta gamma di specie. Dotati di linguaggio, cultura e in alcuni rari casi di poteri magici innati.&lt;/td>
+&lt;td>Umani, Nani, Elfi, Haalfling, Orchi, Goblin&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Vegetali&lt;/td>
+&lt;td>Creature vegetali (non flora comune). Molte di queste sono in grado di deambulare e alcuni sono carnivori.&lt;/td>
+&lt;td>Cumulo strisciante, Treant, Spora gassosa, Miconide&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="descrittori">Descrittori&lt;/h3>
+&lt;h2 id="allineamento">Allineamento&lt;/h2>
+&lt;h2 id="classe-armatura">Classe Armatura&lt;/h2>
+&lt;h2 id="punti-ferita">Punti Ferita&lt;/h2>
+&lt;h2 id="velocità">Velocità&lt;/h2>
+&lt;h3 id="nuotare">Nuotare&lt;/h3>
+&lt;h3 id="scalare">Scalare&lt;/h3>
+&lt;h3 id="scavare">Scavare&lt;/h3>
+&lt;h3 id="volare">Volare&lt;/h3>
+&lt;h2 id="punteggi-di-caratteristica">Punteggi Di Caratteristica&lt;/h2>
+&lt;h2 id="tiri-salvezza">Tiri Salvezza&lt;/h2>
+&lt;h2 id="abilità">Abilità&lt;/h2>
+&lt;h2 id="vulnerabilità-resistenze-e-immunità">Vulnerabilità, Resistenze e Immunità&lt;/h2>
+&lt;h2 id="sensi"> Sensi&lt;/h2>
+&lt;h3 id="percezione-tellurica">Percezione Tellurica&lt;/h3>
+&lt;h3 id="scurovisione">Scurovisione&lt;/h3>
+&lt;h3 id="vista-cieca">Vista Cieca&lt;/h3>
+&lt;h3 id="vista-pura">Vista Pura&lt;/h3>
+&lt;h2 id="linguaggi">Linguaggi&lt;/h2>
+&lt;h3 id="telepatia">Telepatia&lt;/h3>
+&lt;h2 id="sfida">Sfida&lt;/h2>
+&lt;p>Il &lt;strong>grado di sfida&lt;/strong> di un mostro indica quanto è grave la minaccia costituita dal mostro secondo le indicazioni per la pianificazione degli incontri (DMG).&lt;/p>
+&lt;h3 id="punti-esperienza">Punti Esperienza&lt;/h3>
+&lt;p>I &lt;strong>punti esperienza&lt;/strong> (PE) dati da un mostro dipendono dal suo grado di sfida.&lt;/p>
+&lt;p>I PE possono venire concessi:&lt;/p>
+&lt;ul>
+&lt;li>Quando il mostro viene sconfitto.&lt;/li>
+&lt;li>Quando la minaccia viene sventata in altri modi.&lt;/li>
+&lt;/ul>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Grado di Sfida&lt;/th>
+&lt;th>Punti Esperienza&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>0&lt;/td>
+&lt;td>0 o 10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1/8&lt;/td>
+&lt;td>25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1/4&lt;/td>
+&lt;td>50&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1/2&lt;/td>
+&lt;td>100&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>1&lt;/td>
+&lt;td>200&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2&lt;/td>
+&lt;td>450&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>da completare &amp;hellip;&lt;/td>
+&lt;td>&amp;hellip;&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="tratti-speciali">Tratti Speciali&lt;/h2>
+&lt;h3 id="incantesimi-innati">Incantesimi Innati&lt;/h3>
+&lt;h3 id="incantesimi">Incantesimi&lt;/h3>
+&lt;h3 id="poteri-psionici">Poteri Psionici&lt;/h3>
+&lt;h2 id="azioni">Azioni&lt;/h2>
+&lt;h3 id="attacchi-in-miscia-e-a-distanza">Attacchi in Miscia e a Distanza&lt;/h3>
+&lt;h3 id="multiattacco">Multiattacco&lt;/h3>
+&lt;h3 id="munizioni">Munizioni&lt;/h3>
+&lt;h2 id="reazioni">Reazioni&lt;/h2>
+&lt;h2 id="uso-limitato">Uso Limitato&lt;/h2>
+&lt;h2 id="equipaggiamento"> Equipaggiamento&lt;/h2>
+&lt;h2 id="creature-leggendarie">Creature Leggendarie&lt;/h2>
+&lt;h3 id="azioni-leggendarie"> Azioni Leggendarie&lt;/h3>
+&lt;h3 id="la-tana-di-una-creatura-leggendaria">La Tana di una Creatura Leggendaria&lt;/h3>
+&lt;h4 id="azioni-di-tana">Azioni di Tana&lt;/h4>
+&lt;h4 id="effetti-regionali">Effetti Regionali&lt;/h4></description></item><item><title>Avventura</title><link>https://diariodibordo.github.io/rules/avventura/</link><pubDate>Sun, 28 Jan 2024 01:01:52 +0100</pubDate><guid>https://diariodibordo.github.io/rules/avventura/</guid><description/></item></channel></rss>
