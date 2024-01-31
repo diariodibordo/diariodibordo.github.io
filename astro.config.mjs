@@ -13,7 +13,7 @@ export default defineConfig({
       }
     },
     social: {
-      github: 'https://github.com/manuelpagliuca'
+      github: 'https://github.com/diariodibordo/diariodibordo.github.io'
     },
     sidebar: [{
       label: 'Manuale',
@@ -26,9 +26,9 @@ export default defineConfig({
         directory: 'logs'
       }
     }, {
-      label: 'Reference',
+      label: 'Risorse',
       autogenerate: {
-        directory: 'reference'
+        directory: 'resources'
       }
     }]
   })
