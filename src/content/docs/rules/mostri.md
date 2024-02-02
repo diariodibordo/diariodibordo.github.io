@@ -138,7 +138,39 @@ Questa caratteristica è riservata alle creature in grado di resistere a certi t
 
 La maggior parte delle creature non possiede bonus ai [**Tiri Salvezza**](/rules/punteggi-caratteristica#tiri-salvezza), in tal caso questa sezione risulterà assente nella scheda.
 
-Il bonus al **Tiro Salvezza** è dato dalla somma del modificatore di caratteristica del mostro e del suo bonus di competenza, determinato dal [**grado di sfida**](#sfida) del mostro.
+Il bonus al **Tiro Salvezza** è dato dalla somma del modificatore di caratteristica del mostro e del suo [**bonus di competenza per grado di sfida**](#bonus-di-competenza-per-grado-di-sfida) del mostro.
+
+## Abilità
+
+La sezione **Abilità** è riservata ai mostri competenti in una o più abilità.
+
+- Esempio, un mostro molto percettivo e furtivo potrebbe epossedere dei bonus alle prove di [**Saggezza**](/rules/punteggi-caratteristica#saggezza) (Percezione) e [**Destrezza**](/rules/punteggi-caratteristica#destrezza) (Furtività).
+
+Un bonus di abilità è dato dalla somma del modficatore di caratteristica rilevante del mostro e del suo bonus di competenza e del suo [**bonus di competenza per grado di sfida**](#bonus-di-competenza-per-grado-di-sfida)
+
+Altri modificatori potrebbero essere applicabili.
+
+## Vulnerabilità, Resistenze e Immunità
+
+##  Sensi
+
+### Percezione Tellurica
+
+### Scurovisione
+
+### Vista Cieca
+
+### Vista Pura
+
+## Linguaggi
+
+### Telepatia
+
+## Sfida
+
+Il **grado di sfida** di un mostro indica quanto è grave la minaccia costituita dal mostro secondo le indicazioni per la pianificazione degli incontri (DMG).
+
+### Bonus di Competenza per Grado di Sfida
 
 | Sfida | Bonus di Competenza |
 | ----- | ------------------- |
@@ -176,30 +208,6 @@ Il bonus al **Tiro Salvezza** è dato dalla somma del modificatore di caratteris
 | 28    | +8                  |
 | 29    | +9                  |
 | 30    | +9                  |
-
-## Abilità
-
-La sezione **Abilità** è riservata ai mostri competenti in una o pià abilità
-
-## Vulnerabilità, Resistenze e Immunità
-
-##  Sensi
-
-### Percezione Tellurica
-
-### Scurovisione
-
-### Vista Cieca
-
-### Vista Pura
-
-## Linguaggi
-
-### Telepatia
-
-## Sfida
-
-Il **grado di sfida** di un mostro indica quanto è grave la minaccia costituita dal mostro secondo le indicazioni per la pianificazione degli incontri (DMG).
 
 ### Punti Esperienza
 
