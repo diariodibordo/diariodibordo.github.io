@@ -152,7 +152,12 @@ Altri modificatori potrebbero essere applicabili.
 
 ## Vulnerabilità, Resistenze e Immunità
 
-##  Sensi
+Alcune creature sono dotate di vulnerabilità, resistenza o immunità a certi *tipi di danno*.
+
+- Alcune creature sono in grado di essere resistenti o immuni ai danni degli attacchi non magici.
+- Altre creature sono inoltre in grado di essere immuni a certe condizioni.
+
+## Sensi
 
 ### Percezione Tellurica
 
