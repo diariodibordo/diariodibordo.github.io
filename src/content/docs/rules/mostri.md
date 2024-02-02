@@ -360,15 +360,45 @@ Questo non ocmporta alcuna regola intrinseca, ma altre parti del gioco potrebber
 
 ## Azioni
 
-### Attacchi in Miscia e a Distanza
+Quando un mostro effettua la sua azione, può scegleire tra le opzioni dellasezione Azioni della suaa scheda delle statistiche o usare un'azione disponibile per tutte le creature, come leazioni di [**Scatto**](/rules/combattimento#scatto) o [**Nascondersi**](/rules/combattimento/#nascondersi).
+
+### Attacchi in Mischia e a Distanza
+
+Sono le azioni più comuni, possono essere attacchi con un incantesimo o con un'arma.
+
+- L'arma in questione potrebbe essere un oggetto fabbricato o un'arma naturale, come un artiflio.
+
+#### Creatura Bersaglio
+
+Il bersaglio di un attacco in mischia o a distanza è solitamente una creatura o un bersaglio (può essere sia una creatura che un oggetto).
+
+#### Colpito
+
+Gli eventuali danni inflitti o altri effetti che si verificano quando un attacco colpisce un bersaglio sono descritto alla voce "*Colpito*".
+
+Il DM può scegliere se applicare i danni medi o tirare per i danni.
+
+#### Mancato
+
+Se un attacco prevede un effetto che si verifica in caso di attacco mancato, questa informazione è presentata alla voce "*Mancato*".
 
 ### Multiattacco
 
+Una creatura è in grado di effettuare più attacchi nel suo turno. Una creatura non può usare **Multiattacco** quando effettua un [**Attacco di Opportunità**](/rules/combattimento(attacco-di-opportunità)), che deve essere un singolo attacco in mischia.
+
 ### Munizioni
+
+Un mostro porta abbastanza munizioni da effettuare i suoi attacchi a distanza.
+
+- Il DM può presumere che il mostro possieda 2d4 munizioni per gli attacchi con arma da lancio e 2d10 munizioni per un'arma a proiettili come un arco o una balestra.
 
 ## Reazioni
 
+In questa sezione è indicato se un msotro può fare qualcosa dis peciale con la sua reazione. Se una creatura non possiede alcuna reazione speciale, questa sezione è assente.
+
 ## Uso Limitato
+
+Alcune capacità speciali sono soggette a restrizioni riguardo al numero di volte in cui possono essere usate.
 
 ## Equipaggiamento
 
