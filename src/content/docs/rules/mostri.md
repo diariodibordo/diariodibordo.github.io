@@ -400,6 +400,12 @@ In questa sezione è indicato se un msotro può fare qualcosa dis peciale con la
 
 Alcune capacità speciali sono soggette a restrizioni riguardo al numero di volte in cui possono essere usate.
 
+- **X/Giorno** indica che una capacità speciale può essere usata X volte e che un mostro deve completare un riposo lungo per recuperare gli usi spesi.
+- **Ricarica X-Y**, indica che un mostro può usare una capacità speciale una volta e che quella capacità ha una possibilità casuale di ricaricarsi ogno round successivo di combattimento.
+  - All'inizio di ogni turno del mostro, il ùDM tira un d6. Se il risultato è uno dei numeri che comopaiono accanto alla voce "Ricarica", il mostro recupera l'uso della capacità speciale.
+  - La capacità si ricarca anche quando un mostro completa un [**Riposo Lungo**](/avventura/riposo-lungo).
+- **Ricarica dopo un Riposo Breve o Lungo**, questa voce indica che un mostro può usare una capacità speciale una volta e che deve compeltare un riposo breve o lungo per usarla di nuovo.
+
 ## Equipaggiamento
 
 ### Competenze in armi, armature e strumenti
