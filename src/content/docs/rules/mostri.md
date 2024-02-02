@@ -177,7 +177,19 @@ Entro lo stesso raggio, il mostro può vedere in condizioni di luce fioca come s
 
 ### Vista Cieca
 
+Può percepire l'ambiente attorno a sè entro un raggio specifico senza affidarsi alla vista.
+
+Se un mostro è cieco per natura, questo effetto è seguito da una nota tra parentesi, a indicare che il raggio della sua vista cieca definisce la gittata massima della sua percezione.
+
 ### Vista Pura
+
+Entro un raggio specifico può:
+
+- Vedere nell'oscurità normale e magica.
+- Vedere le creature e gli oggetti invisibili.
+- Individuare automaticamente le illusioni visive e superare i [**Tiri Salvezza**](/rules/punteggi-caratteristica#tiri-salvezza) contro di esse.
+- Percepire la forma originale di un mutaforma o di una creatura trasformata dalla magia.
+- Vedere nel [**Piano Etereo**] (entro lo stesso raggio).
 
 ## Linguaggi
 
