@@ -144,7 +144,7 @@ Il bonus al **Tiro Salvezza** è dato dalla somma del modificatore di caratteris
 
 La sezione **Abilità** è riservata ai mostri competenti in una o più abilità.
 
-- Esempio, un mostro molto percettivo e furtivo potrebbe epossedere dei bonus alle prove di [**Saggezza**](/rules/punteggi-caratteristica#saggezza) (Percezione) e [**Destrezza**](/rules/punteggi-caratteristica#destrezza) (Furtività).
+- Esempio, un mostro molto percettivo e furtivo potrebbe e possedere dei bonus alle prove di [**Saggezza**](/rules/punteggi-caratteristica#saggezza) (Percezione) e [**Destrezza**](/rules/punteggi-caratteristica#destrezza) (Furtività).
 
 Un bonus di abilità è dato dalla somma del modificatore di caratteristica rilevante del mostro e del suo bonus di competenza e del suo [**bonus di competenza per grado di sfida**](#bonus-di-competenza-per-grado-di-sfida)
 
@@ -211,9 +211,30 @@ Capacità magica che consente a un mostro di comunicare mentalmente con un'altra
 
 ## Sfida
 
-Il **grado di sfida** di un mostro indica quanto è grave la minaccia costituita dal mostro secondo le indicazioni per la pianificazione degli incontri (DMG).
+Il **grado di sfida** di un mostro indica quanto è grave la minaccia costituita dal mostro. Queste indicazioni specificano il numero di avventurieri di un certo livello che dovrebbero essere in grado di sconfiggere un mostro con un certo grado di sfida senza subire perdite.
+
+| Grado di Sfida | Descrizione                                                      |
+| -------------- | ---------------------------------------------------------------- |
+| 0              | Minacce insignificanti o non combattive                          |
+| ⅛              | Minacce molto deboli, adatte ai primi livelli                    |
+| ¼              | Minacce deboli, adatte ai primi livelli                          |
+| ½              | Minacce di basso livello                                         |
+| 1              | Minacce tipiche per un gruppo di livello 1-3                     |
+| 2              | Minacce adatte a un gruppo di livello 4-5                        |
+| 3              | Minacce adatte a un gruppo di livello 6-8                        |
+| 4              | Minacce adatte a un gruppo di livello 9-12                       |
+| 5              | Minacce adatte a un gruppo di livello 13-16                      |
+| 6              | Minacce adatte a un gruppo di livello 17+                        |
+| 7              | Minacce molto potenti, adatte a un gruppo di alto livello        |
+| 8              | Minacce molto potenti, adatte a un gruppo di alto livello        |
+| 9              | Minacce estremamente potenti, adatte a un gruppo di alto livello |
+| 10+            | Minacce epiche e leggendarie                                     |
 
 ### Bonus di Competenza per Grado di Sfida
+
+Sia per i [Tiri Salvezza](#tiri-salvezza) che per le [prove di abilità](#abilità), è possibile utilizzare la seguente tabella di bonus da sommare al modificatore rileveante.
+
+- Nel caso delle prove di abilità vi possono essere ulteriori modificatori da aggiungere.
 
 | Sfida | Bonus di Competenza |
 | ----- | ------------------- |
@@ -262,14 +283,41 @@ I PE possono venire concessi:
 - Quando la minaccia viene sventata in altri modi.
 
 | Grado di Sfida | Punti Esperienza |
-| -------------- | ----------------- |
-| 0              | 0 o 10            |
-| ⅛              | 25                |
-| ¼              | 50                |
-| ½              | 100               |
-| 1              | 200               |
-| 2              | 450               |
-| da completare ...              | ...               |
+| -------------- | ---------------- |
+| 0              | 0 o 10           |
+| ⅛              | 25               |
+| ¼              | 50               |
+| ½              | 100              |
+| 1              | 200              |
+| 2              | 450              |
+| 3              | 700              |
+| 4              | 1,100            |
+| 5              | 1,800            |
+| 6              | 2,300            |
+| 7              | 2,900            |
+| 8              | 3,900            |
+| 9              | 5,000            |
+| 10             | 5,900            |
+| 11             | 7,200            |
+| 12             | 8,400            |
+| 13             | 10,000           |
+| 14             | 11,500           |
+| 15             | 13,000           |
+| 16             | 15,000           |
+| 17             | 18,000           |
+| 18             | 20,000           |
+| 19             | 22,000           |
+| 20             | 25,000           |
+| 21             | 33,000           |
+| 22             | 41,000           |
+| 23             | 50,000           |
+| 24             | 62,000           |
+| 25             | 75,000           |
+| 26             | 90,000           |
+| 27             | 105,000          |
+| 28             | 120,000          |
+| 29             | 135,000          |
+| 30             | 155,000          |
 
 ## Tratti Speciali
 
