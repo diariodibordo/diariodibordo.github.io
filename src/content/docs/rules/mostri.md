@@ -51,6 +51,12 @@ Il gioco include i seguenti tipi di mostro a cui non è associata alcuna regola 
 
 ### Descrittori
 
+Uno o più descrittori potrebbero comparire tra parentesi dopo il tipo di mostro.
+
+- Esempio, un orco appartiene al tipo *umanoide(orco)*
+
+Non vi è associata alcuna regola **intrinseca**, ma certi elementi del gioco potrebbero farvi riferimento.
+
 ## Allineamento
 
 ## Classe Armatura
