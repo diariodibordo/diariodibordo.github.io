@@ -159,9 +159,21 @@ Alcune creature sono dotate di vulnerabilità, resistenza o immunità a certi *t
 
 ## Sensi
 
+Questa sezione indica il punteggio di [**Saggezza**](/rules/punteggi-caratteristica#saggezza) (Percezione) passiva di un mostro, nonchè i sensi speciali che il mostro potrebbe possedere.
+
 ### Percezione Tellurica
 
+Può individuare con precisione l'origine delle vibrazioni entro un raggio specifico purchè il mostro e la fonte delle vibrazioni siano in contatto con loo stesso terreno o la stessa sostanza.
+
+La **percezione tellurica** non può essere usata per individuare le creature incorporee o volanti
+
 ### Scurovisione
+
+Può vedere nell'oscurità entro un raggio specficio.
+
+Entro lo stesso raggio, il mostro può vedere in condizioni di luce fioca come se fosse in condizione di luce intensa e in condizioni di oscurità come se fosse in condizioni di luce fioca.
+
+- Nell'oscurità non può discernere i colori, ma solo le sfumature di grigio.
 
 ### Vista Cieca
 
