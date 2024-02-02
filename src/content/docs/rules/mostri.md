@@ -200,6 +200,15 @@ I linguaggi che un mostro può parlare sono elencati in ordine alfabetico.
 
 ### Telepatia
 
+Capacità magica che consente a un mostro di comunicare mentalmente con un'altra creatura entro un raggio specificato.
+
+- Non è necessario che la creatura contattata condivida un linguaggio con il mostro al fine di comunicare, ma essa deve comprendere almeno un linguaggio.
+- Una creatura priva di telepatia può ricevere messaggi telepatici e rispondere ad essi, ma non può avviare o terminare una conversazione telepatica.
+- Un mostro telepatico non ha bisogno di vedere la creatura da contattare ep uò termianre il contatto telepatico in qualsiasi moemnto.
+- Il contatto si interrompe non appena le due creature non si trovano più entro il raggio l'una dall'altra o se il mostro telepatico contatta un'altra creatura emtrp il raggio.
+- Un mostro telepatico può avviare o terminare una conversazione telepatica senza usare un'azione, ma finchè è [**incapacitato**](/rules/condizioni), non può avviare un contatto teleaptico e ogni contatto attuale è terminato.
+- Una creatura che si trova all'interno di un *campo anti-magia* o in un luogo dove la magia non funziona non può inviare o ricevere messaggi telepatici.
+
 ## Sfida
 
 Il **grado di sfida** di un mostro indica quanto è grave la minaccia costituita dal mostro secondo le indicazioni per la pianificazione degli incontri (DMG).
