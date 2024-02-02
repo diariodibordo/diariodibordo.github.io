@@ -84,9 +84,7 @@ Un mostro solitamente muore o è distrutto quando scende a 0 punti ferita.
 
 I punti ferita sono presentati sia come **formula di dadi** che come **valore medio**.
 
-- Un mostro con 2d8 punti ferita ha in media 9 punti ferita
-
-La [taglia](#taglia) di un mostro determina il dado da usare per calcolare i suoi punti ferita, come vediamo nella seguente tabella (**Dadi Vita in Base alla Taglia**).
+La [taglia](#taglia) di un mostro determina il [**Dado Vita**](/) da usare per calcolare i suoi punti ferita, come vediamo nella seguente tabella (**Dadi Vita in Base alla Taglia**).
 
 | Taglia del Mostro | Dado Vita | Media dei PF per Dado Vita |
 | ----------------- | --------- | -------------------------- |
@@ -97,9 +95,10 @@ La [taglia](#taglia) di un mostro determina il dado da usare per calcolare i suo
 | Enorme            | d12       | 6½                         |
 | Mastodontica      | d20       | 10½                        |
 
+- Un mostro con 2d8 punti ferita ha in media 9 punti ferita (2 x 4½)
+
 Anche il modificatore di [**Costituzione**](/rules/punteggi-caratteristica/#costituzione) influenza i suoi punti ferita. Il modificatore di **Costituzione** va moltiplicato per il numero di Dadi Vita che possiede e il risultato si somma ai Punti Ferita correnti.
 ![red-dragon-hp](../../../assets/imgs/monsters/red-dragon-hp.jpg)
-
 
 ## Velocità
 
