@@ -72,6 +72,12 @@ Diverse creature con intelligenza limitata non hanno alcuna cognizione di concet
 
 ## Classe Armatura
 
+Un mostro che possiede un'armatura o porta uno scudo possiede una **Classe Armatura** (CA) che tiene conto della sua armatura, del suo scudo e della sua [**Destrezza**](/rules/punteggi-caratteristica#destrezza).
+
+In caso queste fossero assenti, la CA di un mostro è basata solamente sul suo modificatore di **Destrezza** e sulla sua *armatura naturale*.
+
+- Se il mostro indossa un'*armatura naturale* o simili è indicato tra parentesi dopo il suo valore di CA.
+
 ## Punti Ferita
 
 ## Velocità
