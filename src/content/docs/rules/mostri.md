@@ -59,6 +59,17 @@ Non vi è associata alcuna regola **intrinseca**, ma certi elementi del gioco po
 
 ## Allineamento
 
+L'allineamento di un mostro fornisce un indizio sul suo atteggiamento e sul modo in cui si comporta durante una interazione o combattimento.
+
+- *Caotico malvagio* → difficile ragionarci e potrebbe attaccare da un momento all'altro.
+- *Neutrale malvagio* → potrebbe essere disposto a negoziare.
+
+Il DM è libero di modificare l'allineamento della scheda di un mostro, discostandosi da quello di default.
+
+Alcune creature possono avere un **qualsiasi allineamento**, il DM lo sceglierà.
+
+Diverse creature con intelligenza limitata non hanno alcuna cognizione di concetti come legge, caos, bene o male. Per tanto non sono in grado di fare scelte morali o etiche affidandosi all'istinto, esse risultano **senza allineamento**.
+
 ## Classe Armatura
 
 ## Punti Ferita
