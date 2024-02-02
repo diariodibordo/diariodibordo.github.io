@@ -1,10 +1,10 @@
 ---
-title: 🧌 Mostri
+title: 🧌 Scheda Mostri
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 description: Stati in cui personaggi o mostri si possono trovare.
 weight: 5
 ---
-L'ordine delle sezioni di questa pagina ripercorre sequenzialmente le statistiche presenti nella scheda di un mostro di DnD 5e.
+L'ordine delle sezioni di questa pagina ripercorre sequenzialmente le caratteristiche presenti nella scheda di un mostro di DnD 5e in maniera completa.
 
 ![red-dragon](../../../assets/imgs/monsters/ancient-red-dragon-page.jpg)
 
@@ -102,19 +102,84 @@ Anche il modificatore di [**Costituzione**](/rules/punteggi-caratteristica/#cost
 
 ## Velocità
 
+La velocità india di quanto il mostro può muoversi nel suo turno. Le creature prive di velocità prive di locomozione hanno una velocità terrena pari a 0.
+
+Visioniamo alcune delle possibili forme di velocità aggiuntive.
+
 ### Nuotare
+
+Un mostro non ha bisogno di spendere velocità extra per nuotare.
 
 ### Scalare
 
+Il mostro non ha bisogno di spendere movimento extra per scalare.
+
+- Può usare tutto il suo movimento o una parte di esso per muoversi sulle superfici verticali.
+
 ### Scavare
+
+Può usare questa forma di velocità per muoversi attraverso la sabbia, terra, fango o ghiaccio. Non può scavare attraverso la solida roccia, a meno che non possieda un tratto speciali che gli consenta di farlo.
 
 ### Volare
 
+Può usare tutto il suo movimento o una parte di esso per volare. Alcuni mostri possiedono la capacità di **fluttuare** e sono molto difficili da abbattere.
+
+I mostri di questo tipo smettono di fluttuare quando muoiono.
+
 ## Punteggi Di Caratteristica
+
+Ogni mostro possiede sei [punteggi di caratteristica](/rules/punteggi-caratteristica) e i loro modificatori corrispondenti.
 
 ## Tiri Salvezza
 
+Questa caratteristica è riservata alle creature in grado di resistere a certi tipi di effetto.
+
+- Esempio, una creatura difficile da affascinare potrebbe ottenere bonus ai [**Tiri Salvezza**](/rules/punteggi-caratteristica#tiri-salvezza) su [**Saggezza**](/rules/punteggi-caratteristica#saggezza).
+
+La maggior parte delle creature non possiede bonus ai [**Tiri Salvezza**](/rules/punteggi-caratteristica#tiri-salvezza), in tal caso questa sezione risulterà assente nella scheda.
+
+Il bonus al **Tiro Salvezza** è dato dalla somma del modificatore di caratteristica del mostro e del suo bonus di competenza, determinato dal [**grado di sfida**](#sfida) del mostro.
+
+| Sfida | Bonus di Competenza |
+| ----- | ------------------- |
+| 0     | +2                  |
+| ⅛     | +2                  |
+| ¼     | +2                  |
+| ½     | +2                  |
+| 1     | +2                  |
+| 2     | +2                  |
+| 3     | +2                  |
+| 4     | +2                  |
+| 5     | +3                  |
+| 6     | +3                  |
+| 7     | +3                  |
+| 8     | +3                  |
+| 9     | +4                  |
+| 10    | +4                  |
+| 11    | +4                  |
+| 12    | +4                  |
+| 13    | +5                  |
+| 14    | +5                  |
+| 15    | +5                  |
+| 16    | +5                  |
+| 17    | +6                  |
+| 18    | +6                  |
+| 19    | +6                  |
+| 20    | +6                  |
+| 21    | +7                  |
+| 22    | +7                  |
+| 23    | +7                  |
+| 24    | +7                  |
+| 25    | +8                  |
+| 26    | +8                  |
+| 27    | +8                  |
+| 28    | +8                  |
+| 29    | +9                  |
+| 30    | +9                  |
+
 ## Abilità
+
+La sezione **Abilità** è riservata ai mostri competenti in una o pià abilità
 
 ## Vulnerabilità, Resistenze e Immunità
 
@@ -148,9 +213,9 @@ I PE possono venire concessi:
 | Grado di Sfida | Punti Esperienza |
 | -------------- | ----------------- |
 | 0              | 0 o 10            |
-| 1/8            | 25                |
-| 1/4            | 50                |
-| 1/2            | 100               |
+| ⅛              | 25                |
+| ¼              | 50                |
+| ½              | 100               |
 | 1              | 200               |
 | 2              | 450               |
 | da completare ...              | ...               |
