@@ -146,7 +146,7 @@ La sezione **Abilità** è riservata ai mostri competenti in una o più abilità
 
 - Esempio, un mostro molto percettivo e furtivo potrebbe epossedere dei bonus alle prove di [**Saggezza**](/rules/punteggi-caratteristica#saggezza) (Percezione) e [**Destrezza**](/rules/punteggi-caratteristica#destrezza) (Furtività).
 
-Un bonus di abilità è dato dalla somma del modficatore di caratteristica rilevante del mostro e del suo bonus di competenza e del suo [**bonus di competenza per grado di sfida**](#bonus-di-competenza-per-grado-di-sfida)
+Un bonus di abilità è dato dalla somma del modificatore di caratteristica rilevante del mostro e del suo bonus di competenza e del suo [**bonus di competenza per grado di sfida**](#bonus-di-competenza-per-grado-di-sfida)
 
 Altri modificatori potrebbero essere applicabili.
 
