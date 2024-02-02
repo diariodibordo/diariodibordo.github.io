@@ -193,6 +193,11 @@ Entro un raggio specifico può:
 
 ## Linguaggi
 
+I linguaggi che un mostro può parlare sono elencati in ordine alfabetico.
+
+- Un mostro può capire un linguaggio ma non può parlarlo, in tal caso viene indicato nella sezione.
+- Un mostro che non parla e non capisce alcun linguaggio viene indicato con "-"
+
 ### Telepatia
 
 ## Sfida
@@ -277,11 +282,15 @@ I PE possono venire concessi:
 
 ## Uso Limitato
 
-##  Equipaggiamento
+## Equipaggiamento
+
+### Competenze in armi, armature e strumenti
+
+Una creatura potrebbe essere competenti in armi, armature o altri [strumenti](/rules/equipaggiamento) che possiede. Se il DM decide di cambiare questi oggetti, deve decidere se la creatura è competente o meno nel nuovo equipaggiamento (non vi sono regole intrinseche).
 
 ## Creature Leggendarie
 
-###  Azioni Leggendarie
+### Azioni Leggendarie
 
 ### La Tana di una Creatura Leggendaria
 
