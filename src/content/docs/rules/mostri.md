@@ -4,7 +4,7 @@ title: 🧌 Scheda Mostri
 description: Stati in cui personaggi o mostri si possono trovare.
 weight: 5
 ---
-L'ordine delle sezioni di questa pagina ripercorre sequenzialmente le caratteristiche presenti nella scheda di un mostro di DnD 5e in maniera completa.
+L'ordine delle sezioni di questa pagina ripercorre sequenzialmente le caratteristiche presenti nella **scheda delle statistiche** di un mostro di DnD 5e in maniera completa.
 
 ![red-dragon](../../../assets/imgs/monsters/ancient-red-dragon-page.jpg)
 
@@ -407,6 +407,13 @@ Alcune capacità speciali sono soggette a restrizioni riguardo al numero di volt
 - **Ricarica dopo un Riposo Breve o Lungo**, questa voce indica che un mostro può usare una capacità speciale una volta e che deve compeltare un riposo breve o lungo per usarla di nuovo.
 
 ## Equipaggiamento
+
+Raramente una scheda delle statistiche elenchi l'equipaggiamento di un msotro, ad eccezione dell'armatura o delle armi che potrebbe usare.
+
+Il DM può dotare i mostri di ulteriore equipaggiamento e degli oggetti insoliti che preferisce.
+
+- Può decidere quale parte dell'equipaggiamento sia recuperabile dopo che la creatura è stata uccisa, e se una qualsiasi parte di quell'equipaggiamento è ancora utilizzabile.
+- Se un mostro in grado di lanciare incantesimi ha bisogno di componenti materiali, si presume che essi siano presenti nella sua scheda delle statische.
 
 ### Competenze in armi, armature e strumenti
 
