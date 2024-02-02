@@ -337,7 +337,18 @@ Se un mostro possiede un trucchetto in cui il livello è rilevante e non viene f
 
 ### Incantesimi
 
+Possiede un livello dell'incantatore e degli slot incantesimo che può usare per lanciare i suoi incantesimi di livello pari o superiore al 1°.
 
+- Il livello dell'incantatore è usato anche per gli eventuali trucchetti inclusi nel tratto.
+- Il mostro possiede una lista di incantesimi conosciuto o preparati appartenenti a una classe specifica.
+  - Questa lista potrebbe anche includere degli incantesimi appartenenti a un privilegio di quella classe.
+  - Esempio, il privilegio [Dominio Divino](/classes/chierico#dominio-divino) del [chierico](/classes/chierico).
+
+Il mostro è considerato un membro di quella classe quando deve usare o entrare in sintonia con un oggetto magico che richiede l'appartenenza alla classe.
+
+Un mostro può lanciare un incantesimo dalla sua lista a un livello pià alto, se possiede uno slot incantesimo che gli consente di farlo (aumentando così il livello dell'incantesimo scelto).
+
+Il DM ha la facoltà di modificare gli incantesimi noti o preparati, sostituendo un incantesimo con un altro della stessa lista e dello stesso livello.
 
 ### Poteri Psionici
 
