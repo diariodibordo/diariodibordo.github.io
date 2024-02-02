@@ -84,7 +84,7 @@ Un mostro solitamente muore o è distrutto quando scende a 0 punti ferita.
 
 I punti ferita sono presentati sia come **formula di dadi** che come **valore medio**.
 
-La [taglia](#taglia) di un mostro determina il [**Dado Vita**](/) da usare per calcolare i suoi punti ferita, come vediamo nella seguente tabella (**Dadi Vita in Base alla Taglia**).
+La [taglia](#taglia) di un mostro determina il [**Dado Vita**](/wip) da usare per calcolare i suoi punti ferita, come vediamo nella seguente tabella (**Dadi Vita in Base alla Taglia**).
 
 | Taglia del Mostro | Dado Vita | Media dei PF per Dado Vita |
 | ----------------- | --------- | -------------------------- |
