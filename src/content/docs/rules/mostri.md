@@ -435,14 +435,26 @@ Un certo numero di **azioni leggendarie** possono essere effettuate al di fuori 
 
 - Una creatura redcupera le sue azioni leggendariespese all'inizio del suo turno.
 
-- Può rinunciare a usarle e non può usarle quando è incapacitatào impossiblitatta in altri modi a aeffettuare azioni.
+- Può rinunciare a usarle e non può usarle quando è incapacitatà o impossibilitata in altri modi a aeffettuare azioni.
 
 - Se [**sorpresa**](/rules/combattimento#sorpresa), può usarle soltanto dopo il suo primo turno in combattimento.
 
 ### La Tana di una Creatura Leggendaria
 
+Una **creatura leggendaria** può avere una sezione che descrive la sua tana e gli effetti speciali che può creare finchè si trova al suo interno, a volte con un atto volontario, altre volte semplicemente tramite la sua presenza.
 
+- Si applica soltanto a una creatura leggendaria che trascorre molto tempo nella sua tana.
 
 #### Azioni di Tana
 
+Se una [**creatura leggendaria**](#creature-leggendarie) possiede delle **azioni di tana**, può usarle per convogliare la magia latente nella sua tana.
+
+A conteggio di iniziativa 20 (perdendo tutte le iniziative in parità), può usare una delle sue opzioni di **azioni di tana**. Non può farlo finchè è incapacitata o impossibilitata in altri modi a effettuare azioni.
+
+- Se [**sorpresa**](/rules/combattimento#sorpresa), può usarle soltanto dopo il suo primo turno in combattimento.
+
 #### Effetti Regionali
+
+La semplice presenza di una [**creatura leggendaria**](#creature-leggendarie) può avere degli effetti strani e inaspettati sull'ambiente circostante, descritti in questa sezione.
+
+Gli effetti regionali terminano bruscamente o si dissipano col passare del tempo quando la **creatura leggendaria** muore.
