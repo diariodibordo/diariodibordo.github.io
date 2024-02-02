@@ -327,7 +327,17 @@ Sono caratteristiche che probabilmente risulteranno rilevanti in combattimento e
 
 Un mostro dotato della capacità innata di lanciare incantesimi.
 
+Un incantesimo innato con livello pari o superiore al 1° viene sempre lanciato al livello più basso possibile non può essere lanciato a un livello superiore.
+
+Se un mostro possiede un trucchetto in cui il livello è rilevante e non viene fornito alcun livello, si usa il [**grado di sfida**](#sfida) del mostro.
+
+- Un incantesimo innato può essere soggetto ad alcune regole o restrizioni speciali.
+- Gli incantesimi innati di un mostro non possono essere scambiati con altri incantesimi.
+- Se gli incantesimi innati di un mostro non richiedono [**Tiri per Colpire**](/rules/combattimento#tiri-per-colpire), non viene fornito alcun bonus di attacco per quegli incantesimi.
+
 ### Incantesimi
+
+
 
 ### Poteri Psionici
 
