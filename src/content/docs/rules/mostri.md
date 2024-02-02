@@ -321,11 +321,21 @@ I PE possono venire concessi:
 
 ## Tratti Speciali
 
+Sono caratteristiche che probabilmente risulteranno rilevanti in combattimento e che necessitano di alcune spiegazioni.
+
 ### Incantesimi Innati
+
+Un mostro dotato della capacità innata di lanciare incantesimi.
 
 ### Incantesimi
 
 ### Poteri Psionici
+
+Un mostro che lancia incantesimi usando soltanto il potere della mente, compare il descrittore "psionici" accanto al suo tratto speciale [**Incantesimi**](#incantesimi) o [**Incantesimi Innati**](#incantesimi-innati).
+
+Questo non ocmporta alcuna regola intrinseca, ma altre parti del gioco potrebbero farvi riferimento.
+
+- Un mostro dotato di questo potere *solitamente* non ha bisogno di alcuna componente per lanciare i suoi incantesimi.
 
 ## Azioni
 
