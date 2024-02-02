@@ -421,9 +421,27 @@ Una creatura potrebbe essere competenti in armi, armature o altri [strumenti](/r
 
 ## Creature Leggendarie
 
+Una **creatura leggendaria** può fare cose che le creature ordinarie non sono in grado di fare.
+
+- Può effettuare azionispeciali al di fuori del suo turno e può proiettare la sua influenza magica nel raggio di vari chilometri.
+
+Se una creatura assume la forma di una **creatura leggendaria** (es. incantesimo), non ottiene le [**azioni leggendarie**](#azioni-leggendarie), le [**azioni di tana**](#azioni-di-tana) o gli [**effetti regionali**](#effetti-regionali) di quella forma.
+
 ### Azioni Leggendarie
 
+Un certo numero di **azioni leggendarie** possono essere effettuate al di fuori del turno della **creatura leggendaria**.
+
+- Può usare solo un'opzione di azione leggendaria alla volta e solo alla fine del turno di un'altra creatura.
+
+- Una creatura redcupera le sue azioni leggendariespese all'inizio del suo turno.
+
+- Può rinunciare a usarle e non può usarle quando è incapacitatào impossiblitatta in altri modi a aeffettuare azioni.
+
+- Se [**sorpresa**](/rules/combattimento#sorpresa), può usarle soltanto dopo il suo primo turno in combattimento.
+
 ### La Tana di una Creatura Leggendaria
+
+
 
 #### Azioni di Tana
 
