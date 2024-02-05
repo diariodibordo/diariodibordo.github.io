@@ -9,6 +9,21 @@ sidebar:
         text: Nuovo
 ---
 
+| Classe | Dado Vita | Caratteristica Primaria | Competenze nei Tiri Salvezza | Competenze nelle Armature e nelle Armi |
+| ------ | --------- | ----------------------- | ---------------------------- | -------------------------------------- |
+| Barbaro | d12 | Forza | Forza e Costituzione | Armature leggere e medie, scudi, armi semplici e armi da guerra |
+| Bardo |
+| Chierico |
+| Druido |
+| Guerriero |
+| Ladro |
+| Mago |
+| Monaco |
+| Paladino |
+| Ranger |
+| Stregone |
+| Warlock |
+
 ## Barbaro
 
 ## Bardo
