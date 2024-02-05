@@ -1,6 +1,8 @@
 ---
 title: ⭕️ Punteggi di Caratteristica
 description: Come i punteggi caratteristica possono essere utilizzati durante la campagna di gioco.
+sidebar:
+    order: 4
 ---
 Le sei caratteristiche forniscono una descrizione rapida delle facoltà fisiche e mentali di ogni creatura.
 

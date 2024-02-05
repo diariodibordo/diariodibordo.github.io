@@ -2,7 +2,8 @@
 title: 🎗️ Condizioni
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 description: Stati in cui personaggi o mostri si possono trovare.
-weight: 4
+sidebar:
+    order: 8
 ---
 PHB. 290-292
 
