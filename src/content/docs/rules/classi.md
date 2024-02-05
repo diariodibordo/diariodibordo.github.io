@@ -5,7 +5,6 @@ description: Le classi base che caratterizzano il multiverso di Dnd.
 
 sidebar:
     order: 2
-
     badge:
         text: Nuovo
 ---
