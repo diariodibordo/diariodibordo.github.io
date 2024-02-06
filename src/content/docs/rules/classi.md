@@ -79,6 +79,38 @@ Vincoli dell'ira:
 
 Una volta entrato in ira per il numero di volte indicato nella colonna "Ira", deve completare un [**riposo lungo**](/avventura/riposo-lungo) per poterla ricaricare.
 
+### Difesa Senza Armatura
+
+Finchè un barbaro non indossa alcuna armatura, la sua [**Classe Armatura**](/wip) è pari a **10 + il suo modificatore di [Destrezza](/rules/punteggi-caratteristica#destrezza) + il suo modificatore di [Costituzione](/rules/punteggi-caratteristica#costituzione)**.
+
+- Può usare uno *scudo* ed ottenere comunque questo bonus.
+
+### Attacco Irruento
+
+Il primo attacco del suo turno, può decidere di sferrare un **attacco irruento**, il quale fornisce vantaggio ai [**Tiri per Colpire**](/rules/combattimento#tiri-per-colpire) in mischia che usano [**Forza**](/rules/punteggi-caratteristica#forza) in questo turno, ma fornisce vantaggio ai **Tiri per Colpire** (generico) dell'avversario fino al suo turno successivo.
+
+### Percezione del Pericolo
+
+### Cammino Primordiale
+
+### Aumento dei Punteggi di Caratteristica
+
+### Attacco Extra
+
+### Movimento Veloce
+
+### Istinto Ferino
+
+### Critico Brutale
+
+### Ira Implacabile
+
+### Ira Persistente
+
+### Potenza Indomabile
+
+### Campione Primordiale
+
 ## Bardo
 
 ## Chierico
