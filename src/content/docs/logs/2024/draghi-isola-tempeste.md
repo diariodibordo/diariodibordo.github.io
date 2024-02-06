@@ -6,21 +6,21 @@ date: '2024-01-19T12:01:36+01:00'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-![Splash](../../../assets/imgs/campaigns/stormwreck-isle/00-001.png)
+![Splash](../../../../assets/imgs/campaigns/stormwreck-isle/00-001.png)
 
 ## Giocatori
 
 **Burbit**
-![burbit-token](../../../assets/imgs/campaigns/stormwreck-isle/burbit.png)
+![burbit-token](../../../../assets/imgs/campaigns/stormwreck-isle/burbit.png)
 ..background..
 
 **Duca Ignazio di AlbaRadiante**
-![duca-token](../../../assets/imgs/campaigns/stormwreck-isle/duca.png)
+![duca-token](../../../../assets/imgs/campaigns/stormwreck-isle/duca.png)
 
 ..background..
 
 **Ruidjert**
-![ruidjert-token](../../../assets/imgs/campaigns/stormwreck-isle/ruidjert.png)
+![ruidjert-token](../../../../assets/imgs/campaigns/stormwreck-isle/ruidjert.png)
 
 ..background..
 
