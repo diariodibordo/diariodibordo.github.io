@@ -114,3 +114,22 @@ weight: 1
   * Sotto l'asse vi era un altro tesoro nascosto, un sacco con 200mo.
 * Scendendo nel *Ponte Inferiore* hanno dovuto sfidare due *Zombie* ed un *Ghoul* che si nascondeva dietro le scatole.
 * Dopo averli sconfitti hanno prelevato dei tesori che si nascondevano in tre casse (*10 kg di chiodi di garofano*, *10 lingotti d'argento* e una *pergamena magica*).
+
+### Episodio 8 - Capitolo 3
+
+* Tentando di salpare dal relitto della *Rosa dei Venti* vengono aggrediti da due *Arpie*, avviene un feroce scontro tra il gruppo e quest'ultime. L'astuzia e la forza del gruppo li mette in serio vantaggio nonostante la forze e la feroce delle arpie. Ques'ultime sono diffidenti tra loro, ed il Duca ne instilla il dubbio, facendole combattere tra di loro. Alla fine Burbit riesce a prendere la zampa della prima, trattenendola. Quest'ultima supplica di lasciarla in vita, in cambio offrono un finto "tesoro" (50mr e 15 patate) con l'inganno, il quale è stato smascherato dal gruppo scaturendone la fuga di una delle due (non bloccata), alla fine mossi dalla pietà l'hanno lasciata in vita scappare.
+* Riposo lungo, si risvegliano dopo degli incubi particolare ed è *Venerdì*.
+  * Burbit sogna
+  * Duca sogna
+  * Ruidjert sogna
+* Tornando parlano con Runara per scoprire di più su questo **Brastos**, comunica che l'intero equipaggio è stato sepolto in una cimitero a nord-est dell'isola, gli dice anche di controllare i censimenti con **Arvandus** per vedere se il cadavere di **Aleitha** fosse stato ritrovato.
+  * Il nome di **Aleitha** non è presente nei censimenti.
+  * Nel frattempo chiedono ad **Arvandus** della runa magica che hanno trovato in fondo al mare, riconosce la provenienza antica della magia e gli rivela che sicuramente non è originaria da qualche mago isolano e che quindi ha provenienze esterne.
+    * Manda una lettera con il suo gufo ad un suo caro collega di **Verdinverno** esperto in rune magiche per sapere di più su di queste.
+* Gli avventurieri si incamminano al cimitero, una volta raggiunto, entrano nel loculo del capitano, il talismano si illumina avvicinandosi alla sua bara, Burbit lo posiziona sul suo petto. Aleitha e Brastos sono di nuovo assieme, il ricongiungimento del loro amore spezza la maledizione posta da **Orcus**.
+  * Raggiungono il livello 3 delle loro classi.
+* Tornano al chiostro, Runara li interrompe dicendogli di venire al tempio perchè deve dargli una comunicazione urgente.
+* **Runara** rivela la sua vera forma, un **Drago di Bronzo (Antico)** quest'ultima li introduce ad una missione che deve svolgere per loro. Devono recuperare il cucciolo perduto **Aidron** e gli consegna la *chiave di lunopietra*.
+  * Questo cucciolo si trova con molta probabilità alla **Torre dell'Osservatorio**, uno dei posti più remoti dell'isola il quale è avvolto da una magia simile a quella di *Tempesta Nera* (vecchio avversario di *Runara*).
+* Inizio del Capitolo 4.
+* Si fermano alle cucine con **Tarak** e gli altri per fermarsi a pranzo e parlare di *orsigufo*.
