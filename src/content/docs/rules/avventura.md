@@ -5,3 +5,7 @@ description: Alcune dritte su come dirigere al meglio l'avventura.
 sidebar:
     order: 5
 ---
+
+TODO: volendo si può inserire qui il concetto di dado vita
+
+## Dado Vita
