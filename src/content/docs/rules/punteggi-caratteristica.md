@@ -22,7 +22,7 @@ Un **punteggio di caratteristica** non misura semplicemente le capacità innate,
 * Avventurieri possono raggiungere punteggi pari a 20 (anche solitamente si fermano a 18).
 * Mostri e esseri divini possono arrivare a 30.
 
-A ogni caratteristica è abbinato un **modificatore** derivato dal **punteggio caratteristica**
+A ogni caratteristica è abbinato un **modificatore** derivato dal **punteggio caratteristica**.
 
 | Punteggio di Caratteristica | Modificatore |
 | --------------------------- | ------------ |

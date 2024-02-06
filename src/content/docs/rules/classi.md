@@ -62,12 +62,13 @@ Un barbaro inizia con l'[**equipaggiamento**](/rules/equipaggiamento) seguente, 
 
 ### Ira
 
-Il barbaro nel suo turno di [**Combattimento**](/rules/combattimento) può entrare in **ira** come [**azione bonus**](/rules/combattimento#azione-bonus).
+Il barbaro nel suo turno di [**combattimento**](/rules/combattimento) può entrare in **ira** come [**azione bonus**](/rules/combattimento#azione-bonus).
 
 Se non indossa un *armatura pesante*, ottiene i seguenti benefici:
 
-- Dispone di vantaggio alle prove di Forza e ai tiri salvezza su Forza
+- Dispone di vantaggio alle prove di Forza e ai tiri salvezza su Forza.
 - Quando effettua un attacco con un'arma da mischia usando Forza, ottiene un bonus al tiro per i danni che incrementa con il livello della classe (come mostrato nella tabella precedente).
+- Dispone di [**resistenza**](/rules/combattimento#resistenze-e-vulnerabilità) ai danni *contundenti*, *perforanti* e *taglienti*.
 
 ## Bardo
 
