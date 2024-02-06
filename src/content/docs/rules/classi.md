@@ -101,7 +101,42 @@ Può scegliere un cammino che definisce la natura della sua furia, tra : **Cammi
 
 #### Cammino del Berserker
 
+##### Frenesia
+
+Dal 3° livello, può entrare in frenesia quando entra in ira.
+
+- Se lo fa, per la **durata della sua ira** può effettuare un singolo attacco con un'arma da mischia come azione bonus in ognuno dei suoi turni successivi dopo di questo.
+- Al termine dell'ira subisce un [**livello di indebolimento**](/rules/condizioni#indebolimento).
+
+##### Ira Incontenibile
+
+Dal 6° livello, il barbaro non può essere affascinato o spaventato mentre è in ira. Se viene affascinato o spaventato quando entra in ira, quell'effetto è sospeso per utta la durata dell'ira.
+
+##### Presenza Intimidatoria
+
+Dal 10° livello, il barbaro può usare la sua azione per spaventare qualcuno con la sua presenza minacciosa.
+
+- La creatura deve essere visibile entro 9 metri.
+- Se la creatura è in grado di vedere o sentire il barbaro, allora deve superare un tiro salvezza su Saggezza con **CD 8 + [bonus di competenza](/rules/punteggi-caratteristica#bonus-di-competenza) del barbaro + modificatore di [Carisma](/rules/punteggi-caratteristica#carisma) del barbaro**, altrimenti sarà [**spaventata**](/rules/condizioni) fino alla fine del turno successivo a questo.
+  - Se superato, il barbaro non può usare questo privilegio sulla creatura per 24 ore.
+- Nei turni successivi, il barbaro può usare la sua azione per estendere la durata di questo effetto sulla creatura spaventata fino alla fine del proprio turno successivo.
+  - Se la creatura termina il suo turno fuori dalla linea di vista o oltre 18 metri di distanza dal barbaro, questo effetto si esaurisce.
+
+##### Ritorsione
+
+Dal 14° livello, quando subisce danni da una creatura che si trova entro 1,5m da lui, può usare la sua [**reazione**](/rules/combattimento#reazione) per effettaure un attacco con un'arma da mischia contro quella creatura.
+
 #### Cammino Totemico
+
+##### Cercatore di Spiriti
+
+##### Spirito Totemico
+
+##### Aspetto della Bestia
+
+##### Viandante Spirituale
+
+##### Sintonia Totemica
 
 ### Aumento dei Punteggi di Caratteristica
 
