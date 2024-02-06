@@ -91,25 +91,58 @@ Il primo attacco del suo turno, può decidere di sferrare un **attacco irruento*
 
 ### Percezione del Pericolo
 
+Dispone di vantaggio ai [**Tiri Salvezza**](/rules/combattimento#tiri-salvezza) su [**Destrezza**](/rules/punteggi-caratteristica#destrezza) contro gli effetti che può vedere, come le trappole e gli incantesimi.
+
+Per ottenere questo bonus non deve essere [**accecato, assordato o incapacitato**](/rules/condizioni).
+
 ### Cammino Primordiale
+
+Può scegliere un cammino che definisce la natura della sua furia, tra : **Cammino del Berserker** o **Cammino Totemico**.
+
+#### Cammino del Berserker
+
+#### Cammino Totemico
 
 ### Aumento dei Punteggi di Caratteristica
 
+Può aumentare di 2 un [**punteggio di caratteristica**](/rules/punteggi-caratteristica) a sua scelta (di conseueto non è possibile eccedere un punteggio di 20 per caratteristica).
+
 ### Attacco Extra
+
+Può attaccare due volte anzichè una, ogni volta che effettua l'azione di [**Attacco**](/rules/combattimento#attacco) nel proprio turno.
 
 ### Movimento Veloce
 
+La velocità del barbaro aumenta di 3 metri purchè non indossi un *armatura pesante*.
+
 ### Istinto Ferino
+
+Ottiene vantaggio ai [**tiri iniziativa**](/rules/combattimento#tiro-iniziativa), inoltre, se il barbaro è sorpreso all'inizio del combattimento e non è [**incapacitato**](/rules/condizioni), può agire normalmente nel suo primo turno, ma **solamente se entra in ira in quel turno**.
 
 ### Critico Brutale
 
+Può tirare un **dado dei danni dell'arma aggiuntivo** quando effettua un [**colpo critico**](/rules/combattimento#colpo-critico).
+
+Questo effetto aumenta di 2 dadi aggiuntivi al 12° e 13° livello.
+
 ### Ira Implacabile
+
+Se scende a 0 [**punti ferita**](/rules/combattime#punti-ferita) mentre è in ira e non è ucciso sul colpo, può effettuare un [**tiro salvezza**](/rules/combattimento#tiro-salvezza) su [**Costituzione**](/rules/punteggi-caratteristica#costituzione) con CD 10. Se lo supera, **rimane a 1 punto ferita**.
+
+Ogni volta che utilizza questo privilegio la CD aumenta di 5, la CD viene ripristinata a 10 quando completa un [**riposo lungo**](/rules/avventura#riposo-lungo).
 
 ### Ira Persistente
 
+L'ira termina **solamente** se cade [**privo di sensi**](/rules/condizioni) o se decide di porvi termine.
+
 ### Potenza Indomabile
 
+Se il totale di una prova di [**Forza**](/rules/punteggi-caratteristica#forza) è inferiore al suo punteggio di **Forza**, può usare il proprio punteggio di **Forza**.
+
 ### Campione Primordiale
+
+- I suoi punteggi di [**Forza**](/rules/punteggi-caratteristica#forza) e [**Costituzione**](/rules/punteggi-caratteristica#costituzione) aumentano di 4.
+- Il suo massimo per quei punteggi è ora di 24.
 
 ## Bardo
 
