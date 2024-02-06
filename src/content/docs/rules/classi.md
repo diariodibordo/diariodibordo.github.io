@@ -70,6 +70,15 @@ Se non indossa un *armatura pesante*, ottiene i seguenti benefici:
 - Quando effettua un attacco con un'arma da mischia usando Forza, ottiene un bonus al tiro per i danni che incrementa con il livello della classe (come mostrato nella tabella precedente).
 - Dispone di [**resistenza**](/rules/combattimento#resistenze-e-vulnerabilità) ai danni *contundenti*, *perforanti* e *taglienti*.
 
+Vincoli dell'ira:
+
+- Non può lanciare [**incantesimi**](/rules/incantesimi) o concentrarsi su essi.
+- L'ira dura 1 minuto (~10 round).
+- L'ira termina in anticipo se il barbaro cade privo di sensi o se il suo turno termina e non ha attaccato una creatura ostile dal suo ultimo turno o non ha subito danni da allora.
+- Un barbaro può volontariamente porre fine all'ira nel proprio turno come [**azione bonus**](/rules/combattimento#azione-bonus).
+
+Una volta entrato in ira per il numero di volte indicato nella colonna "Ira", deve completare un [**riposo lungo**](/avventura/riposo-lungo) per poterla ricaricare.
+
 ## Bardo
 
 ## Chierico
