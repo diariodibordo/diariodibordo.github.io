@@ -130,11 +130,31 @@ Dal 14° livello, quando subisce danni da una creatura che si trova entro 1,5m d
 
 ##### Cercatore di Spiriti
 
+Dal 3° livello ottiene la capacità di lanciare gli incantesimi *percezione delle bestie* e *parlare con gli animali*, ma solo come **rituali**.
+
 ##### Spirito Totemico
+
+Al 3° livello, il barbaro sceglie uno spirito totemico e ne ottiene il relativo privilegio. Deve fabbricare o acquisire un oggetto fisico che funga per lui da totem.
+
+A sua opzione potrebbe sviluppare anche degli attributi fisici minore che richiamino il suo spirito totemico.
+
+Un **animale totemico** potrebbe essere un animale correlato a quelli dell'elenco puntato (meglio se più pertinente alle terre di provenienza del barbaro):
+
+- **Acquila**, finchè il barbaro è in ira, le altre creature dispongono di **svantaggio** ai tiri degli [**attacchi di opportunità**](/combattimento/azioni#attacco-di-opportunità) contro di lui, il barbaro può usare l'azione [**Scatto**](/combattimento/Azioni#scatto) come **azione bonus** nel proprio turno
+- **Lupo**, finchè il barbaro è in ira, i suoi amici dispongono di **vantaggio** ai [**Tiri per Colpire**](/combattimento/tiri-per-colpire) in **mischia** conto ogni creatura che si trovi entro 1,5m da lui e che gli sia ostile.
+- **Orso**, finchè il barbaro è in ira, ottiene **resistenza** a tutti i danni tranne che a quelli psichici.
 
 ##### Aspetto della Bestia
 
+Dal 6° livello, ottiene un beneficio magico basato su un animale totemico di sua scelta. Può scegleire lo stesso animal che ha scelto al 3° livello o un animale diverso.
+
+- **Acquila**, può vedere fino a 1,5km di distanza senza difficoltà e discernere i dettagli come se osservasse qualcosa entro 30m da lui. Inoltre, la luce fioca non impone svantaggi oalle sue **prove di [Saggezza](/punteggi-caratteristica#saggezza)(Percezione)**.
+- **Lupo**, può seguire le tracce delle altre creature mentre viaggia a passo veloce e può muoversi furtivamente mentre viaggia a passo normale (vedere [**Avventura**](/avventura)).
+- **Orso**, la sua capacità di trasporto raddoppia e il barbaro dispone di vantaggio alle prove di **[Forza](/punteggi-caratteristica#forza)** effettaute per spingere, trascinare, sollevare o spezzare oggetti.
+
 ##### Viandante Spirituale
+
+Dal 10° livelllo può lanciare l'incantesimo *comunione con la natura*, ma solo come **rituale**. Quando lo fa, una versione spirituale di uno degli animali che ha scelto come [**Spirito Totemico**](#spirito-totemico) o [**Aspetto della Bestia**](#aspetto-della-bestia) gli appare per fornirgli le informazioni che desidera.
 
 ##### Sintonia Totemica
 
