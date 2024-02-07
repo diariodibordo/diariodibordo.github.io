@@ -6,7 +6,7 @@ description: Le classi base che caratterizzano il multiverso di Dnd.
 sidebar:
     order: 2
     badge:
-        text: Nuovo
+        text: WIP
 ---
 
 | Classe    | Dado Vita | Caratteristica Primaria | Competenze nei Tiri Salvezza | Competenze nelle Armature e nelle Armi                                                                                                                               |

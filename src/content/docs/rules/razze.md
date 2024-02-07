@@ -5,7 +5,7 @@ description: Le razze base che caratterizzano il multiverso di Dnd.
 sidebar:
     order: 1
     badge:
-        text: Nuovo
+        text: TODO
 ---
 
 ## Elfo
