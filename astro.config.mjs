@@ -1,11 +1,16 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
+import tailwind from "@astrojs/tailwind";
+
 // https://astro.build/config
 export default defineConfig({
   site: 'https://diariodibordo.github.io',
   integrations: [starlight({
     title: 'Diario di Bordo',
+    customCss:[
+      './src/tailwind.css',
+    ],
     locales: {
       root: {
         label: 'Italiano',
@@ -19,7 +24,7 @@ export default defineConfig({
       label: 'Manuale',
       autogenerate: {
         directory: 'rules'
-      },
+      }
     }, {
       label: '📝 Logs',
       autogenerate: {
@@ -31,6 +36,7 @@ export default defineConfig({
         directory: 'resources'
       }
     }]
-  })
-]
+  }), tailwind({
+    applyBaseStyles: false,
+  })]
 });
