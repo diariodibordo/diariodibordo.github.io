@@ -242,6 +242,60 @@ Se il totale di una prova di [**Forza**](/rules/punteggi-caratteristica#forza) �
 | 19      | +6                   | Aumento dei Punteggi di Caratteristica              | 4                      | 22                     | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 3 (5°), 2 (6°), 1 (7°), 1 (8°), 1 (9°) |
 | 20      | +6                   | Ispirazione Superiore                               | 4                      | 22                     | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 3 (5°), 2 (6°), 2 (7°), 1 (8°), 1 (9°) |
 
+### Incantesimi
+
+#### Trucchetti
+
+#### Slot Incantesimo
+
+#### Incantesimi di 1° Livello e di Livello Superiore
+
+#### Caratteristica da Incantatore
+
+#### Celebrare Rituali
+
+#### Focus da Incantatore
+
+### Ispirazione Bardica
+
+### Factotum
+
+### Canto di Riposo
+
+### Collegio Bardico
+
+#### Collegio della Sapienza
+
+##### Competenze Bonus
+
+##### Parole Taglienti
+
+##### Segreti Magici Aggiuntivi
+
+##### Abilità Impareggiabile
+
+#### Collegio del Valore
+
+##### Competenze Bonus
+
+##### Ispirazione in Combattimento
+
+##### Attacco Extra
+
+##### Magia da Battaglia
+
+### Maestria
+
+### Aumento dei Punteggi di Caratteristica
+
+### Fonte di Ispirazione
+
+### Controfascino
+
+### Segreti Magici
+
+### Ispirazione Superiore
+
 ## Chierico
 
 ## Druido
