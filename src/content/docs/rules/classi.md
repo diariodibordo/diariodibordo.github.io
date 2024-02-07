@@ -205,6 +205,20 @@ Se il totale di una prova di [**Forza**](/rules/punteggi-caratteristica#forza) �
 
 ## Bardo
 
+**Competenze**:
+
+- [**Armature**](/equipaggiamento#armature): *Armature leggere*
+- [**Armi**](/equipaggiamento#armi): *Armi semplici*, *balestre a mano*, *spade corte*, *spade lunghe*, *stocchi*
+- [**Strumenti**](/equipaggiamento#strumenti): Tre strumenti musicali a scelta
+- [**Abilità**](/rules/punteggi-caratteristica#abilità), tre a scelta
+
+**[Equipaggiamento](/equipaggiamento)**:
+
+- *Stocco*, *spada lunga* o una qualsiasi *arma semplice*
+- Una *dotazione da diplomatico* o una *dotazione di intrattenitore*
+- Un *liuto* o un qualsiasi altro strumento musicale
+- *Armatura di cuoio* o un *pugnale*
+
 | Livello | Bonus di Competenza  | Privilegi                                           | Trucchetti Conosciuti  | Incantesimi Conosciuti | Slot Incantesimo (Livello)                                             |
 | ------- | -------------------- | --------------------------------------------------- | ---------------------- | ---------------------- | ---------------------------------------------------------------------- |
 | 1       | +2                   | Incantesimi, Ispirazione Bardica (d6)               | 2                      | 4                      | 2 (1°)                                                                 |
