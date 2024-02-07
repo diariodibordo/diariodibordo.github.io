@@ -8,6 +8,10 @@ export default defineConfig({
   site: 'https://diariodibordo.github.io',
   integrations: [starlight({
     title: 'Diario di Bordo',
+    // rendero pubblico il progetto open-source una volta sicuro
+    editLink: {
+      baseUrl: 'https://github.com/diariodibordo/diariodibordo.github.io/tree/main'
+    },
     customCss:[
       './src/tailwind.css',
     ],
@@ -31,11 +35,10 @@ export default defineConfig({
         directory: 'logs'
       }
     }, {
-      label: 'Risorse',
-      autogenerate: {
-        directory: 'resources'
-      }
-    }]
+      label: '🛰️Strumenti',
+      link: '/strumenti'
+    }
+  ]
   }), tailwind({
     applyBaseStyles: false,
   })]

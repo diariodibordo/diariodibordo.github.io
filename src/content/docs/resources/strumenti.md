@@ -1,6 +1,9 @@
 ---
 title: 🛰️ Strumenti
 weight: 1
+sidebar:
+    badge:
+        text: TODO
 ---
 
 TODO: sistemare la sezione e abbellirla (bullet list?)
