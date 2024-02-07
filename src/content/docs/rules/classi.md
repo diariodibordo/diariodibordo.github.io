@@ -201,6 +201,29 @@ Se il totale di una prova di [**Forza**](/rules/punteggi-caratteristica#forza) �
 
 ## Bardo
 
+| Livello | Bonus di Competenza  | Privilegi                                           | Trucchetti Conosciuti  | Incantesimi Conosciuti | Slot Incantesimo (Livello)                                             |
+| ------- | -------------------- | --------------------------------------------------- | ---------------------- | ---------------------- | ---------------------------------------------------------------------- |
+| 1       | +2                   | Incantesimi, Ispirazione Bardica (d6)               | 2                      | 4                      | 2 (1°)                                                                 |
+| 2       | +2                   | Factotum, Canto di Riposo (d6)                      | 2                      | 5                      | 3 (1°)                                                                 |
+| 3       | +2                   | Collegio Bardico, Maestri                           | 2                      | 6                      | 4 (1°), 2 (2°)                                                         |
+| 4       | +2                   | Aumento dei Punteggi di Caratteristica              | 3                      | 7                      | 4 (1°), 3 (2°)                                                         |
+| 5       | +3                   | Ispirazione Bardica (d8), Fonte di Ispirazione      | 3                      | 8                      | 4 (1°), 3 (2°), 2 (3°)                                                 |
+| 6       | +3                   | Controfascino, Privilegio del Collegio Bardico      | 3                      | 9                      | 4 (1°), 3 (2°), 3 (3°)                                                 |
+| 7       | +3                   | -                                                   | 3                      | 10                     | 4 (1°), 3 (2°), 3 (3°), 1 (4°)                                         |
+| 8       | +3                   | Aumento dei Punteggi di Caratteristica              | 3                      | 11                     | 4 (1°), 3 (2°), 3 (3°), 2 (4°)                                         |
+| 9       | +4                   | Canto di Riposo (d8)                                | 3                      | 12                     | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 1 (5°)                                 |
+| 10      | +4                   | Ispirazione Bardica (d10), Maestria, Segreti Magici | 4                      | 14                     | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 2 (5°)                                 |
+| 11      | +4                   | -                                                   | 4                      | 15                     | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 2 (5°), 1 (6°)                         |
+| 12      | +4                   | Aumento dei Punteggi di Caratteristica              | 4                      | 15                     | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 2 (5°), 1 (6°)                         |
+| 13      | +5                   | Canto di Riposo (d10)                               | 4                      | 16                     | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 2 (5°), 1 (6°), 1 (7°)                 |
+| 14      | +5                   | Segreti Magici, Privilegio del Collegio Bardico     | 4                      | 18                     | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 2 (5°), 1 (6°), 1 (7°)                 |
+| 15      | +5                   | Ispirazione Bardica (d12)                           | 4                      | 19                     | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 2 (5°), 1 (6°), 1 (7°), 1 (8°)         |
+| 16      | +5                   | Aumento dei Punteggi di Caratteristica              | 4                      | 19                     | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 2 (5°), 1 (6°), 1 (7°), 1 (8°)         |
+| 17      | +6                   | Canto di Riposo (d12)                               | 4                      | 20                     | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 2 (5°), 1 (6°), 1 (7°), 1 (8°), 1 (9°) |
+| 18      | +6                   | Segreti Magici                                      | 4                      | 22                     | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 3 (5°), 1 (6°), 1 (7°), 1 (8°), 1 (9°) |
+| 19      | +6                   | Aumento dei Punteggi di Caratteristica              | 4                      | 22                     | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 3 (5°), 2 (6°), 1 (7°), 1 (8°), 1 (9°) |
+| 20      | +6                   | Ispirazione Superiore                               | 4                      | 22                     | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 3 (5°), 2 (6°), 2 (7°), 1 (8°), 1 (9°) |
+
 ## Chierico
 
 ## Druido
