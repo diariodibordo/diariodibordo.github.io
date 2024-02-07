@@ -29,7 +29,11 @@ si adotta la formula **Dado Vita (o valore medio) + Modificatore di [Costituzion
 
 ## Barbaro
 
-Il barbaro ha due [**Abilità**](/rules/punteggi-caratteristica#abilità) a scelta tra: *Addestrare Animali, Atletica, Intimidire, Natura, Percezione e Sopravvivenza*
+**Competenze**:
+
+- [**Armature**](/equipaggiamento#armature): *Armature leggere*, *armature medie*, *scudi*
+- [**Armi**](/equipaggiamento#armi): *Armi semplici*, *armi da guerra*
+- [**Abilità**](/rules/punteggi-caratteristica#abilità), due a scelta tra: *Addestrare Animali, Atletica, Intimidire, Natura, Percezione e Sopravvivenza*
 
 Un barbaro inizia con l'[**equipaggiamento**](/rules/equipaggiamento) seguente, in aggiunta a quello conferito dal background:
 
