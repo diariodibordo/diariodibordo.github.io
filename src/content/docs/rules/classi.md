@@ -246,9 +246,19 @@ Se il totale di una prova di [**Forza**](/rules/punteggi-caratteristica#forza) �
 
 #### Trucchetti
 
+Conosce due trucchetti a sua scelta tratti dalla lista degli [**incantesimi**](/rules/incantesimi) da bardo.
+
+Apprende ulteriori trucchetti da bardo ai livelli successivi come indicato nella colonna "Trucchetti Conosciuti".
+
 #### Slot Incantesimo
 
+La tabella del bardo indica quanti slot incantesimo possiede in base al suo livello. Per lanciare uno di questi incantesimi, il bardo deve spendere uno slot incantesimi di livello pari o superiore al livello dell'incantesimo. Li recupera dopo un [**riposo lungo**](/rules/avventura#riposo-lungo).
+
 #### Incantesimi di 1° Livello e di Livello Superiore
+
+Al 1° livello conosce 4 incantesimi di 1° livello a sua scelta dalla lista incantesimi del bardo. La colonna "Incantesimi Conosciuti" contiene il numero di incantesimi che può conoscere il bardo ad un dato livello, il livello di questi è determinato dal livello massimo degli slot incantesimi disponibili.
+
+Inoltre, quando raggiunge un nuovo livello può scegliere **un** incantesimo conosciuto e sostituirlo con uno della lista degli incantesimi da bardo.
 
 #### Caratteristica da Incantatore
 
