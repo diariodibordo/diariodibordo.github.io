@@ -256,17 +256,48 @@ La tabella del bardo indica quanti slot incantesimo possiede in base al suo live
 
 #### Incantesimi di 1° Livello e di Livello Superiore
 
-Al 1° livello conosce 4 incantesimi di 1° livello a sua scelta dalla lista incantesimi del bardo. La colonna "Incantesimi Conosciuti" contiene il numero di incantesimi che può conoscere il bardo ad un dato livello, il livello di questi è determinato dal livello massimo degli slot incantesimi disponibili.
+Al 1° livello conosce 4 incantesimi di 1° livello a sua scelta dalla lista incantesimi del bardo.
+
+La colonna "Incantesimi Conosciuti" contiene il numero di incantesimi che può conoscere il bardo ad un dato livello, il livello di questi è determinato dal livello massimo degli slot incantesimi disponibili.
 
 Inoltre, quando raggiunge un nuovo livello può scegliere **un** incantesimo conosciuto e sostituirlo con uno della lista degli incantesimi da bardo.
 
 #### Caratteristica da Incantatore
 
+[**Carisma**](/rules/punteggi-caratteristica#carisma) è la caratteristica da incantatore per gli incantesimi da bardo. Un bardo usa carisma ogni volta che un incantesimo fa riferimento alla sua caratteristica da incantatore.
+
+Usa inoltre il suo modificatore di Carisma per definire la CD del tiro salvezza di un incantesimo da bardo da lui lanciato e quando effettua un tirpo per colpire con un incantesimo.
+
+**CD [tiro salvezza](/rules/combattimento#tiro) dell'incantesimo =** 8 + bonus di competenza del bardo + modificatore di Carisma del bardo.
+
+**Modificatore di attacco dell'incantesimo =** bonus di competenza del bardo + modificatore di Carisma del bardo
+
 #### Celebrare Rituali
+
+Può lanciare qualsiasi incantesimo da bardo a lui conosciuto come rituale se quell'incantesimo possiede il descrittore [**rituale**](/rules/incantesimo#rituale).
 
 #### Focus da Incantatore
 
+Può usare uno strumento musicale come focus da incantatore per i suoi incantesimi da bardo.
+
 ### Ispirazione Bardica
+
+Può ispirare gli altri attraverso il lirismo delle sue parole o della sua musica. Per farlo usa un'**azione bonus** nel suo turno per scegliere una creatura diversa da se stesso, situata entro 18m da lui e in grado di sentirlo.
+
+Quella creatura ottiene un **Dado di Ispirazione Bardica** (d6).
+
+Per una volta entro i 10 minuti successivi, quella creatura può tirare e consumare il dado aggiungere il risultato ottenuto a una [**prova di caratteristica**](/rules/punteggi-caratteristica#prove-di-caratteristica), un [**tiro per colpire**](/rules/combattimento#tiro-per-colpire) o un [**tiro salvezza**](/rules/combattimento#tiro) da essa effettuato.
+
+- Una volta tirato il dado di Ispirazione Bardica, quel dado è perduto.
+- Una creatura può possedere un solo dado di Ispirazione Bardica alla volta.s
+
+La creatura può aspettare di avere tirato il d20 prima di decidere se tirare e consumare il dado di Ispirazione Bardica, ma deve decidere se utilizzarl oo meno prima che il DM dichiari se il tiro abbia avuto successo o meno.
+
+Il bardo può utilizzare questo privilegio un numero di volte pari al suo modificatore di Carisma (minimo 1 volta).
+
+- Gli utilizzi vengono recuperati dopo un [**riposo lungo**](/avventura/riposo-lungo).
+
+Il Dado di Ispirazione Bardica cambai quando il bardo raggiunge livelli superiori.
 
 ### Factotum
 
