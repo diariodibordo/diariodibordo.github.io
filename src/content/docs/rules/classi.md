@@ -301,7 +301,13 @@ Il Dado di Ispirazione Bardica cambai quando il bardo raggiunge livelli superior
 
 ### Factotum
 
+Può aggiungere metà del suo **bonus di competenza**, arrotondato per *difetto*, a ogni [**prova di caratteristica**](/rules/punteggi-caratteristica#prove-di-caratteristica) da lui effettuata che non includa già il suo bonus di competenza.
+
 ### Canto di Riposo
+
+Può usare una musica o un'orazione lenitiva per infondere nuova vita nei suoi alleati durante un [**riposo breve**](/avventura/riposo-breve). Se il bardo o le eventuali creature amiche sono in grado di udire la sua esibizione recuperano [**punti ferita**](/rules/combattime#punti-ferita) alla fine di un riposo breve spendendo uno o più Dadi Vita, ognuna di quelle creature recupera 1d6 [**punti ferita**](/rules/combattime#punti-ferita) extra.
+
+I [**punti ferita**](/rules/combattime#punti-ferita) extra aumentano quando il bardo raggiunge livelli superiori.
 
 ### Collegio Bardico
 

@@ -1,3 +1,20 @@
+# Progetto manuale
+
+## Voci da posizionare correttamente
+
+- Dado Vita (in avventura?)
+
+## Nome
+
+Ancora da decidere:
+
+- La caverna del drago
+- Biblioteca di Sigil
+
+# Progetto logs
+
+tenere diario di bordo per i logs.
+
 # Starlight Starter Kit: Basics
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
