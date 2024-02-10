@@ -3,7 +3,7 @@ title: 🧌 Scheda Mostri
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 description: Stati in cui personaggi o mostri si possono trovare.
 sidebar:
-    order: 8
+    order: 7
 ---
 L'ordine delle sezioni di questa pagina ripercorre sequenzialmente le caratteristiche presenti nella **scheda delle statistiche** di un mostro di DnD 5e in maniera completa.
 

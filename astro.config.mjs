@@ -37,6 +37,12 @@ export default defineConfig({
     }, {
       label: '🛰️Strumenti',
       link: '/strumenti'
+    },{
+      label: 'Classi',
+      badge: 'WIP',
+      autogenerate: {
+        directory: '/classi'
+      }
     }
   ]
   }), tailwind({
