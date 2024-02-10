@@ -1,5 +1,5 @@
 ---
-title: 🗂️ Riassunto
+title: 🗺️ Mappa
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 description: Tabella che riassume la struttura principale di tutte le classi di DnD 5e.
 
