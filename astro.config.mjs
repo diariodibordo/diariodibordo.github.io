@@ -29,19 +29,21 @@ export default defineConfig({
       autogenerate: {
         directory: 'rules'
       }
-    }, {
-      label: '📝 Logs',
-      autogenerate: {
-        directory: 'logs'
-      }
-    }, {
-      label: '🛰️Strumenti',
-      link: '/strumenti'
     },{
       label: 'Classi',
       badge: 'WIP',
       autogenerate: {
         directory: '/classi'
+      }
+    }, {
+      label: 'Logs',
+      autogenerate: {
+        directory: 'logs'
+      }
+    }, {
+      label: 'Risorse',
+      autogenerate: {
+        directory: 'resources'
       }
     }
   ]
