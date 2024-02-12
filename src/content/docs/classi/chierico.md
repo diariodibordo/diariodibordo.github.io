@@ -64,13 +64,39 @@ Gli incantesimi devono essere di un livello di cui il chierico possiede degli sl
 
 ### Caratteristica da Incantatore
 
+Saggezza' è la caratteristica da incantatore usata per gli incantesimi da chierico. Il potere degli incantesimi deriva dalla sua devozione nei confronti della divinità.
+
+Usa Saggezza ogni volta che un incantesimo fa riferimento alla sua caratteristica da incantatore.
+
+Il modificatore di Saggezza per definire la CD del tiro salvezza' di un incantesimo da chierico da lui lanciato e quando effettua un tiro per colpire' con un incantesimo.
+
+**CD del tiro salvezza dell'incantesimo** = 8 + bonus di competenza' del chierico + il modificatore di Saggezza del chierico.
+
+**Modificatore di attacco dell'incantesimo** = bonus di competenza del chierico + il modificatore di Saggezza del chierico.
+
 ### Celebrare Rituali
+
+Può lanciare un incantesimo' da chierico come rituale' se quell'incantesimo possiede il descrittore rituale e il chierico lo ha preparato.
 
 ### Focus da Incantatore
 
+Può usare un simbolo sacro' come focus da incantatore per i suoi incantesimi da chierico.
+
 ## Dominio Divino
 
+Il chierico sceglie un dominio correlato alla sua divinità: *Conoscenza*, *Guerra*, *Inganno*, *Luce*, *Natura*, *Tempesta* e *Vita*.
+
+Questa scelta conferisce al chierico alcuni incantesimi' di dominio e altri privilegi al 1° livello.
+
+Inoltre, conferisce ulteriori modi di utilizzare *Incanalare Divinità* quando il chierico ottiene quel privilegio al 2° livello.
+
 ### Incantesimi di Dominio
+
+A ogni dominio corrisponde una lista di incantesimi' (di dominio) che il chierico ottiene ai livelli indicati nella tabella di descrizione del dominio.
+
+Quando un chierico ottiene un incantesimo di dominio, quell'incantesimo è sempre considerato preparato e non conta al fine di determinare il numero di incantesimi che il chierico può preparare ogni giorno.
+
+Se il chierico possiede un incantesimo di dominio che non compare sulla lista degli incantesimi da chierico, quell'incantesimo è comunque considerato come un incantesimo da chierico.
 
 ## Incanalare Divinità
 
