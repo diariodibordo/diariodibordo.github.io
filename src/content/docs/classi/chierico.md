@@ -45,3 +45,125 @@ sidebar:
 | 18      | +6                   | Incanalare Divinità (3/riposo)                                                                      | 5                      | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 3 (5°), 1 (6°), 1 (7°), 1 (8°), 1 (9°) |
 | 19      | +6                   | Aumento dei Punteggi di Caratteristica                                                              | 5                      | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 3 (5°), 2 (6°), 1 (7°), 1 (8°), 1 (9°) |
 | 20      | +6                   | Intervento Divino Migliorato                                                                        | 5                      | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 3 (5°), 2 (6°), 2 (7°), 1 (8°), 1 (9°) |
+
+### Incantesimi
+
+#### Trucchetti
+
+### Prepaarre e Lanciare Incantesimi
+
+### Caratteristica da Incantatore
+
+### Celebrare Rituali
+
+### Focus da Incantatore
+
+## Dominio Divino
+
+### Incantesimi di Dominio
+
+## Incanalare Divinità
+
+### Incanalare Divinità: Scacciare Non Morti
+
+## Aumento dei Punteggi di Caratteristica
+
+## Distruggere Non Morti
+
+## Intervento Divino
+
+## Domini Divini
+
+### Dominio della Conoscenza
+
+#### Benedizione della Conoscenza
+
+#### Incanalare Divinità: Conoscenze Secolari
+
+#### Incanalare Divinità: Lettura del Pensiero
+
+#### Incantesimi Potenti
+
+#### Visioni del Passato
+
+### Dominio della Guerra
+
+#### Competenze Bonus
+
+#### Sacerdote di Guerra
+
+#### Incanalare Divinità: Colpo Guidato
+
+#### Incanalare Divinità: Benedizione del Dio della Guerra
+
+#### Colpo Divino
+
+#### Avatar della Battaglia
+
+### Dominio dell'Inganno
+
+#### Benedizione dell'Ingannatore
+
+#### Incanalare Divinità: Invocare Duplicato
+
+#### Incanalare Divinità: Manto di Ombre
+
+#### Colpo Divino
+
+#### Duplicato Migliorato
+
+### Dominio della Luce
+
+#### Trucchetto Bonus
+
+#### Lampo di Interdizione
+
+#### Incanalare Divinità: Fulgore dell'Alba
+
+#### Lampo Migliorato
+
+#### Incantesimi Potenti
+
+#### Corona di Luce
+
+### Dominio della Natura
+
+#### Accolito della Natura
+
+#### Comptenza Bonus
+
+#### Incanalare Divinità: Charme su Animali e Vegetali
+
+#### Mitigare Elementi
+
+#### Colpo Divino
+
+#### Maestro della Natura
+
+### Dominio della Tempesta
+
+#### Competenza Bonus
+
+#### Collera della Tempesta
+
+#### Incanalare Divinità: Collera Distruttiva
+
+#### Colpo del Tuono e del Fulmine
+
+#### Colpo Divino
+
+#### Nato dalla Tempesta
+
+### Dominio della Vita
+
+#### Competenza Bonus
+
+#### Discepolo della Vita
+
+#### Incanalare Divinità: Preservare Vita
+
+#### Guaritore Benedetto
+
+#### Colpo Divino
+
+#### Guarigione Suprema
