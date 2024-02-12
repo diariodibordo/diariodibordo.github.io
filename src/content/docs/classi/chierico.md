@@ -50,7 +50,17 @@ sidebar:
 
 #### Trucchetti
 
-### Prepaarre e Lanciare Incantesimi
+Al 1° livello, un chierico conosce tre trucchetti a sua scelta tratti dalla lista degli incantesimi' da chierico.
+
+### Preparare e Lanciare Incantesimi
+
+La tabella mostra quanti slot incantesimo possiede per lanciare i suoi incantesimi da chierico di 1° livello o superiori.
+
+Per lanciare uno di questi incantesimi, il chiericodeve spendere uno slot incantesimo di livello pari o superiori al livello dell'incantesimo. Il chierico recupera tutti gli slot quando effettua un riposo lungo'.
+
+Il chierico prepara la lista degli incantesimi da chierico disponibili da lanciare scegliendoli dalla lista degli incantesimi da chierico. Quando lo fa deve scegliere un numero di incantesimi da chierico pari al suo **modificatore di Saggezza' + il suo livello da chierico** (fino a un minimo di un incantesimo).
+
+Gli incantesimi devono essere di un livello di cui il chierico possiede degli slot incantesimo.
 
 ### Caratteristica da Incantatore
 
