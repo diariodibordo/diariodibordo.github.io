@@ -117,7 +117,11 @@ Dal 6° livello, può utilizzare *Incanalare Dvinità* **due** volte tra un ripo
 
 ### Incanalare Divinità: Scacciare Non Morti
 
+Con un'azione, brandisce il suo simbolo sacro e pronuncia una preghiera di condanna nei confronti dei non morti.
 
+Ogni non morto che è in grado vedere o sentire il chierico, e si trova entro 9m da luideve effettuare un tiro salvezza' su Saggezza'. Se lo fallisce, la creatura è scacciata per 1 minuto o finchè non subisce danni.
+
+Una creatura scacciata deve spendere i suoi turni tentando di allontanarsi il più possible dal chierico e non può volontariamente muoversi in uno spazio entro 9m dal chierico. Inoltre, non può effettuare reazioni'. Come sua azione può usare solo l'azione di Scatto' o tentare di fuggire da un effetto che gli impedisce di muoversi. Se non può muoversi in alcun luogo, la creatura può usare l'azione di Schivata'.
 
 ## Aumento dei Punteggi di Caratteristica
 
