@@ -133,3 +133,20 @@ weight: 1
   * Questo cucciolo si trova con molta probabilità alla **Torre dell'Osservatorio**, uno dei posti più remoti dell'isola il quale è avvolto da una magia simile a quella di *Tempesta Nera* (vecchio avversario di *Runara*).
 * Inizio del Capitolo 4.
 * Si fermano alle cucine con **Tarak** e gli altri per fermarsi a pranzo e parlare di *orsigufo*.
+
+###  Episodio 9 - Capitolo 3
+
+* Verso 12:00 i nostri avventurieri terminano il loro pasto e si fanno dare le provviste da **Tarak**.
+* Vanno a trovare **Arvandus** per vedere se hanno ricevuto una lettera da parte del suo amico, in merito alla runa magica trovata nel fondale.
+  * Un suo caro amico di vecchia data, **Vindelo Runalba**, lo avvisa che secodo lui quella potente e antica magia è stata evocata da **Halaster Blackcloack**, "Il mago folle".
+  * Quest'ultimo si trova ad *Acque Profonde*, sotto il "*Portale Sbadigliante*".
+* I nostri avventurieri si sono messi in marcia assieme a **Sir Gavril** alla ricerca dell'*orsogufo*, dopo 1h giungono ad un bivio.
+  * Perlustrando il bivio non trovano nulla di particolarmente interessante, finchè non vedono un falò il quale sembra essersi spento durante questa notte.
+  * Continuando l'esplorazione trovano una piccola statua di un bambino felice ma è ricoperta di sangue, e proprio li vicino, in una rientranza boschiva è presente la tana dell'*orsogufo*.
+* Quest'ultimo li sorprende con uno stridio e lancia **Sir Gavril** oltre gli alberi facendolo scontrare contro la statua del bambino così perdendo i sensi.
+* Vi è una lunga battaglia contro questa immonda creatura, il **Duca** nota un fischietto attorno al suo collo legato con un laccio.
+  * Strappa quest'ultimo con forza, ma non è in grado di fischiarci dentro. Passandolo con destrezza a **Ruidjert** quest'ulitmo riesce a suonarlo calmando l'*orsogufo* è cessando le sue ostilità.
+  * **Burbit** sfrutta la pace per fare riprendere conoscenza a **Sir Gavril**, quest'ultimo nonostante i danni e le persuasioni del Duca è ancora convinto di volere sconfiggere l'*orsogufo* per portare a casa la testa.
+  * **Sir Gavril** strappa il fischietto a Ruidjert e si addentra muovamente nella tana dell'*orsogufo*, suonando male però il fischietto rende ostile quest'ultimo che lo attacca sventrandolo orizzontalmente in due.
+  * **Sir Gavril** chiede perdono ai ragazzi per la sua arroganza e ossessione, e chiede al **Duca** di mentire al suo amico d'infanzia **Gorzak**, e di dirgli che nel combattimento con l'*orsogufo* sono stati entrambi a morire.
+* Sono le 16:00 di pomeriggio e i nostri avventurieri sono in direzione di *Sonno del Drago* per andare a condividere la scoperta con **Runara** e gli altri al chiostro.
