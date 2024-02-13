@@ -100,7 +100,24 @@ Se il chierico possiede un incantesimo di dominio che non compare sulla lista de
 
 ## Incanalare Divinità
 
+Dal 2° livello, otteine la capacità di incanalare energie divina direttamente dalla sua divinità e usa quell'energia per alimentare gli effetti magici.
+Un chierico parte con due effetti di questo tipo: *Scacciare Non Morti* e un effetto determinato dal suo dominio.
+
+Alcuni domini conferiscono degli effetti aggiuntivi man mano che si avanza di livello, nel modo indicato nella descrizione del dominio.
+
+Quando un chierico utilizza *Incanalare Dvinità*, può scegliere quale effetto creare.
+
+Deve poi completare un riposo breve' o lungo' per utilizzare di nuovo *Incanalare Divnità*
+
+- Alcuni effetti di Incanalare Divinità richiedono l'utilizzo di tiri salvezza', in tal caso la CD è pari alla CD dei tiri salvezza dei suoi incantesimi' da chierico.
+
+Dal 6° livello, può utilizzare *Incanalare Dvinità* **due** volte tra un riposo e l'altro, e a partire dal 18° livello, può utilizzarlo **tre** voltre tra un riposo e l'altro.
+
+- Quando completa un riposo breve o lungo, recupera gli utilizzi spesi.
+
 ### Incanalare Divinità: Scacciare Non Morti
+
+
 
 ## Aumento dei Punteggi di Caratteristica
 
