@@ -24,9 +24,9 @@ weight: 1
 
 ..background..
 
-## Logs
+## Capitolo 1
 
-### Episodio 1 - Capitolo 1
+### Episodio 1
 
 * I nostri eroi dopo un lungo viaggio in barca sono giunti a *Sonno del Drago*.
 * Hanno sconfitto i tre Zombie che si trovavano dietro di loro all'ingresso del Chiostro e sono stati accolti come degli eroi dai **Coboldi** e da **Runara**.
@@ -36,7 +36,7 @@ weight: 1
 * **Varnoth** ha spiegato che secondo lei il grande botto è stato fatto da un relitto naufragato a nord dell'isola.
 * Sono rimasti in direzione del *Tempio di Bahamut*, sono le 14:00 con bel tempo.
 
-### Episodio 2 - Capitolo 2
+### Episodio 2
 
 * Sono andati in biblioteca e hanno conosciuto **Arvandus Stellabruna**.
 * Hanno acquistato tre mappe per *1mo* ciascuna.
@@ -47,7 +47,9 @@ weight: 1
 * Arrivati all'ingresso delle grotte hanno sostenuto un lungo combattimento contro il **Polpo servitore delle Spore** che impediva l'accesso nella grotta, nel quale hanno avuto la meglio.
 * Grazie alle abilità telepatiche dei **Miconidi**, i pensieri di tutti i giocatori e dei Miconidi sono condivisi.
 
-### Episodio 3 - Capitolo 2
+## Capitolo 2
+
+### Episodio 3
 
 * I nostri eroi hanno compreso che la grotta è ammalata da un infestazione di spore.
 * All'ingresso della grotta hanno una breve conversazione telepatica con dei **Miconidi** dopo aver sconfitto dei **Funghi Viola**.
@@ -60,7 +62,7 @@ weight: 1
 * Vengono sconfitti i due **Draghi di Fumo** guardiani della *Grotta di cristallo* dopo una durissima battaglia.
 * Gli eroi si nascondono nel santuario di Sinensa per effettuare un riposo lungo alternandosi a turni di guardia per essere sicuri di non subire agguati durate il riposo.
 
-### Episodio 4 - Capitolo 2
+### Episodio 4
 
 * I nostri eroi hanno sconfitto il **Serpente di Fuoco** che si era liberato dall'estrazione del *Cristallo arancione*.
 * Hanno ottenuto il rispetto di **Sir Gavriel**, li ha introdotti alla sua missione di ricerca dell'**Orsogufo**.
@@ -72,7 +74,7 @@ weight: 1
   * Ha mostrato dove si trova il **Relitto della Rosa dei Venti**.
 * Sono le 17:00 di pomeriggio di Mercoledì.
 
-### Episodio 5 - Capitolo 2
+### Episodio 5
 
 * I nostri eroi hanno passato del tempo a riposarsi a *Sonno del Drago* tra giochi di dadi, gare di rutti e birra.
 * Iniziano a sospettare che **Runara** nascondi qualcosa, in quanto è sparita dal Tempio di *Sonno del Drago*.
@@ -82,7 +84,7 @@ weight: 1
 * I nostri eroi si stanno incamminando alla ricerca della nave naufragata che portava con se il circo con i rispettivi animali (tra cui l'**Orsogufo** cercato da **Sir Gavril**).
   * Per questo chiedono più informazioni a **Runara**.
 
-### Episodio 6 - Capitolo 2
+### Episodio 6
 
 * I nostri erori si somno imbarcati alle 8:00 di mattina da *Sonno del Drago* per andare ad esplorare la zona dei naufragi nord delle isola.
 * Nel viaggio si sono imbattuti in delle *Sorgenti termali*, una leggera corrente li ha attirati in questa bocca costruita da rocce basaltiche, una coltre di caldi vapori e fumi aleggia.
@@ -100,7 +102,9 @@ weight: 1
 * Dopo una grande e difficoltosa prova di abilità da parte di tutti gli eroi, quest'ultimi si riescono a salvare saltando utilizzando l'effetto fionda del **Mulinello Magico**.
 * Alle 11:00am (di Giovedì) si sono accampati alle *Sorgenti Termali* per riposare.
 
-### Episodio 7 - Capitolo 3
+## Capitolo 3
+
+### Episodio 7
 
 * I nostri eroi sono ripartiti dall'accampamento, hanno tentato di tornare a Sonno del Drago, ma il vento li ha diretto verso il relitto della *Rosa dei Venti*.
 * Dopo una perlustrazione iniziale hanno deciso di entrare da un buco in fondo alla stiva così recuperando il *Tesoro del Capitano*, contenente il *Diario del Capitano*.
@@ -115,7 +119,7 @@ weight: 1
 * Scendendo nel *Ponte Inferiore* hanno dovuto sfidare due *Zombie* ed un *Ghoul* che si nascondeva dietro le scatole.
 * Dopo averli sconfitti hanno prelevato dei tesori che si nascondevano in tre casse (*10 kg di chiodi di garofano*, *10 lingotti d'argento* e una *pergamena magica*).
 
-### Episodio 8 - Capitolo 3
+### Episodio 8
 
 * Tentando di salpare dal relitto della *Rosa dei Venti* vengono aggrediti da due *Arpie*, avviene un feroce scontro tra il gruppo e quest'ultime. L'astuzia e la forza del gruppo li mette in serio vantaggio nonostante la forze e la feroce delle arpie. Ques'ultime sono diffidenti tra loro, ed il Duca ne instilla il dubbio, facendole combattere tra di loro. Alla fine Burbit riesce a prendere la zampa della prima, trattenendola. Quest'ultima supplica di lasciarla in vita, in cambio offrono un finto "tesoro" (50mr e 15 patate) con l'inganno, il quale è stato smascherato dal gruppo scaturendone la fuga di una delle due (non bloccata), alla fine mossi dalla pietà l'hanno lasciata in vita scappare.
 * Riposo lungo, si risvegliano dopo degli incubi particolare ed è *Venerdì*.
@@ -134,7 +138,7 @@ weight: 1
 * Inizio del Capitolo 4.
 * Si fermano alle cucine con **Tarak** e gli altri per fermarsi a pranzo e parlare di *orsigufo*.
 
-###  Episodio 9 - Capitolo 3
+### Episodio 9
 
 * Verso 12:00 i nostri avventurieri terminano il loro pasto e si fanno dare le provviste da **Tarak**.
 * Vanno a trovare **Arvandus** per vedere se hanno ricevuto una lettera da parte del suo amico, in merito alla runa magica trovata nel fondale.
