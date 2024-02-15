@@ -125,6 +125,8 @@ Una creatura scacciata deve spendere i suoi turni tentando di allontanarsi il pi
 
 ## Aumento dei Punteggi di Caratteristica
 
+Può aumentare di 2 un punteggio di caratteristica' a sua scelta, oppure può aumentare di 1 due punteggi di caratteristica a sua scelta. Come di consueto, nonè consentito auemntare un punteggio di caratteristica a più di 20 utilizzando questo privilegio.
+
 ## Distruggere Non Morti
 
 ## Intervento Divino
