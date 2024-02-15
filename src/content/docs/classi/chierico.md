@@ -141,6 +141,14 @@ Dal 5° livello, quando un non morto fallisce il suo tiro salvezza ' contro il p
 
 ## Intervento Divino
 
+Dal 10° livello, un chierico può appellarsi alla propria divinità affinchè intervenga a suo beneficio nel momento del bisogno.
+
+Per implorare l'aiuto, il chierico deve usare un'azione'. In questa azione deve descrivere l'assistenza che desidera ottenere e tirare un **dado percentuale** (o percentile). Se ottiene un numero pari o inferiore al proprio livello da chierico, la divinità interviene.
+
+Sta al DM decidere la natura dell'intervento, l'effetto di qualsiasi incantesimo da chierico o incantesimo da dominio clericale è appropriato. Se la divinità interviene, il chierico non può più utilizzare questo privilegio per **7 giorni**. Altrimenti può utilizzarlo di nuovo dopo che ha completato un riposo lungo'.
+
+Al 20° livello, la richiesta di intervento ha successo automaticamente, senza che sia richiesto alcun tiro.
+
 ## Domini Divini
 
 ### Dominio della Conoscenza
