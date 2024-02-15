@@ -215,17 +215,49 @@ Tuttavia questo potrebbe anche includere eventi più comuni che rislutino però 
 
 ### Dominio della Guerra
 
+Gli dei della guerra vegliano sui combattenti e li ricompensano per le loro grandi gesta.
+
+| Livelli da Chierico | Incantesimi                                |
+| ------------------- | ------------------------------------------ |
+| 1°                  | *favore divino, scudo della fede*          |
+| 3°                  | *arma magica, arma spirituale*             |
+| 5°                  | *guardiani spirituali, manto del crociato* |
+| 7°                  | *libertà di movimento, pelle di pietra*    |
+| 9°                  | *conoblocca mostri, colpo infuocato*       |
+
 #### Competenze Bonus
+
+Al 1° livello, il chierico ottiene competenza nelle **armi da guerra** e nelle **armature pesanti**.
 
 #### Sacerdote di Guerra
 
+ùDal 1° livello, il chierico riceve dal suo dio dei fugaci lampi di ispirazione quando è impegnato in battaglia.
+
+Quando usa l'azione di Attacco', il chierico può effettuare un attacco con un'arma come azione bonus'.
+
+Il chierico può utilizzare questo privilegio un numero di volte pari al suo modificatore di Saggezza' (minimo 1 volta). Recupera tutti gli utilizzi spesi quando completa un riposo lungo'.
+
 #### Incanalare Divinità: Colpo Guidato
+
+Dal 2° livello, quando effettua un tiro per colpire', può utilizzare Incanalare Divinità per ottenere un bonus di +10 al tiro.
+
+Il chierico effettua questa scelta dopo aver virto il tiro prima che il DM dichiari se l'attacco colpisce o manca.
 
 #### Incanalare Divinità: Benedizione del Dio della Guerra
 
+Dal 6° livello, quando una creatura entro 9m effettua un tiro per colpire', il chierico può usare la sua reazione per conferire a quella creatura un bonus di +10 al tiro, utilizzando Incanalare Divinità.
+
+Il chierico fa questa scelta dopo aver visto il tiro, ma prima che il DM dichiari se l'attacco colpisce o manca.
+
 #### Colpo Divino
 
+Dal 8° livello, una volta per ogni suo turno, quando colpisce una creatura con un attacco con un'arma, il chierico può fare in modo che l'attacco infligga 1d8 danni extra dello stesso tipo di danni inferti dall'arma al bersaglio.
+
+Quando il chierico arriva al 14° livello, i danni extra aumentano a 2d8.
+
 #### Avatar della Battaglia
+
+Dal 17° livello, ottiene resistenza ai **danni contundenti**, **perforanti** e **taglienti** delle **armi non magiche**.
 
 ### Dominio dell'Inganno
 
