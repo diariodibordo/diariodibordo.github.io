@@ -261,6 +261,16 @@ Dal 17° livello, ottiene resistenza ai **danni contundenti**, **perforanti** e 
 
 ### Dominio dell'Inganno
 
+Glòi dei dell'inganno sono mistificatori e fomentatori, sempre pronti a turbare l'ordine e la stabilità, sia presso gli dei che presso i mortali.
+
+| Livelli da Chierico | Incantesimi                                |
+| ------------------- | ------------------------------------------ |
+| 1°                  | *cammuffare se stesso, charme su persone   |
+| 3°                  | *immagine speculare, passare senza tracce* |
+| 5°                  | *dissolvi magie, intermittenza*            |
+| 7°                  | *metamorfosi, porta dimensionale*          |
+| 9°                  | *dominare persone, modficare memoria*      |
+
 #### Benedizione dell'Ingannatore
 
 #### Incanalare Divinità: Invocare Duplicato
