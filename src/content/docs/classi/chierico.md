@@ -129,6 +129,16 @@ Può aumentare di 2 un punteggio di caratteristica' a sua scelta, oppure può au
 
 ## Distruggere Non Morti
 
+Dal 5° livello, quando un non morto fallisce il suo tiro salvezza ' contro il privilegio Scacciare Non Morti del chierico, quella creatura è distrutta istantaneamente se il suo grado di sfida è pari o inferiorea una certa soglia, come indicato nella seguente tabella.
+
+| Livello da Chierico | Distruggere i Non Morti con Grado di Sfida' |
+| ------------------- | ------------------------------------------- |
+| 5°                  | 1/2 o inferiore                             |
+| 8°                  | 1 o inferiore                               |
+| 11°                 | 2 o inferiore                               |
+| 14°                 | 3 o inferiore                               |
+| 17°                 | 4 o inferiore                               |
+
 ## Intervento Divino
 
 ## Domini Divini
