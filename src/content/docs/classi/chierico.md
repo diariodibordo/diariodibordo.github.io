@@ -153,15 +153,65 @@ Al 20° livello, la richiesta di intervento ha successo automaticamente, senza c
 
 ### Dominio della Conoscenza
 
+Gli dei della conoscenza danno valore all'apprendimento e alla comprensione più di ogni altra cosa.
+
+| Livelli da Chierico | Incantesimi                                |
+| ------------------- | ------------------------------------------ |
+| 1°                  | *comando, identificare*                    |
+| 3°                  | *presagio, suggestione*                    |
+| 5°                  | *anti-individuazione, parlare con i morti* |
+| 7°                  | *confusione, occhio arcano*                |
+| 9°                  | *conoscenza delle leggende, scrutare*      |
+
 #### Benedizione della Conoscenza
+
+Al 1° livello, il chiarico apprende due linguaggi a sua scelta.
+
+Inoltre, ottiene competenza in due delle seguenti abilità a sua scelta: Arcano, Natura, Religione o Storia.
+
+Il suo bonus di competenza' raddoppia in ogni prova di caratteristica' da lui effettuata usando una di queste abilità.
 
 #### Incanalare Divinità: Conoscenze Secolari
 
+Dal 2° livello può utilizzare Incanalare Divinità per attingere un pozzo divino di conoscenza. Con un'azione', può scegliere un'abilità' o uno strumento. Per 10 minuti (circa 100 round) ottiene competenza nell'abilità o nello strumento scelto.
+
 #### Incanalare Divinità: Lettura del Pensiero
+
+Al 6° livello, il chierico può utilizzare Incanalare Dvinità per leggere i pensiere di una creatura.
+
+Può usare il suo accesso alla mente bersaglio per assumerne il comando. Con un'azione', il chierico sceglie una reatura situata entro 18m da lui e che egli sia in grado di vedere.
+Tale creatura deve superare un tiro salvezza' su Saggezza'.
+
+- Se lo supera, il chierico non può più utilizzare tale privilegio finchè non termina un riposo lungo'.
+- Se lo fallisce, il chierico può leggere i suoi pensieri *superficiali* quando essa si trova entro 18m da lui. Questo effetto dura 1 minuto (10 round), durante questo periodo il chierico può usare la sua azione per porre fine a questo effetto e lanciare l'incantesimo *suggestione* sulla creatura senza spendere uno slot incantesimo. Il bersaglio fallisce automaticamente il suo tiro salvezza contro l'incantesimo.
 
 #### Incantesimi Potenti
 
+Dal 8° livello, il chierico aggiunge il suo modificatore di Saggezza' ai danni che infligge con qualsiasi trucchetto da chierico.
+
 #### Visioni del Passato
+
+Dal 17° livello il chierico può evocare una visione del passato collegata a un oggetto che impugna o che si trova nelle sue immediate vicinanze.
+
+Per farlo deve spendere almeno 1 minuto in meditazione o in preghiera, poi riceverà una visione fugace, indistinta e sognante degli eventi recenti. Il chierico può meditare in questo modo per un numero di minuti pari al suo punteggio di Saggezza' e deve mantenere la concentrazione durante quel periodo, come se stesse lanciando un incantesimo.
+
+Una volta utilizzato questo privilegio, il chierico non può più utilizzarlo finchè non completa un riposo breve' o lungo'.
+
+##### Lettura degli Oggetti
+
+Il chierico medita mentre impugna un oggetto e riceve una visione del suo precedente proprietario.
+
+Dopo aver meditato per 1 minuto, apprende in che modo il proprietario ne è entrato in possesso e come lo ha perduto, nonchè l'evento recente più significativo cha ha coinvolto il proprietario.
+
+Se l'oggetto è stato posseduto da un'altra creatura nei tempi recenti (entro un numero di giorni pari al punteggio di Saggezza del chierico), il chierico può dedicare 1 minuto aggiuntivo per ogni proprietario per apprendere le stesse informazioni relative a quealla creatura.
+
+##### Lettura dell'Area
+
+Il chierico medita e riceve una visione dgli eventi recenti nelle sue immediate vicinanze (entro un cubo con spigolo di 15 metri), risalendo nel passato fino a un numero di giorni pari al suo punteggio di Saggezza'.
+
+Per ogni minuto in cui medita apprende un evento significativo, a partire dal più recente. Per centi significativi solitamente si intendono quelli segnati da emozioni potenti, come battaglie, tradimenti, matrimoni, omicidi, nascite e funerali.
+
+Tuttavia questo potrebbe anche includere eventi più comuni che rislutino però importanti per il chierico nella sua situazione attuale.
 
 ### Dominio della Guerra
 
