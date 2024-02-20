@@ -349,9 +349,17 @@ Una creatura che beneficia di copertura totale nei confronti del chierico non è
 
 #### Lampo Migliorato
 
+Dal 6° livello, può utilizzare il suo [**Lampo di Interdizione**](#lampo-di-interdizione) quando una creatura sitauta entro 9m da lui e che egli sia in grado di vedereattacca una creatura diversa da lui.
+
 #### Incantesimi Potenti
 
+Dal 8° livello, aggiunge il suo modificatore di Saggezza' ai danni che infligge con qualsiasi trucchetto' da chierico.
+
 #### Corona di Luce
+
+Dal 17° livello, può usare la sua azione' per attivare un'aura di luce solare che dura 1 minuto o finchè il chierico non la congeda usando un'altra azione.
+
+Il chierico emette luce intensa entro un raggio di 18m e luce fioca per ulteriori 9m. I nemici che si trovano entro il raggio di luce intensa subiscono *svantaggio* ai tiri salvezza' contro qualsiasi incantesimo' che infligga danni da **fuoco** o **radiosi**.
 
 ### Dominio della Natura
 
