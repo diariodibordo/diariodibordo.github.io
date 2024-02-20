@@ -363,6 +363,16 @@ Il chierico emette luce intensa entro un raggio di 18m e luce fioca per ulterior
 
 ### Dominio della Natura
 
+I druidi' venerano la natura nella sua interezza e potrebbero servire una di queste divinità (*riti, preghiere, ...*). Molte di queste divinità dispongon operò anche di chierici, veri e propri campioni pronti a svolgere un ruolo attivo nel sostenere gli interessi di uno specifico dio della natura.
+
+| Livelli da Chierico | Incantesimi                                         |
+| ------------------- | --------------------------------------------------- |
+| 1°                  | *amicizia con gli animali, parlare con gli animali* |
+| 3°                  | *crescita di spine, pelle coriacea*                 |
+| 5°                  | *crescita vegetale, muro di vento*                  |
+| 7°                  | *dominare bestie, rampicante afferrante*            |
+| 9°                  | *piaga degli insetti, traslazione arborea*          |
+
 #### Accolito della Natura
 
 #### Comptenza Bonus
