@@ -321,7 +321,18 @@ come il sole in persona, o come un auriga che guida il sole nel cielo.
 
 #### Trucchetto Bonus
 
+Al 1° livello apprende il trucchetto' *luce*, se già non lo possiede.
+
 #### Lampo di Interdizione
+
+Dal 1° livello è anche in grado di erigere una barriera di luce divina tra sè e un nemico che lo sta attaccando.
+
+Quando il chierico è attaccato da una creatura situata entro 9m da lui e che egli sia in grado di vedere, può usare la sua reazione' per infliggere *svantaggio* al tiro per colpire',
+facendo in modo che un lampo di luce confonda l'attaccante prima che il suo colpo vada a segno o manchi.
+
+Un attaccante che non può essere accecato è **immune** a questo privilegio.
+
+Il chierico può utilizzare questo privilegio un numero di volte pari al suo modificatore di Saggezza' (minimo 1 volta). Recupera tutti gli utilizzi spesi quando completa un riposo lungo'.
 
 #### Incanalare Divinità: Fulgore dell'Alba
 
