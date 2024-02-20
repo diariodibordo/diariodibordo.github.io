@@ -273,7 +273,18 @@ Glòi dei dell'inganno sono mistificatori e fomentatori, sempre pronti a turbare
 
 #### Benedizione dell'Ingannatore
 
+Dal 1° livello, può usare la sua azione' per toccare una creatura consenziente diversa da sè e conferirle vantaggio alle prove di Destrezza' (Furtività).
+Questa benedizione dura 1 ora o finchè il chierico non utilizza di nuovo questo privilegio.
+
 #### Incanalare Divinità: Invocare Duplicato
+
+Dal 2° livello, può utilizzare [**Incanalare Divinità**](#incanalare-divinità) per creare un duplicato illusorio di se stesso.
+
+Con un'azione' il chierico crea una perfetta illusione di se stesso che dura 1 minuto o finchè il chierico non perde la concentrazione (come per un incantesimo).
+L'illusione appare in uno spazio libero situato entro 9m dal chierico e che egli sia in grado di vedere. Come azione bonus', nel suo turno, il chierico può muovere l'illusione di un massimo di 9m fino a uno spazio
+che egli sia ingrado di vedere, l'illusione deve rimanere entro 36m da lui.
+
+Per tutta la durata, il chierico può lanciare incantesimi come se si trovasse nello spazio dell'illusione, ma deve usare i propri sensi. Inoltre, quando sia il chierico che l'illusione si trovano entro 1,5m da una creatura che sia in grado di vedere l'illusione, il chierico dispone di vantaggio ai tiri per colpire' contro tale creatura, in quanto l'illusione *distrae* il bersaglio.
 
 #### Incanalare Divinità: Manto di Ombre
 
