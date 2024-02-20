@@ -100,7 +100,7 @@ Se il chierico possiede un incantesimo di dominio che non compare sulla lista de
 
 ## Incanalare Divinità
 
-Dal 2° livello, otteine la capacità di incanalare energie divina direttamente dalla sua divinità e usa quell'energia per alimentare gli effetti magici.
+Dal 2° livello, ottiene la capacità di incanalare energie divina direttamente dalla sua divinità e usa quell'energia per alimentare gli effetti magici.
 Un chierico parte con due effetti di questo tipo: *Scacciare Non Morti* e un effetto determinato dal suo dominio.
 
 Alcuni domini conferiscono degli effetti aggiuntivi man mano che si avanza di livello, nel modo indicato nella descrizione del dominio.
@@ -288,9 +288,23 @@ Per tutta la durata, il chierico può lanciare incantesimi come se si trovasse n
 
 #### Incanalare Divinità: Manto di Ombre
 
+Dal 6° livello, può utilizzare [**Incanalare Divinità**](#incanalare-divinità) per svanire.
+
+Con un'azione', il chierico diventa invisibile fino alla fine del suo turno successivo. Torna a essere visibile se attacca' o se lancia un incantesimo'.
+
 #### Colpo Divino
 
+Dal 8° livello, ottiene la capacità di infondere nei colpi della sua arma un veleno donatogli dalla sua divinità.
+
+Una volta per ongi suo turno, quando colpisce una creatura con un attacco' con un'arma, il chierico può fare in modo che l'attacco infligga 1d8 danni da veleno extra.
+
+Quando arriva al 14° livello, i danni extra aumentano a 2d8.
+
 #### Duplicato Migliorato
+
+Dal 17° livello, può creare fino a quattro duplicati di se stesso anzichè uno quando utilizza [**Invocare Duplicato**](#incanalare-divinità-invocare-duplicato).
+
+Come azione bonus' nel suo turno, può muovere un qualsiasi numero di quei duplicati fino a un massimo di 9m ed entro una gittata massima di 36m.
 
 ### Dominio della Luce
 
