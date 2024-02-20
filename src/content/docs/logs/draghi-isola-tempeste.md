@@ -154,3 +154,28 @@ weight: 1
   * **Sir Gavril** strappa il fischietto a Ruidjert e si addentra muovamente nella tana dell'*orsogufo*, suonando male però il fischietto rende ostile quest'ultimo che lo attacca sventrandolo orizzontalmente in due.
   * **Sir Gavril** chiede perdono ai ragazzi per la sua arroganza e ossessione, e chiede al **Duca** di mentire al suo amico d'infanzia **Gorzak**, e di dirgli che nel combattimento con l'*orsogufo* sono stati entrambi a morire.
 * Sono le 16:00 di pomeriggio e i nostri avventurieri sono in direzione di *Sonno del Drago* per andare a condividere la scoperta con **Runara** e gli altri al chiostro.
+
+### Episodio 10
+
+* Verso le 16:30 i nostri eroi sono giunti alla *Torre dell'Osservatorio*, hanno inserito la **chiave di lunopietra** nelle statue a forma di drago.
+  * Le statue aprono un ponte dorato magico verso le rovine dell'osservatorio.
+* Entrando nella prima stanza incontrano 2 *coboldi alati* che stanno affrontando 8 *uccelli stigei*, li aiutano sconfiggendo gli uccelli stigei in un sanguinario combattimento.
+  * I *coboldi* hanno una pittura da guerra blu e diventano amichevoli con i nostri eroi.
+* Il **Duca** inganna i *coboldi* facendogli credere di essere un amico stretto di **Fondifaville** (un piccolo drago blu), mediante l'inganno scoprono che quest'ultimo sta effettuando un rituale per ottenere qualche potere.
+  * In qualche modo è coinvolto un grande modello astronomico presente al centro della stanza rotonda (*Rovine della Rotonda*), il quale ha una cometa che passerà a breve vicino a *Toril*.
+* I coboldi stavano recuperando dalle pietre delle rovine per creare delle effigi di 6 draghi, queste serviranno per il rituale (a loro detta).
+* Dopo aver conosciuto i coboldi ed essere stati invitati a conoscere il restante gruppo nei loro dormitori, i nostri eroi vogliono giungere alla zona sud-ovest delle rovine.
+  * Questa zona è irragigungibile, se non utilizzando nuovamente la **chiave di lunopietra** in un altra inserzione esagonale (vicino al muro).
+  * Allora il **Duca** decide di tendere una corda, trovando un appiglio vicino al portone d'ingresso della stanza centrale e tendendola (mentre cammina sul ponte magico), verso la statua del drago a destra.
+  * Rimuove la **chiave di lunopietra** dalla statua a destra, il ponte sparisce, ed a questo punto utilizza la fune tesa tra la statua e l'appiglio per tornare nelle *Rovine della Rotonda*.
+* A questo punto i nostri eroi possono utilizzare la **chiave di lunopietra** per accedere alla torre a sud-ovest la quale si rivela essere uno *Studio Isolato*.
+  * Entrando in questo studio, parte del pavimento cede, le macerie permettono di risalire al piano originale, tuttavia molti libri emergono da questo studio.
+  * Un diario in particolare (**Diario dello Studioso**) emerge, quest'ultimo viene raccolto e analizzato, sul lucchetto e posta una runa magica di origine maligne (in quanto simile a quella lasciata da **Halaster Blackcloack**), **Ruidjert** decide di portarselo dietro così da avere più tempo per decidere come aprirlo senza fare scattare la trappola.
+  * **Ruidjert** si accorge anche della presenza di una mattonella mal posta in questa stanza, così trovando una *pozione di resistenza ai fulmini* e *10mo*.
+* Il gruppo torna indietro e va a trovare i **coboldi** nel loro dormitorio (*Accampamento dei Coboldi*), in totale sono 7 coboldi (di cui 5 alati).
+  * *Mek, Nuhro, Minn, Snirke, Ekrash, Erp* e *Hev*,
+  * Si presentano e inizialmente sono amichevoli, ma successivamente cacceranno i nostri amici in quanto hanno inventato un piano per distruggere le effigi dei draghi che erano li posizionati.
+  * **Ruidjert** spinge il **Duca** giù dalle scalle (come da loro piano), facendolo sembrare come un errore di una burla tra amici, il **Duca Ignazio** cade sulle effigi così distruggendole.
+  * Adesso i **coboldi** *Mek, Nuhro, Minn, Snirke* si sono rimessi a lavoro per lavorare sulle effigi.
+* Il gruppo si è nella *Torre dell'Osservatorio* (stanza nord-est) del complesso, entrando hanno trovato **Fondifaville** riposare vicino al suo tesoro nella zona nord-ovest della stanza. In centro alla stanza sono presenti 4 statue consumate dal tempo che indicano in direzioni diverse, e sul fondo della stanza una costellazione celestiale.
+* Sono le 17:30 di pomeriggio.
