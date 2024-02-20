@@ -336,6 +336,17 @@ Il chierico può utilizzare questo privilegio un numero di volte pari al suo mod
 
 #### Incanalare Divinità: Fulgore dell'Alba
 
+Dal 2° livello, può utilizzare [**Incanalare Divinità**](#incanalare-divinità) per imbrigliare la luce del sole, esiliare l'oscurità e infliggere danni radiosi ai suoi avversari.
+
+Con un'azione', il chierico brandisce il simbolo sacro e ogni forma di oscurità magica entro 9m da lui è dissolta.
+
+Inoltre, ogni creatura ostile situata entro 9m da lui deve effettuare un tiro salvezza' su Costituzione'.
+
+- Se fallisce, subisce 2d10 + il livello da chierico danni radiosi.
+- Se lo supera, riceve la metà dei danni (al punto precedente).
+
+Una creatura che beneficia di copertura totale nei confronti del chierico non è influenzata da questo privilegio.
+
 #### Lampo Migliorato
 
 #### Incantesimi Potenti
