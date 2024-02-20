@@ -261,7 +261,7 @@ Dal 17° livello, ottiene resistenza ai **danni contundenti**, **perforanti** e 
 
 ### Dominio dell'Inganno
 
-Glòi dei dell'inganno sono mistificatori e fomentatori, sempre pronti a turbare l'ordine e la stabilità, sia presso gli dei che presso i mortali.
+Gli dei dell'inganno sono mistificatori e fomentatori, sempre pronti a turbare l'ordine e la stabilità, sia presso gli dei che presso i mortali.
 
 | Livelli da Chierico | Incantesimi                                |
 | ------------------- | ------------------------------------------ |
@@ -307,6 +307,17 @@ Dal 17° livello, può creare fino a quattro duplicati di se stesso anzichè uno
 Come azione bonus' nel suo turno, può muovere un qualsiasi numero di quei duplicati fino a un massimo di 9m ed entro una gittata massima di 36m.
 
 ### Dominio della Luce
+
+Le divinità della luce promuovo gli ideali di rinascita, rinnovamento, verità, vigilanza e bellezza, spesso usando il simbolo del sole. Alcune di queste sono raffigurate
+come il sole in persona, o come un auriga che guida il sole nel cielo.
+
+| Livelli da Chierico | Incantesimi                                |
+| ------------------- | ------------------------------------------ |
+| 1°                  | *luminescenza, mani brucianti*             |
+| 3°                  | *raggio rovente, sfera infuocata*          |
+| 5°                  | *luce diurna, palla di fuoco*              |
+| 7°                  | *guardiano della fede, muro di fuoco*      |
+| 9°                  | *colpo infuocato, scrutare*                |
 
 #### Trucchetto Bonus
 
