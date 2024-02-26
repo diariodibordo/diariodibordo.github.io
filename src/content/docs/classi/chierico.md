@@ -375,7 +375,13 @@ I druidi' venerano la natura nella sua interezza e potrebbero servire una di que
 
 #### Accolito della Natura
 
-#### Comptenza Bonus
+Dal 1° livello il chierico apprende un trucchetto' da druido' a sua scelta.
+
+Inoltre, ottiene competenza in una delle seguente abilità a sua scelta: *Addestrare Animali*, *Natura* o *Sopravvivenza*
+
+#### Competenza Bonus
+
+Dal 1° livello, il chierico ottiene competenza nelle *armature pesanti*.
 
 #### Incanalare Divinità: Charme su Animali e Vegetali
 
