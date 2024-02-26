@@ -385,6 +385,13 @@ Dal 1° livello, il chierico ottiene competenza nelle *armature pesanti*.
 
 #### Incanalare Divinità: Charme su Animali e Vegetali
 
+Dal 2° livello, può utilizzare [**Incanalare Divinità**](#incanalare-divinità) per affascinare animali e vegetali.
+
+Con un'azione' il chierico brandisce il suo simbolo sacro e invoca il nome della sua divinità. Ogni bestia o creatura vegetale in grado di vedere il chierico e situata entro 9m da lui deve affrontare un tiro salvezza' su Saggezza'.
+
+Se lo fallisce rimane affascinato' dal chierico per 1 minuto o finchè non subisce danni.
+Finchè è affascinata, la creatura è considerata amichevole nei confronti del chierico e dalle altre creature da lui designate.
+
 #### Mitigare Elementi
 
 #### Colpo Divino
