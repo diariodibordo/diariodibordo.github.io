@@ -394,15 +394,47 @@ Finchè è affascinata, la creatura è considerata amichevole nei confronti del 
 
 #### Mitigare Elementi
 
+Dal 6° livello, quando il chierico o una creatura a 9m da lui subisce danni da **acido**, **freddo**, **fulmine**, **fuoco** o **tuono**, egli può usare la sua reazione' per conferire a se stesso o a quella creatura resistenza' a quel tipo di danni.
+
 #### Colpo Divino
+
+Da 8° livello, il chierico ottiene la capacità di infondere energia divina nei colpi della sua arma.
+
+Una volta per ogni suo turno', quandocolpisce una creatura con un attacco con un'arma, il chierico può fare in modo che il suo attacco infligga1d8 danni extra da **freddo**, **fulmine** o **fuoco** al bersaglio.
+
+Quando arriva al 14° livello, i danni extra aumentano a 2d8.
 
 #### Maestro della Natura
 
+Dal 17° livello, il chierico ottiene la capacità di comandare gli animali e le creature vegetali. Quando le creature sono affascinate dal chierico tramite il suo privilegio [**Charme su Animali e Vegetali**](#incanalare-divinità-charme-su-animali-e-vegetali), il chierico può effettuare un'azione bonus' nel suo turno per comandare verbalmente ognuna di quelle creature, decidendo ciò che faranno nel loro turno successivo.
+
 ### Dominio della Tempesta
+
+Gli dèi della tempesta inviano spesso i loro chierici a incutere paura ai popolanik in alcuni casi per mantenere i fedeli sulla rettitudine, in altri per spronarli a orffrire sacrifici o celebrare riti propiziatori per placare la loro collera divina.
+
+In alcuni pantheon un dio di questo dominio regna sulle altre divinità ed è noto per la giustizia sommariache impartisce tramite le sue folgori.
+
+| Livelli da Chierico | Incantesimi                                         |
+| ------------------- | --------------------------------------------------- |
+| 1°                  | *nube di nebbia, onda tonante*                      |
+| 3°                  | *folata di vento, frantumare*                       |
+| 5°                  | *invocare il fulmine, tempesta di nevischio*        |
+| 7°                  | *controllare acqua, tempesta di ghiaccio*           |
+| 9°                  | *onda distruttiva, piaga degli insetti*             |
 
 #### Competenza Bonus
 
+Dal 1° livello, il chierico ottiene competenza nelle armi da guerra e nelle armature pesanti.
+
 #### Collera della Tempesta
+
+Dal 1° livello, il chierico impara a intimorire gli attaccanti con la potenza del tuono.
+
+Quando il chierico è colpito dall'atacco di una creatura entro 1,5m da lui e che egli sia in grado di vedere, può usare la sua reazione' per obbligare la creatura a effettuare un tiro salvezza' su Destrezza'.
+
+Se lo fallisce, subisce 2d8 danni da **fulmine** o da **tuono**, mentre se lo supera subisce soltanto la metà di quei danni.
+
+Può utilizzare questo privilegio un numero di volte pari al suo modificatore di Saggezza' (minimo 1 volta). Recupera tutti gli utilizzi spesi quando completa un riposo lungo'.
 
 #### Incanalare Divinità: Collera Distruttiva
 
