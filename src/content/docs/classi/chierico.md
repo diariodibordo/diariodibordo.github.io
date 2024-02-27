@@ -4,8 +4,6 @@ title: 🔔 Chierico
 
 sidebar:
     order: 3
-    badge:
-        text: WIP
 ---
 ## Chierico
 
@@ -50,33 +48,33 @@ sidebar:
 
 #### Trucchetti
 
-Al 1° livello, un chierico conosce tre trucchetti a sua scelta tratti dalla lista degli incantesimi' da chierico.
+Al 1° livello, un chierico conosce tre trucchetti a sua scelta tratti dalla lista degli [**incantesimi**](/rules/incantesimi) da chierico.
 
 ### Preparare e Lanciare Incantesimi
 
 La tabella mostra quanti slot incantesimo possiede per lanciare i suoi incantesimi da chierico di 1° livello o superiori.
 
-Per lanciare uno di questi incantesimi, il chiericodeve spendere uno slot incantesimo di livello pari o superiori al livello dell'incantesimo. Il chierico recupera tutti gli slot quando effettua un riposo lungo'.
+Per lanciare uno di questi incantesimi, il chiericodeve spendere uno slot incantesimo di livello pari o superiori al livello dell'incantesimo. Il chierico recupera tutti gli slot quando effettua un [**riposo lungo**](/avventura/riposo-lungo).
 
-Il chierico prepara la lista degli incantesimi da chierico disponibili da lanciare scegliendoli dalla lista degli incantesimi da chierico. Quando lo fa deve scegliere un numero di incantesimi da chierico pari al suo **modificatore di Saggezza' + il suo livello da chierico** (fino a un minimo di un incantesimo).
+Il chierico prepara la lista degli incantesimi da chierico disponibili da lanciare scegliendoli dalla lista degli incantesimi da chierico. Quando lo fa deve scegliere un numero di incantesimi da chierico pari al suo **modificatore di [**Saggezza**](/rules/punteggi-caratteristica/#saggezza) + il suo livello da chierico** (fino a un minimo di un incantesimo).
 
 Gli incantesimi devono essere di un livello di cui il chierico possiede degli slot incantesimo.
 
 ### Caratteristica da Incantatore
 
-Saggezza' è la caratteristica da incantatore usata per gli incantesimi da chierico. Il potere degli incantesimi deriva dalla sua devozione nei confronti della divinità.
+[**Saggezza**](/rules/punteggi-caratteristica/#saggezza) è la caratteristica da incantatore usata per gli incantesimi da chierico. Il potere degli incantesimi deriva dalla sua devozione nei confronti della divinità.
 
 Usa Saggezza ogni volta che un incantesimo fa riferimento alla sua caratteristica da incantatore.
 
-Il modificatore di Saggezza per definire la CD del tiro salvezza' di un incantesimo da chierico da lui lanciato e quando effettua un tiro per colpire' con un incantesimo.
+Il modificatore di Saggezza per definire la CD del [**tiro salvezza**](/rules/combattimento#tiro-salvezza) di un incantesimo da chierico da lui lanciato e quando effettua un [**tiro per colpire**](/rules/combattimento#tiro-per-colpire) con un incantesimo.
 
-**CD del tiro salvezza dell'incantesimo** = 8 + bonus di competenza' del chierico + il modificatore di Saggezza del chierico.
+**CD del tiro salvezza dell'incantesimo** = 8 + [**bonus di competenza**](/rules/punteggi-caratteristica#bonus-di-competenza) del chierico + il modificatore di Saggezza del chierico.
 
 **Modificatore di attacco dell'incantesimo** = bonus di competenza del chierico + il modificatore di Saggezza del chierico.
 
 ### Celebrare Rituali
 
-Può lanciare un incantesimo' da chierico come rituale' se quell'incantesimo possiede il descrittore rituale e il chierico lo ha preparato.
+Può lanciare un [**incantesimo**](/rules/incantesimi) da chierico come [**rituale**](/rules/incantesimo#rituale) se quell'incantesimo possiede il descrittore rituale e il chierico lo ha preparato.
 
 ### Focus da Incantatore
 
@@ -86,13 +84,13 @@ Può usare un simbolo sacro' come focus da incantatore per i suoi incantesimi da
 
 Il chierico sceglie un dominio correlato alla sua divinità: *Conoscenza*, *Guerra*, *Inganno*, *Luce*, *Natura*, *Tempesta* e *Vita*.
 
-Questa scelta conferisce al chierico alcuni incantesimi' di dominio e altri privilegi al 1° livello.
+Questa scelta conferisce al chierico alcuni [**incantesimi**](/rules/incantesimi) di dominio e altri privilegi al 1° livello.
 
 Inoltre, conferisce ulteriori modi di utilizzare *Incanalare Divinità* quando il chierico ottiene quel privilegio al 2° livello.
 
 ### Incantesimi di Dominio
 
-A ogni dominio corrisponde una lista di incantesimi' (di dominio) che il chierico ottiene ai livelli indicati nella tabella di descrizione del dominio.
+A ogni dominio corrisponde una lista di [**incantesimi**](/rules/incantesimi) (di dominio) che il chierico ottiene ai livelli indicati nella tabella di descrizione del dominio.
 
 Quando un chierico ottiene un incantesimo di dominio, quell'incantesimo è sempre considerato preparato e non conta al fine di determinare il numero di incantesimi che il chierico può preparare ogni giorno.
 
@@ -107,9 +105,9 @@ Alcuni domini conferiscono degli effetti aggiuntivi man mano che si avanza di li
 
 Quando un chierico utilizza *Incanalare Dvinità*, può scegliere quale effetto creare.
 
-Deve poi completare un riposo breve' o lungo' per utilizzare di nuovo *Incanalare Divnità*
+Deve poi completare un [**riposo breve**](/avventura/riposo-breve) o [**lungo**](/avventura/riposo-lungo) per utilizzare di nuovo *Incanalare Divnità*
 
-- Alcuni effetti di Incanalare Divinità richiedono l'utilizzo di tiri salvezza', in tal caso la CD è pari alla CD dei tiri salvezza dei suoi incantesimi' da chierico.
+- Alcuni effetti di Incanalare Divinità richiedono l'utilizzo di [**tiri salvezza**](/rules/combattimento#tiro-salvezza), in tal caso la CD è pari alla CD dei tiri salvezza dei suoi [**incantesimi**](/rules/incantesimi) da chierico.
 
 Dal 6° livello, può utilizzare *Incanalare Dvinità* **due** volte tra un riposo e l'altro, e a partire dal 18° livello, può utilizzarlo **tre** voltre tra un riposo e l'altro.
 
@@ -119,19 +117,19 @@ Dal 6° livello, può utilizzare *Incanalare Dvinità* **due** volte tra un ripo
 
 Con un'azione, brandisce il suo simbolo sacro e pronuncia una preghiera di condanna nei confronti dei non morti.
 
-Ogni non morto che è in grado vedere o sentire il chierico, e si trova entro 9m da luideve effettuare un tiro salvezza' su Saggezza'. Se lo fallisce, la creatura è scacciata per 1 minuto o finchè non subisce danni.
+Ogni non morto che è in grado vedere o sentire il chierico, e si trova entro 9m da luideve effettuare un [**tiro salvezza**](/rules/combattimento#tiro-salvezza) su [**Saggezza**](/rules/punteggi-caratteristica/#saggezza). Se lo fallisce, la creatura è scacciata per 1 minuto o finchè non subisce danni.
 
-Una creatura scacciata deve spendere i suoi turni tentando di allontanarsi il più possible dal chierico e non può volontariamente muoversi in uno spazio entro 9m dal chierico. Inoltre, non può effettuare reazioni'. Come sua azione può usare solo l'azione di Scatto' o tentare di fuggire da un effetto che gli impedisce di muoversi. Se non può muoversi in alcun luogo, la creatura può usare l'azione di Schivata'.
+Una creatura scacciata deve spendere i suoi turni tentando di allontanarsi il più possible dal chierico e non può volontariamente muoversi in uno spazio entro 9m dal chierico. Inoltre, non può effettuare [**reazioni**](/rules/combattimento#reazioni). Come sua azione può usare solo l'azione di [**Scatto**](/rules/combattimento#scatto) o tentare di fuggire da un effetto che gli impedisce di muoversi. Se non può muoversi in alcun luogo, la creatura può usare l'azione di [**Schivata**](/rules/combattimento#schivata).
 
 ## Aumento dei Punteggi di Caratteristica
 
-Può aumentare di 2 un punteggio di caratteristica' a sua scelta, oppure può aumentare di 1 due punteggi di caratteristica a sua scelta. Come di consueto, nonè consentito auemntare un punteggio di caratteristica a più di 20 utilizzando questo privilegio.
+Può aumentare di 2 un [**punteggio di caratteristica**](/rules/punteggi-caratteristica) a sua scelta, oppure può aumentare di 1 due punteggi di caratteristica a sua scelta. Come di consueto, nonè consentito auemntare un punteggio di caratteristica a più di 20 utilizzando questo privilegio.
 
 ## Distruggere Non Morti
 
 Dal 5° livello, quando un non morto fallisce il suo tiro salvezza ' contro il privilegio Scacciare Non Morti del chierico, quella creatura è distrutta istantaneamente se il suo grado di sfida è pari o inferiorea una certa soglia, come indicato nella seguente tabella.
 
-| Livello da Chierico | Distruggere i Non Morti con Grado di Sfida' |
+| Livello da Chierico | Distruggere i Non Morti con [**Grado di Sfida**](/rules/mostri#sfida) |
 | ------------------- | ------------------------------------------- |
 | 5°                  | 1/2 o inferiore                             |
 | 8°                  | 1 o inferiore                               |
@@ -143,9 +141,9 @@ Dal 5° livello, quando un non morto fallisce il suo tiro salvezza ' contro il p
 
 Dal 10° livello, un chierico può appellarsi alla propria divinità affinchè intervenga a suo beneficio nel momento del bisogno.
 
-Per implorare l'aiuto, il chierico deve usare un'azione'. In questa azione deve descrivere l'assistenza che desidera ottenere e tirare un **dado percentuale** (o percentile). Se ottiene un numero pari o inferiore al proprio livello da chierico, la divinità interviene.
+Per implorare l'aiuto, il chierico deve usare un'[**azione**](/rules/combattimento#azione). In questa azione deve descrivere l'assistenza che desidera ottenere e tirare un **dado percentuale** (o percentile). Se ottiene un numero pari o inferiore al proprio livello da chierico, la divinità interviene.
 
-Sta al DM decidere la natura dell'intervento, l'effetto di qualsiasi incantesimo da chierico o incantesimo da dominio clericale è appropriato. Se la divinità interviene, il chierico non può più utilizzare questo privilegio per **7 giorni**. Altrimenti può utilizzarlo di nuovo dopo che ha completato un riposo lungo'.
+Sta al DM decidere la natura dell'intervento, l'effetto di qualsiasi incantesimo da chierico o incantesimo da dominio clericale è appropriato. Se la divinità interviene, il chierico non può più utilizzare questo privilegio per **7 giorni**. Altrimenti può utilizzarlo di nuovo dopo che ha completato un [**riposo lungo**](/avventura/riposo-lungo).
 
 Al 20° livello, la richiesta di intervento ha successo automaticamente, senza che sia richiesto alcun tiro.
 
@@ -169,33 +167,33 @@ Al 1° livello, il chiarico apprende due linguaggi a sua scelta.
 
 Inoltre, ottiene competenza in due delle seguenti abilità a sua scelta: Arcano, Natura, Religione o Storia.
 
-Il suo bonus di competenza' raddoppia in ogni prova di caratteristica' da lui effettuata usando una di queste abilità.
+Il suo [**bonus di competenza**](/rules/punteggi-caratteristica#bonus-di-competenza) raddoppia in ogni [**prova di caratteristica**](/rules/punteggi-caratteristica/#prove-di-caratteristica) da lui effettuata usando una di queste abilità.
 
 #### Incanalare Divinità: Conoscenze Secolari
 
-Dal 2° livello può utilizzare Incanalare Divinità per attingere un pozzo divino di conoscenza. Con un'azione', può scegliere un'abilità' o uno strumento. Per 10 minuti (circa 100 round) ottiene competenza nell'abilità o nello strumento scelto.
+Dal 2° livello può utilizzare Incanalare Divinità per attingere un pozzo divino di conoscenza. Con un'[**azione**](/rules/combattimento#azione), può scegliere un'abilità' o uno strumento. Per 10 minuti (circa 100 round) ottiene competenza nell'abilità o nello strumento scelto.
 
 #### Incanalare Divinità: Lettura del Pensiero
 
 Al 6° livello, il chierico può utilizzare Incanalare Dvinità per leggere i pensiere di una creatura.
 
-Può usare il suo accesso alla mente bersaglio per assumerne il comando. Con un'azione', il chierico sceglie una reatura situata entro 18m da lui e che egli sia in grado di vedere.
-Tale creatura deve superare un tiro salvezza' su Saggezza'.
+Può usare il suo accesso alla mente bersaglio per assumerne il comando. Con un'[**azione**](/rules/combattimento#azione), il chierico sceglie una reatura situata entro 18m da lui e che egli sia in grado di vedere.
+Tale creatura deve superare un [**tiro salvezza**](/rules/combattimento#tiro-salvezza) su [**Saggezza**](/rules/punteggi-caratteristica/#saggezza).
 
-- Se lo supera, il chierico non può più utilizzare tale privilegio finchè non termina un riposo lungo'.
+- Se lo supera, il chierico non può più utilizzare tale privilegio finchè non termina un [**riposo lungo**](/avventura/riposo-lungo).
 - Se lo fallisce, il chierico può leggere i suoi pensieri *superficiali* quando essa si trova entro 18m da lui. Questo effetto dura 1 minuto (10 round), durante questo periodo il chierico può usare la sua azione per porre fine a questo effetto e lanciare l'incantesimo *suggestione* sulla creatura senza spendere uno slot incantesimo. Il bersaglio fallisce automaticamente il suo tiro salvezza contro l'incantesimo.
 
 #### Incantesimi Potenti
 
-Dal 8° livello, il chierico aggiunge il suo modificatore di Saggezza' ai danni che infligge con qualsiasi trucchetto da chierico.
+Dal 8° livello, il chierico aggiunge il suo modificatore di [**Saggezza**](/rules/punteggi-caratteristica/#saggezza) ai danni che infligge con qualsiasi trucchetto da chierico.
 
 #### Visioni del Passato
 
 Dal 17° livello il chierico può evocare una visione del passato collegata a un oggetto che impugna o che si trova nelle sue immediate vicinanze.
 
-Per farlo deve spendere almeno 1 minuto in meditazione o in preghiera, poi riceverà una visione fugace, indistinta e sognante degli eventi recenti. Il chierico può meditare in questo modo per un numero di minuti pari al suo punteggio di Saggezza' e deve mantenere la concentrazione durante quel periodo, come se stesse lanciando un incantesimo.
+Per farlo deve spendere almeno 1 minuto in meditazione o in preghiera, poi riceverà una visione fugace, indistinta e sognante degli eventi recenti. Il chierico può meditare in questo modo per un numero di minuti pari al suo punteggio di [**Saggezza**](/rules/punteggi-caratteristica/#saggezza) e deve mantenere la concentrazione durante quel periodo, come se stesse lanciando un incantesimo.
 
-Una volta utilizzato questo privilegio, il chierico non può più utilizzarlo finchè non completa un riposo breve' o lungo'.
+Una volta utilizzato questo privilegio, il chierico non può più utilizzarlo finchè non completa un [**riposo breve**](/avventura/riposo-breve) o [**lungo**](/avventura/riposo-lungo).
 
 ##### Lettura degli Oggetti
 
@@ -207,7 +205,7 @@ Se l'oggetto è stato posseduto da un'altra creatura nei tempi recenti (entro un
 
 ##### Lettura dell'Area
 
-Il chierico medita e riceve una visione dgli eventi recenti nelle sue immediate vicinanze (entro un cubo con spigolo di 15 metri), risalendo nel passato fino a un numero di giorni pari al suo punteggio di Saggezza'.
+Il chierico medita e riceve una visione dgli eventi recenti nelle sue immediate vicinanze (entro un cubo con spigolo di 15 metri), risalendo nel passato fino a un numero di giorni pari al suo punteggio di [**Saggezza**](/rules/punteggi-caratteristica/#saggezza).
 
 Per ogni minuto in cui medita apprende un evento significativo, a partire dal più recente. Per centi significativi solitamente si intendono quelli segnati da emozioni potenti, come battaglie, tradimenti, matrimoni, omicidi, nascite e funerali.
 
@@ -233,19 +231,19 @@ Al 1° livello, il chierico ottiene competenza nelle **armi da guerra** e nelle 
 
 ùDal 1° livello, il chierico riceve dal suo dio dei fugaci lampi di ispirazione quando è impegnato in battaglia.
 
-Quando usa l'azione di Attacco', il chierico può effettuare un attacco con un'arma come azione bonus'.
+Quando usa l'azione di [**Attacco**](/rules/combattimento#attacco), il chierico può effettuare un attacco con un'arma come [**azione bonus**](/rules/combattimento#azione-bonus).
 
-Il chierico può utilizzare questo privilegio un numero di volte pari al suo modificatore di Saggezza' (minimo 1 volta). Recupera tutti gli utilizzi spesi quando completa un riposo lungo'.
+Il chierico può utilizzare questo privilegio un numero di volte pari al suo modificatore di [**Saggezza**](/rules/punteggi-caratteristica/#saggezza) (minimo 1 volta). Recupera tutti gli utilizzi spesi quando completa un [**riposo lungo**](/avventura/riposo-lungo).
 
 #### Incanalare Divinità: Colpo Guidato
 
-Dal 2° livello, quando effettua un tiro per colpire', può utilizzare Incanalare Divinità per ottenere un bonus di +10 al tiro.
+Dal 2° livello, quando effettua un [**tiro per colpire**](/rules/combattimento#tiro-per-colpire), può utilizzare Incanalare Divinità per ottenere un bonus di +10 al tiro.
 
 Il chierico effettua questa scelta dopo aver virto il tiro prima che il DM dichiari se l'attacco colpisce o manca.
 
 #### Incanalare Divinità: Benedizione del Dio della Guerra
 
-Dal 6° livello, quando una creatura entro 9m effettua un tiro per colpire', il chierico può usare la sua reazione per conferire a quella creatura un bonus di +10 al tiro, utilizzando Incanalare Divinità.
+Dal 6° livello, quando una creatura entro 9m effettua un [**tiro per colpire**](/rules/combattimento#tiro-per-colpire), il chierico può usare la sua reazione per conferire a quella creatura un bonus di +10 al tiro, utilizzando Incanalare Divinità.
 
 Il chierico fa questa scelta dopo aver visto il tiro, ma prima che il DM dichiari se l'attacco colpisce o manca.
 
@@ -273,24 +271,24 @@ Gli dei dell'inganno sono mistificatori e fomentatori, sempre pronti a turbare l
 
 #### Benedizione dell'Ingannatore
 
-Dal 1° livello, può usare la sua azione' per toccare una creatura consenziente diversa da sè e conferirle vantaggio alle prove di Destrezza' (Furtività).
+Dal 1° livello, può usare la sua [**azione**](/rules/combattimento#azione) per toccare una creatura consenziente diversa da sè e conferirle vantaggio alle prove di [**Destrezza**](/rules/punteggi-caratteristica/#destrezza) (Furtività).
 Questa benedizione dura 1 ora o finchè il chierico non utilizza di nuovo questo privilegio.
 
 #### Incanalare Divinità: Invocare Duplicato
 
 Dal 2° livello, può utilizzare [**Incanalare Divinità**](#incanalare-divinità) per creare un duplicato illusorio di se stesso.
 
-Con un'azione' il chierico crea una perfetta illusione di se stesso che dura 1 minuto o finchè il chierico non perde la concentrazione (come per un incantesimo).
-L'illusione appare in uno spazio libero situato entro 9m dal chierico e che egli sia in grado di vedere. Come azione bonus', nel suo turno, il chierico può muovere l'illusione di un massimo di 9m fino a uno spazio
+Con un'[**azione**](/rules/combattimento#azione) il chierico crea una perfetta illusione di se stesso che dura 1 minuto o finchè il chierico non perde la concentrazione (come per un incantesimo).
+L'illusione appare in uno spazio libero situato entro 9m dal chierico e che egli sia in grado di vedere. Come [**azione bonus**](/rules/combattimento#azione-bonus), nel suo turno, il chierico può muovere l'illusione di un massimo di 9m fino a uno spazio
 che egli sia ingrado di vedere, l'illusione deve rimanere entro 36m da lui.
 
-Per tutta la durata, il chierico può lanciare incantesimi come se si trovasse nello spazio dell'illusione, ma deve usare i propri sensi. Inoltre, quando sia il chierico che l'illusione si trovano entro 1,5m da una creatura che sia in grado di vedere l'illusione, il chierico dispone di vantaggio ai tiri per colpire' contro tale creatura, in quanto l'illusione *distrae* il bersaglio.
+Per tutta la durata, il chierico può lanciare incantesimi come se si trovasse nello spazio dell'illusione, ma deve usare i propri sensi. Inoltre, quando sia il chierico che l'illusione si trovano entro 1,5m da una creatura che sia in grado di vedere l'illusione, il chierico dispone di vantaggio ai [**tiri per colpire**](/rules/combattimento#tiro-per-colpire) contro tale creatura, in quanto l'illusione *distrae* il bersaglio.
 
 #### Incanalare Divinità: Manto di Ombre
 
 Dal 6° livello, può utilizzare [**Incanalare Divinità**](#incanalare-divinità) per svanire.
 
-Con un'azione', il chierico diventa invisibile fino alla fine del suo turno successivo. Torna a essere visibile se attacca' o se lancia un incantesimo'.
+Con un'[**azione**](/rules/combattimento#azione), il chierico diventa invisibile fino alla fine del suo turno successivo. Torna a essere visibile se [**attacca**](/rules/combattimento#attacco) o se lancia un [**incantesimo**](/rules/incantesimi).
 
 #### Colpo Divino
 
@@ -304,7 +302,7 @@ Quando arriva al 14° livello, i danni extra aumentano a 2d8.
 
 Dal 17° livello, può creare fino a quattro duplicati di se stesso anzichè uno quando utilizza [**Invocare Duplicato**](#incanalare-divinità-invocare-duplicato).
 
-Come azione bonus' nel suo turno, può muovere un qualsiasi numero di quei duplicati fino a un massimo di 9m ed entro una gittata massima di 36m.
+Come [**azione bonus**](/rules/combattimento#azione-bonus) nel suo turno, può muovere un qualsiasi numero di quei duplicati fino a un massimo di 9m ed entro una gittata massima di 36m.
 
 ### Dominio della Luce
 
@@ -321,26 +319,26 @@ come il sole in persona, o come un auriga che guida il sole nel cielo.
 
 #### Trucchetto Bonus
 
-Al 1° livello apprende il trucchetto' *luce*, se già non lo possiede.
+Al 1° livello apprende il [**trucchetto**](/rules/trucchetto) *luce*, se già non lo possiede.
 
 #### Lampo di Interdizione
 
 Dal 1° livello è anche in grado di erigere una barriera di luce divina tra sè e un nemico che lo sta attaccando.
 
-Quando il chierico è attaccato da una creatura situata entro 9m da lui e che egli sia in grado di vedere, può usare la sua reazione' per infliggere *svantaggio* al tiro per colpire',
+Quando il chierico è attaccato da una creatura situata entro 9m da lui e che egli sia in grado di vedere, può usare la sua re[**azione**](/rules/combattimento#azione) per infliggere *svantaggio* al [**tiro per colpire**](/rules/combattimento#tiro-per-colpire),
 facendo in modo che un lampo di luce confonda l'attaccante prima che il suo colpo vada a segno o manchi.
 
 Un attaccante che non può essere accecato è **immune** a questo privilegio.
 
-Il chierico può utilizzare questo privilegio un numero di volte pari al suo modificatore di Saggezza' (minimo 1 volta). Recupera tutti gli utilizzi spesi quando completa un riposo lungo'.
+Il chierico può utilizzare questo privilegio un numero di volte pari al suo modificatore di [**Saggezza**](/rules/punteggi-caratteristica/#saggezza) (minimo 1 volta). Recupera tutti gli utilizzi spesi quando completa un [**riposo lungo**](/avventura/riposo-lungo).
 
 #### Incanalare Divinità: Fulgore dell'Alba
 
 Dal 2° livello, può utilizzare [**Incanalare Divinità**](#incanalare-divinità) per imbrigliare la luce del sole, esiliare l'oscurità e infliggere danni radiosi ai suoi avversari.
 
-Con un'azione', il chierico brandisce il simbolo sacro e ogni forma di oscurità magica entro 9m da lui è dissolta.
+Con un'[**azione**](/rules/combattimento#azione), il chierico brandisce il simbolo sacro e ogni forma di oscurità magica entro 9m da lui è dissolta.
 
-Inoltre, ogni creatura ostile situata entro 9m da lui deve effettuare un tiro salvezza' su Costituzione'.
+Inoltre, ogni creatura ostile situata entro 9m da lui deve effettuare un [**tiro salvezza**](/rules/combattimento#tiro-salvezza) su [**Costituzione**](/rules/punteggi-caratteristica/#costituzione).
 
 - Se fallisce, subisce 2d10 + il livello da chierico danni radiosi.
 - Se lo supera, riceve la metà dei danni (al punto precedente).
@@ -353,17 +351,17 @@ Dal 6° livello, può utilizzare il suo [**Lampo di Interdizione**](#lampo-di-in
 
 #### Incantesimi Potenti
 
-Dal 8° livello, aggiunge il suo modificatore di Saggezza' ai danni che infligge con qualsiasi trucchetto' da chierico.
+Dal 8° livello, aggiunge il suo modificatore di [**Saggezza**](/rules/punteggi-caratteristica/#saggezza) ai danni che infligge con qualsiasi [**trucchetto**](/rules/trucchetto) da chierico.
 
 #### Corona di Luce
 
-Dal 17° livello, può usare la sua azione' per attivare un'aura di luce solare che dura 1 minuto o finchè il chierico non la congeda usando un'altra azione.
+Dal 17° livello, può usare la sua [**azione**](/rules/combattimento#azione) per attivare un'aura di luce solare che dura 1 minuto o finchè il chierico non la congeda usando un'altra azione.
 
-Il chierico emette luce intensa entro un raggio di 18m e luce fioca per ulteriori 9m. I nemici che si trovano entro il raggio di luce intensa subiscono *svantaggio* ai tiri salvezza' contro qualsiasi incantesimo' che infligga danni da **fuoco** o **radiosi**.
+Il chierico emette luce intensa entro un raggio di 18m e luce fioca per ulteriori 9m. I nemici che si trovano entro il raggio di luce intensa subiscono *svantaggio* ai [**tiri salvezza**](/rules/combattimento#tiro-salvezza) contro qualsiasi [**incantesimo**](/rules/incantesimi) che infligga danni da **fuoco** o **radiosi**.
 
 ### Dominio della Natura
 
-I druidi' venerano la natura nella sua interezza e potrebbero servire una di queste divinità (*riti, preghiere, ...*). Molte di queste divinità dispongon operò anche di chierici, veri e propri campioni pronti a svolgere un ruolo attivo nel sostenere gli interessi di uno specifico dio della natura.
+I [**druidi**](/classi/druido) venerano la natura nella sua interezza e potrebbero servire una di queste divinità (*riti, preghiere, ...*). Molte di queste divinità dispongon operò anche di chierici, veri e propri campioni pronti a svolgere un ruolo attivo nel sostenere gli interessi di uno specifico dio della natura.
 
 | Livelli da Chierico | Incantesimi                                         |
 | ------------------- | --------------------------------------------------- |
@@ -375,7 +373,7 @@ I druidi' venerano la natura nella sua interezza e potrebbero servire una di que
 
 #### Accolito della Natura
 
-Dal 1° livello il chierico apprende un trucchetto' da druido' a sua scelta.
+Dal 1° livello il chierico apprende un [**trucchetto**](/rules/trucchetto) da [**druido**](/classi/druido) a sua scelta.
 
 Inoltre, ottiene competenza in una delle seguente abilità a sua scelta: *Addestrare Animali*, *Natura* o *Sopravvivenza*
 
@@ -387,14 +385,14 @@ Dal 1° livello, il chierico ottiene competenza nelle *armature pesanti*.
 
 Dal 2° livello, può utilizzare [**Incanalare Divinità**](#incanalare-divinità) per affascinare animali e vegetali.
 
-Con un'azione' il chierico brandisce il suo simbolo sacro e invoca il nome della sua divinità. Ogni bestia o creatura vegetale in grado di vedere il chierico e situata entro 9m da lui deve affrontare un tiro salvezza' su Saggezza'.
+Con un'[**azione**](/rules/combattimento#azione) il chierico brandisce il suo simbolo sacro e invoca il nome della sua divinità. Ogni bestia o creatura vegetale in grado di vedere il chierico e situata entro 9m da lui deve affrontare un [**tiro salvezza**](/rules/combattimento#tiro-salvezza) su [**Saggezza**](/rules/punteggi-caratteristica/#saggezza).
 
-Se lo fallisce rimane affascinato' dal chierico per 1 minuto o finchè non subisce danni.
+Se lo fallisce rimane [**affascinato**](/rules/condizioni) dal chierico per 1 minuto o finchè non subisce danni.
 Finchè è affascinata, la creatura è considerata amichevole nei confronti del chierico e dalle altre creature da lui designate.
 
 #### Mitigare Elementi
 
-Dal 6° livello, quando il chierico o una creatura a 9m da lui subisce danni da **acido**, **freddo**, **fulmine**, **fuoco** o **tuono**, egli può usare la sua reazione' per conferire a se stesso o a quella creatura resistenza' a quel tipo di danni.
+Dal 6° livello, quando il chierico o una creatura a 9m da lui subisce danni da **acido**, **freddo**, **fulmine**, **fuoco** o **tuono**, egli può usare la sua re[**azione**](/rules/combattimento#azione) per conferire a se stesso o a quella creatura [**resistenza**](/rules/combattimento#resistenza) a quel tipo di danni.
 
 #### Colpo Divino
 
@@ -406,7 +404,7 @@ Quando arriva al 14° livello, i danni extra aumentano a 2d8.
 
 #### Maestro della Natura
 
-Dal 17° livello, il chierico ottiene la capacità di comandare gli animali e le creature vegetali. Quando le creature sono affascinate dal chierico tramite il suo privilegio [**Charme su Animali e Vegetali**](#incanalare-divinità-charme-su-animali-e-vegetali), il chierico può effettuare un'azione bonus' nel suo turno per comandare verbalmente ognuna di quelle creature, decidendo ciò che faranno nel loro turno successivo.
+Dal 17° livello, il chierico ottiene la capacità di comandare gli animali e le creature vegetali. Quando le creature sono affascinate dal chierico tramite il suo privilegio [**Charme su Animali e Vegetali**](#incanalare-divinità-charme-su-animali-e-vegetali), il chierico può effettuare un'[**azione bonus**](/rules/combattimento#azione-bonus) nel suo turno per comandare verbalmente ognuna di quelle creature, decidendo ciò che faranno nel loro turno successivo.
 
 ### Dominio della Tempesta
 
@@ -430,11 +428,11 @@ Dal 1° livello, il chierico ottiene competenza nelle armi da guerra e nelle arm
 
 Dal 1° livello, il chierico impara a intimorire gli attaccanti con la potenza del tuono.
 
-Quando il chierico è colpito dall'atacco di una creatura entro 1,5m da lui e che egli sia in grado di vedere, può usare la sua reazione' per obbligare la creatura a effettuare un tiro salvezza' su Destrezza'.
+Quando il chierico è colpito dall'atacco di una creatura entro 1,5m da lui e che egli sia in grado di vedere, può usare la sua re[**azione**](/rules/combattimento#azione) per obbligare la creatura a effettuare un [**tiro salvezza**](/rules/combattimento#tiro-salvezza) su [**Destrezza**](/rules/punteggi-caratteristica/#destrezza).
 
 Se lo fallisce, subisce 2d8 danni da **fulmine** o da **tuono**, mentre se lo supera subisce soltanto la metà di quei danni.
 
-Può utilizzare questo privilegio un numero di volte pari al suo modificatore di Saggezza' (minimo 1 volta). Recupera tutti gli utilizzi spesi quando completa un riposo lungo'.
+Può utilizzare questo privilegio un numero di volte pari al suo modificatore di [**Saggezza**](/rules/punteggi-caratteristica/#saggezza) (minimo 1 volta). Recupera tutti gli utilizzi spesi quando completa un [**riposo lungo**](/avventura/riposo-lungo).
 
 #### Incanalare Divinità: Collera Distruttiva
 
@@ -444,7 +442,7 @@ Quando il chierico tira per infliggere danni da **fulmine** o da **tuono**, può
 
 #### Colpo del Tuono e del Fulmine
 
-Dal 6° livelo, quando infligge danni da fulmine a una creatura di taglia' Grande o inferiore, può anche spingere quella creatura fino a 3m, allontanandola da sè.
+Dal 6° livelo, quando infligge danni da fulmine a una creatura di [**taglia**](/rules/mostri#taglia) Grande o inferiore, può anche spingere quella creatura fino a 3m, allontanandola da sè.
 
 #### Colpo Divino
 
@@ -456,7 +454,7 @@ Quando il chierico arriva al 14° livello, i danni extra aumentano a 2d8.
 
 #### Nato dalla Tempesta
 
-Dal 17° livello, ottiene una velocità di volare' pari alla sua attuale velocità base sul terreno ogni volta che non si trova sottoterra o al chiuso.
+Dal 17° livello, ottiene una velocità di [**volare**](/rules/avventura#movimento) pari alla sua attuale velocità base sul terreno ogni volta che non si trova sottoterra o al chiuso.
 
 ### Dominio della Vita
 
@@ -477,13 +475,13 @@ Dal 1° livello, ottiene competenza nelle **armature pesanti**.
 #### Discepolo della Vita
 
 Dal 1° livello, gli incantesimi di guarigione del chierico diventano piu efficaci.
-Ogni volta che il chierico usa un incantesimo di 1° livello o di livello superiore per ripristinare i punti ferita' di di una creatura, quella creatura recupera un ammontare di punti ferita aggiuntivi pari a **2 + il livello dell'incantesimo**.
+Ogni volta che il chierico usa un incantesimo di 1° livello o di livello superiore per ripristinare i [**punti ferita**](/rules/mostri#punti-ferita) di di una creatura, quella creatura recupera un ammontare di punti ferita aggiuntivi pari a **2 + il livello dell'incantesimo**.
 
 #### Incanalare Divinità: Preservare Vita
 
 Dal 2° livelo, può utilizzare [**Incanalare Divinità**](#incanalare-divinità) per curare chi è stato gravemente ferito.
 
-Con un'azione', il chierico bransice il suo simbolo sacro ed evoca un flusso di energia curativa che può ripristinare un numero di punti ferita' pari a cinque volte ilsuo livello da chierico.
+Con un'[**azione**](/rules/combattimento#azione), il chierico bransice il suo simbolo sacro ed evoca un flusso di energia curativa che può ripristinare un numero di [**punti ferita**](/rules/mostri#punti-ferita) pari a cinque volte ilsuo livello da chierico.
 
 Sceglie le creature desideate purchè siano situate entro 9m da lui e suddivide questo ammontare di punti ferita tra di esse.
 
@@ -495,7 +493,7 @@ Il chierico non può utilizzare questo privilegio su un **costrutto** o su un **
 
 Da 6° livello, gli incantesimi curatvi che il chierico lancia sugli altri guariscono anche lui.
 
-Quando il chierico lancia un incantesimo di 1° livello o di livello superiore che ripristina punti ferita' in una creatura diversa da lui, egli recupera un ammontare di punti ferita pari a **2 + il livello dell'incantesimo**.
+Quando il chierico lancia un incantesimo di 1° livello o di livello superiore che ripristina [**punti ferita**](/rules/mostri#punti-ferita) in una creatura diversa da lui, egli recupera un ammontare di punti ferita pari a **2 + il livello dell'incantesimo**.
 
 #### Colpo Divino
 
@@ -505,4 +503,4 @@ Quando il chierico arriva al 14° livello, i danni extra aumentano a 2d8.
 
 #### Guarigione Suprema
 
-Dal 17° livello, quando il chierico normalmente tirerebbe uno o più dadi per ripristinare punti ferita' tramite un incantesimo', egli usa invece il più alto possibile di punti per ogni dado.
+Dal 17° livello, quando il chierico normalmente tirerebbe uno o più dadi per ripristinare [**punti ferita**](/rules/mostri#punti-ferita) tramite un [**incantesimo**](/rules/incantesimi), egli usa invece il più alto possibile di punti per ogni dado.

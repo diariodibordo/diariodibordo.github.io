@@ -57,7 +57,7 @@ Il **bonus di competenza** viene usato nelle regole relative alle *prove di cara
 * Se una circostanza suggerisce che il bonus di competenza del personaggio vada applicato più di una volta al tiro, il personaggio lo applica lo stesso una volta e lo moltiplica e lo divide soltanto una volta.
 * Se il **bonus competenza** di un personaggio viene moltiplicato in una prova che non utilizza il bonus, il bonus non viene comunque aggiunto alla prova (sarebbe come moltiplicare per 0).
 
-In generale, un personaggio non moltiplica il suo **bonus di competenza** ai **tiri per colpire** o ai **tiri salvezza**. Se un privilegio o un effetot gli consente di farlok, si applicano le regole sopracitate.
+In generale, un personaggio non moltiplica il suo **bonus di competenza** ai **tiri per colpire** o ai **tiri salvezza**. Se un privilegio o un effetto gli consente di farlok, si applicano le regole sopracitate.
 
 Pag. 173 PHB
 
