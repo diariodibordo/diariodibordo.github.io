@@ -438,11 +438,25 @@ Può utilizzare questo privilegio un numero di volte pari al suo modificatore di
 
 #### Incanalare Divinità: Collera Distruttiva
 
+Dal 2° ivello, può utilizzare [**Incanalare Divinità**](#incanalare-divinità) per esercitare il potere della tempesta con ferocia incontrollata.
+
+Quando il chierico tira per infliggere danni da **fulmine** o da **tuono**, può utilizzare Incanalare Divinità per infliggere il massimo dei danni anzichè tirarli.
+
 #### Colpo del Tuono e del Fulmine
+
+Dal 6° livelo, quando infligge danni da fulmine a una creatura di taglia' Grande o inferiore, può anche spingere quella creatura fino a 3m, allontanandola da sè.
 
 #### Colpo Divino
 
+Dal 8° livello, ottiene la capacità di infondere energia divina nei colpi della sua arma.
+
+Una volta per ogni suo turno, quando colpisce una creatura con un attacco con un'arma, il chierico può fare in modo che l'attacco infligga 1d8 danni da **tuono** extra al bersaglio.
+
+Quando il chierico arriva al 14° livello, i danni extra aumentano a 2d8.
+
 #### Nato dalla Tempesta
+
+Dal 17° livello, ottiene una velocità di volare' pari alla sua attuale velocità base sul terreno ogni volta che non si trova sottoterra o al chiuso.
 
 ### Dominio della Vita
 
