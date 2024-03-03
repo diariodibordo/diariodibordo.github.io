@@ -52,3 +52,127 @@ sidebar:
 - Una *borsa per componenti* o un *focus arcano*
 - Una *dotazione da studioso* o una *dotazione da esploratore*
 - Un libro degli incantesimi
+
+## Incantesimi
+
+### Trucchetti
+
+### Libro Degli Incantesimi
+
+### Preparare e Lanciare Incantesimi
+
+### Caratteristiche da Incantatore
+
+### Celebrare Rituali
+
+### Focus da Incantatore
+
+### Imparare Incantesimi di 1° Livello e di Livello Superiore
+
+##  Recupero Arcano
+
+## Tradizione Arcana
+
+## Aumento dei Punteggi di Caratteristica
+
+## Maestria negli Incantesimi
+
+## Incantesimi Personali
+
+## Tradizioni Arcane
+
+### Scuola di Abiurazione
+
+#### Abiuratore Sapiente
+
+#### Interdizione Arcana
+
+#### Interdizione Proiettata
+
+#### Abiurazione Migliorata
+
+#### Resistenza agli Incantesimi
+
+### Scuola di Ammaliamento
+
+#### Ammaliatore Sapiente
+
+#### Sguardo Ipnotico
+
+#### Fascino Istintivo
+
+#### Ammaliamento Condiviso
+
+#### Alterare Ricordi
+
+### Scuola di Divinazione
+
+#### Divinatore Sapiente
+
+#### Portento
+
+#### Divinazione Esperta
+
+#### Terzo Occhio
+
+#### Portento Superiore
+
+### Scuola di Evocazione
+
+#### Evocatore Sapiente
+
+#### Evocazione Minore
+
+#### Trasposizione Benevola
+
+#### Evocazione Focalizzata
+
+#### Evocazione Perduranti
+
+### Scuola di Illusione
+
+#### Illusionista Sapiente
+
+#### Illusione Minore Migliorata
+
+#### Illusioni Duttili
+
+#### Sosia Illusorio
+
+#### Reealtà Illusoria
+
+### Scuola di Invocazione
+
+#### Invocatore Sapiente
+
+#### Plasmare Incantesimi
+
+#### Trucchetto Potente
+
+#### Invocazione Potente
+
+#### Saturazione Magica
+
+### Scuola di Necromanzia
+
+#### Necromante Sapiente
+
+#### Raccolto Macabro
+
+#### Servitori Non Morti
+
+#### Impervio alla Non Morte
+
+#### Comandare Non Morti
+
+### Scuola di Trasmutazione
+
+#### Trasmutatore Sapiente
+
+#### Alchimia Minore
+
+#### Pietra del Trasmutatore
+
+#### Mutaforma
+
+#### Maestro Trasmutatore
