@@ -51,9 +51,9 @@ sidebar:
 | 19      | +6                   | Aumento dei Punteggi di Caratteristica                                                              | 5                      | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 3 (5°), 2 (6°), 1 (7°), 1 (8°), 1 (9°) |
 | 20      | +6                   | Intervento Divino Migliorato                                                                        | 5                      | 4 (1°), 3 (2°), 3 (3°), 3 (4°), 3 (5°), 2 (6°), 2 (7°), 1 (8°), 1 (9°) |
 
-### Incantesimi
+## Incantesimi
 
-#### Trucchetti
+### Trucchetti
 
 Al 1° livello, un chierico conosce tre trucchetti a sua scelta tratti dalla lista degli [**incantesimi**](/rules/incantesimi) da chierico.
 
@@ -67,7 +67,7 @@ Il chierico prepara la lista degli incantesimi da chierico disponibili da lancia
 
 Gli incantesimi devono essere di un livello di cui il chierico possiede degli slot incantesimo.
 
-### Caratteristica da Incantatore
+## Caratteristica da Incantatore
 
 [**Saggezza**](/rules/punteggi-caratteristica/#saggezza) è la caratteristica da incantatore usata per gli incantesimi da chierico. Il potere degli incantesimi deriva dalla sua devozione nei confronti della divinità.
 
@@ -79,11 +79,11 @@ Il modificatore di Saggezza per definire la CD del [**tiro salvezza**](/rules/co
 
 **Modificatore di attacco dell'incantesimo** = bonus di competenza del chierico + il modificatore di Saggezza del chierico.
 
-### Celebrare Rituali
+## Celebrare Rituali
 
 Può lanciare un [**incantesimo**](/rules/incantesimi) da chierico come [**rituale**](/rules/incantesimo#rituale) se quell'incantesimo possiede il descrittore rituale e il chierico lo ha preparato.
 
-### Focus da Incantatore
+## Focus da Incantatore
 
 Può usare un simbolo sacro' come focus da incantatore per i suoi incantesimi da chierico.
 
