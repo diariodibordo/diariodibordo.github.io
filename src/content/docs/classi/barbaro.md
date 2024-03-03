@@ -5,13 +5,22 @@ title: 🪓 Barbaro
 sidebar:
     order: 1
 ---
-## Competenze
+
+## Privilegi di classe
+
+### Punti Ferita
+
+- **Dadi Vita**: 1d12 per ogni livello da barbaro
+- [**Punti Ferita**](/rules/mostri#punti-ferita): 12 + il modificatore di [**Costituzione**](/rules/punteggi-caratteristica/#costituzione) del barbaro
+- Punti Ferita ai livelli successivi: 1d12 (o 7) + il modificatore di [**Costituzione**](/rules/punteggi-caratteristica/#costituzione) del barbaro per ogni livello da barbaro dopo il 1°
+
+### Competenze
 
 - [**Armature**](/equipaggiamento#armature): *Armature leggere*, *armature medie*, *scudi*
 - [**Armi**](/equipaggiamento#armi): *Armi semplici*, *armi da guerra*
 - [**Abilità**](/rules/punteggi-caratteristica#abilità), due a scelta tra: *Addestrare Animali, Atletica, Intimidire, Natura, Percezione e Sopravvivenza*
 
-Un barbaro inizia con l'[**equipaggiamento**](/rules/equipaggiamento) seguente, in aggiunta a quello conferito dal background:
+### Equipaggiamento
 
 - *Ascia bipenne* o una qualsiasi arma da guerra da mischia
 - *Due asce* o una qualsiasi arma semplice

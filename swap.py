@@ -37,13 +37,15 @@ def replace_words_in_md_file(file_path):
         "Destrezza'": '[**Destrezza**](/rules/punteggi-caratteristica/#destrezza)',
         "trucchetto'": '[**trucchetto**](/rules/trucchetto)',
         "Costituzione'": '[**Costituzione**](/rules/punteggi-caratteristica/#costituzione)',
+        "costituzione'": '[**Costituzione**](/rules/punteggi-caratteristica/#costituzione)',
         "druido'": '[**druido**](/classi/druido)',
         "druidi'": '[**druidi**](/classi/druido)',
         "affascinato'": '[**affascinato**](/rules/condizioni)',
         "taglia'": '[**taglia**](/rules/mostri#taglia)',
         "volare'": '[**volare**](/rules/avventura#movimento)',
         "punti ferita'": '[**punti ferita**](/rules/mostri#punti-ferita)',
-        "Punti ferita'": '[**Punti ferita**](/rules/mostri#punti-ferita)'
+        "Punti ferita'": '[**Punti ferita**](/rules/mostri#punti-ferita)',
+        "Punti Ferita'": '[**Punti Ferita**](/rules/mostri#punti-ferita)'
     }
 
     # Apri il file .md in modalità lettura

@@ -5,13 +5,22 @@ title: 🔔 Chierico
 sidebar:
     order: 3
 ---
-## Competenze
+
+## Privilegi di classe
+
+### Punti Ferita
+
+- **Dadi Vita**: 1d8 per ogni livello da chierico
+- [**Punti Ferita**](/rules/mostri#punti-ferita): 8 + il modificatore di [**Costituzione**](/rules/punteggi-caratteristica/#costituzione) del chierico
+- Punti Ferita ai livelli successivi: 1d8 (o 5) + il modificatore di [**Costituzione**](/rules/punteggi-caratteristica/#costituzione) del chierico per ogni livello da chierico dopo il 1°
+
+### Competenze
 
 - [**Armature**](/equipaggiamento#armature): *Armature leggere*, *armature medie*, *scudi*
 - [**Armi**](/equipaggiamento#armi): *Armi semplici*
 - [**Abilità**](/rules/punteggi-caratteristica#abilità), due a scelta tra *Intuizione*, *Medicina*, *Persuasione*, *Religione*, *Storia*
 
-**[Equipaggiamento](/equipaggiamento)**:
+### Equipaggiamento
 
 - Una *mazza* o un *martello da guerra*
 - Una *corazza a scaglie*, *un'armatura di cuoio* o *una cotta di maglia*
