@@ -7,9 +7,7 @@ sidebar:
     badge:
         text: WIP
 ---
-## Mago
-
-**Competenze**:
+## Competenze
 
 - [**Armature**](/equipaggiamento#armature): nessuna
 - [**Armi**](/equipaggiamento#armi): *Balestre leggere, bastoni ferrati, dardi, fionde, pugnali*

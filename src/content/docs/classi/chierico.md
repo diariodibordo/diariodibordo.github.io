@@ -5,9 +5,7 @@ title: 🔔 Chierico
 sidebar:
     order: 3
 ---
-## Chierico
-
-**Competenze**:
+## Competenze
 
 - [**Armature**](/equipaggiamento#armature): *Armature leggere*, *armature medie*, *scudi*
 - [**Armi**](/equipaggiamento#armi): *Armi semplici*

@@ -7,3 +7,5 @@ sidebar:
     badge:
         text: TODO
 ---
+
+## Competenze

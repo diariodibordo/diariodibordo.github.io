@@ -5,9 +5,7 @@ title: 🪓 Barbaro
 sidebar:
     order: 1
 ---
-## Barbaro
-
-**Competenze**:
+## Competenze
 
 - [**Armature**](/equipaggiamento#armature): *Armature leggere*, *armature medie*, *scudi*
 - [**Armi**](/equipaggiamento#armi): *Armi semplici*, *armi da guerra*

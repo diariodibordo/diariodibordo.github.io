@@ -5,9 +5,7 @@ title: 🪕 Bardo
 sidebar:
     order: 2
 ---
-## Bardo
-
-**Competenze**:
+## Competenze
 
 - [**Armature**](/equipaggiamento#armature): *Armature leggere*
 - [**Armi**](/equipaggiamento#armi): *Armi semplici*, *balestre a mano*, *spade corte*, *spade lunghe*, *stocchi*
