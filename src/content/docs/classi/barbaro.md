@@ -49,7 +49,7 @@ sidebar:
 | 19°     | +6                  | Aumento dei Punteggi di Caratteristica    | 5   | +4             |
 | 20°     | +6                  | Campione Primordiale                      | 5   | +4             |
 
-### Ira
+## Ira
 
 Il barbaro nel suo turno di [**combattimento**](/rules/combattimento) può entrare in **ira** come [**azione bonus**](/rules/combattimento#azione-bonus).
 
@@ -68,40 +68,40 @@ Vincoli dell'ira:
 
 Una volta entrato in ira per il numero di volte indicato nella colonna "Ira", deve completare un [**riposo lungo**](/avventura/riposo-lungo) per poterla ricaricare.
 
-### Difesa Senza Armatura
+## Difesa Senza Armatura
 
 Finchè un barbaro non indossa alcuna armatura, la sua [**Classe Armatura**](/wip) è pari a **10 + il suo modificatore di [Destrezza](/rules/punteggi-caratteristica#destrezza) + il suo modificatore di [Costituzione](/rules/punteggi-caratteristica#costituzione)**.
 
 - Può usare uno *scudo* ed ottenere comunque questo bonus.
 
-### Attacco Irruento
+## Attacco Irruento
 
 Il primo attacco del suo turno, può decidere di sferrare un **attacco irruento**, il quale fornisce vantaggio ai [**Tiri per Colpire**](/rules/combattimento#tiri-per-colpire) in mischia che usano [**Forza**](/rules/punteggi-caratteristica#forza) in questo turno, ma fornisce vantaggio ai **Tiri per Colpire** (generico) dell'avversario fino al suo turno successivo.
 
-### Percezione del Pericolo
+## Percezione del Pericolo
 
 Dispone di vantaggio ai [**Tiri Salvezza**](/rules/combattimento#tiri-salvezza) su [**Destrezza**](/rules/punteggi-caratteristica#destrezza) contro gli effetti che può vedere, come le trappole e gli incantesimi.
 
 Per ottenere questo bonus non deve essere [**accecato, assordato o incapacitato**](/rules/condizioni).
 
-### Cammino Primordiale
+## Cammino Primordiale
 
 Può scegliere un cammino che definisce la natura della sua furia, tra : **Cammino del Berserker** o **Cammino Totemico**.
 
-#### Cammino del Berserker
+### Cammino del Berserker
 
-##### Frenesia
+#### Frenesia
 
 Dal 3° livello, può entrare in frenesia quando entra in ira.
 
 - Se lo fa, per la **durata della sua ira** può effettuare un singolo attacco con un'arma da mischia come azione bonus in ognuno dei suoi turni successivi dopo di questo.
 - Al termine dell'ira subisce un [**livello di indebolimento**](/rules/condizioni#indebolimento).
 
-##### Ira Incontenibile
+#### Ira Incontenibile
 
 Dal 6° livello, il barbaro non può essere affascinato o spaventato mentre è in ira. Se viene affascinato o spaventato quando entra in ira, quell'effetto è sospeso per utta la durata dell'ira.
 
-##### Presenza Intimidatoria
+#### Presenza Intimidatoria
 
 Dal 10° livello, il barbaro può usare la sua azione per spaventare qualcuno con la sua presenza minacciosa.
 
@@ -111,17 +111,17 @@ Dal 10° livello, il barbaro può usare la sua azione per spaventare qualcuno co
 - Nei turni successivi, il barbaro può usare la sua azione per estendere la durata di questo effetto sulla creatura spaventata fino alla fine del proprio turno successivo.
   - Se la creatura termina il suo turno fuori dalla linea di vista o oltre 18 metri di distanza dal barbaro, questo effetto si esaurisce.
 
-##### Ritorsione
+#### Ritorsione
 
 Dal 14° livello, quando subisce danni da una creatura che si trova entro 1,5m da lui, può usare la sua [**reazione**](/rules/combattimento#reazione) per effettaure un attacco con un'arma da mischia contro quella creatura.
 
-#### Cammino Totemico
+### Cammino Totemico
 
-##### Cercatore di Spiriti
+#### Cercatore di Spiriti
 
 Dal 3° livello ottiene la capacità di lanciare gli incantesimi *percezione delle bestie* e *parlare con gli animali*, ma solo come **rituali**.
 
-##### Spirito Totemico
+#### Spirito Totemico
 
 Al 3° livello, il barbaro sceglie uno spirito totemico e ne ottiene il relativo privilegio. Deve fabbricare o acquisire un oggetto fisico che funga per lui da totem.
 
@@ -133,7 +133,7 @@ Un **animale totemico** potrebbe essere un animale correlato a quelli dell'elenc
 - **Lupo**, finchè il barbaro è in ira, i suoi amici dispongono di **vantaggio** ai [**Tiri per Colpire**](/combattimento/tiri-per-colpire) in **mischia** conto ogni creatura che si trovi entro 1,5m da lui e che gli sia ostile.
 - **Orso**, finchè il barbaro è in ira, ottiene **resistenza** a tutti i danni tranne che a quelli psichici.
 
-##### Aspetto della Bestia
+#### Aspetto della Bestia
 
 Dal 6° livello, ottiene un beneficio magico basato su un animale totemico di sua scelta. Può scegleire lo stesso animal che ha scelto al 3° livello o un animale diverso.
 
@@ -141,49 +141,49 @@ Dal 6° livello, ottiene un beneficio magico basato su un animale totemico di su
 - **Lupo**, può seguire le tracce delle altre creature mentre viaggia a passo veloce e può muoversi furtivamente mentre viaggia a passo normale (vedere [**Avventura**](/avventura)).
 - **Orso**, la sua capacità di trasporto raddoppia e il barbaro dispone di vantaggio alle prove di **[Forza](/punteggi-caratteristica#forza)** effettaute per spingere, trascinare, sollevare o spezzare oggetti.
 
-##### Viandante Spirituale
+#### Viandante Spirituale
 
 Dal 10° livelllo può lanciare l'incantesimo *comunione con la natura*, ma solo come **rituale**. Quando lo fa, una versione spirituale di uno degli animali che ha scelto come [**Spirito Totemico**](#spirito-totemico) o [**Aspetto della Bestia**](#aspetto-della-bestia) gli appare per fornirgli le informazioni che desidera.
 
-##### Sintonia Totemica
+#### Sintonia Totemica
 
-### Aumento dei Punteggi di Caratteristica
+## Aumento dei Punteggi di Caratteristica
 
 Può aumentare di 2 un [**punteggio di caratteristica**](/rules/punteggi-caratteristica) a sua scelta (di conseueto non è possibile eccedere un punteggio di 20 per caratteristica).
 
-### Attacco Extra
+## Attacco Extra
 
 Può attaccare due volte anzichè una, ogni volta che effettua l'azione di [**Attacco**](/rules/combattimento#attacco) nel proprio turno.
 
-### Movimento Veloce
+## Movimento Veloce
 
 La velocità del barbaro aumenta di 3 metri purchè non indossi un *armatura pesante*.
 
-### Istinto Ferino
+## Istinto Ferino
 
 Ottiene vantaggio ai [**tiri iniziativa**](/rules/combattimento#tiro-iniziativa), inoltre, se il barbaro è sorpreso all'inizio del combattimento e non è [**incapacitato**](/rules/condizioni), può agire normalmente nel suo primo turno, ma **solamente se entra in ira in quel turno**.
 
-### Critico Brutale
+## Critico Brutale
 
 Può tirare un **dado dei danni dell'arma aggiuntivo** quando effettua un [**colpo critico**](/rules/combattimento#colpo-critico).
 
 Questo effetto aumenta di 2 dadi aggiuntivi al 12° e 13° livello.
 
-### Ira Implacabile
+## Ira Implacabile
 
 Se scende a 0 [**punti ferita**](/rules/combattime#punti-ferita) mentre è in ira e non è ucciso sul colpo, può effettuare un [**tiro salvezza**](/rules/combattimento#tiro-salvezza) su [**Costituzione**](/rules/punteggi-caratteristica#costituzione) con CD 10. Se lo supera, **rimane a 1 punto ferita**.
 
 Ogni volta che utilizza questo privilegio la CD aumenta di 5, la CD viene ripristinata a 10 quando completa un [**riposo lungo**](/rules/avventura#riposo-lungo).
 
-### Ira Persistente
+## Ira Persistente
 
 L'ira termina **solamente** se cade [**privo di sensi**](/rules/condizioni) o se decide di porvi termine.
 
-### Potenza Indomabile
+## Potenza Indomabile
 
 Se il totale di una prova di [**Forza**](/rules/punteggi-caratteristica#forza) è inferiore al suo punteggio di **Forza**, può usare il proprio punteggio di **Forza**.
 
-### Campione Primordiale
+## Campione Primordiale
 
 - I suoi punteggi di [**Forza**](/rules/punteggi-caratteristica#forza) e [**Costituzione**](/rules/punteggi-caratteristica#costituzione) aumentano di 4.
 - Il suo massimo per quei punteggi è ora di 24.
