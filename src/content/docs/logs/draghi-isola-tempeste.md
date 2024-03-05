@@ -12,8 +12,16 @@ weight: 1
 
 **Burbit**
 ![burbit-token](../../../assets/imgs/campaigns/stormwreck-isle/burbit.png)
-..background..
+**Burbit** è un nano chierico, nato e cresciuto tra le colline. Raggiunta la maggiore età si è arruolato nell'esercito presso l'**isola di Mintarn**.
+Con gli anni ha sviluppato una spiccata abilità nell'uso di armi e si è distinto per la sua forza fisica.
 
+Successivamente si è unito ad una compagnia di mercenari, che gli ha permesso di viaggiare per il mondo e imparare lingue e culture.
+La parentesi nella guardia cittadina di **Neverwinter** (Verdinverno) gli ha fatto capire come quel mondo fatto di arroganza e indifferenza non facesse per lui.
+Forte di questa nuova consapevolezza, si è spinto alla ricerca di una strada differente. Recentemente il suo sonno viene tormentato da un sogno ricorrente:
+un'ombra che lentamente si avvicina ad un'isola inghiottendola nell'oscurità.
+Sicuro che questi sogni fossero una chiamata del proprio dio, decise di abbandonare tutto per perseguire un nuovo obbiettivo... Bandire il presagio di morte suscitato da quell'ombra.
+
+Armato di coraggio, fede e disciplina militare, si diresse presso l'**isola delle tempeste**.
 **Duca Ignazio di AlbaRadiante**
 ![duca-token](../../../assets/imgs/campaigns/stormwreck-isle/duca.png)
 
