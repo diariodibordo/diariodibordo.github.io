@@ -11,7 +11,10 @@ weight: 1
 ## Giocatori
 
 **Burbit**
-![burbit-token](../../../assets/imgs/campaigns/stormwreck-isle/burbit.png)
+
+<p align="center">
+  <img src="https://diariodibordo.github.io/_astro/burbit.mZqmIap3_Z11xY1W.webp" alt="Burbit Token">
+</p>
 **Burbit** è un nano chierico, nato e cresciuto tra le colline. Raggiunta la maggiore età si è arruolato nell'esercito presso l'**isola di Mintarn**.
 Con gli anni ha sviluppato una spiccata abilità nell'uso di armi e si è distinto per la sua forza fisica.
 
@@ -24,12 +27,16 @@ Sicuro che questi sogni fossero una chiamata del proprio dio, decise di abbandon
 Armato di coraggio, fede e disciplina militare, si diresse presso l'**isola delle tempeste**.
 
 **Duca Ignazio di AlbaRadiante**
-![duca-token](../../../assets/imgs/campaigns/stormwreck-isle/duca.png)
+<p align="center">
+  <img src="https://diariodibordo.github.io/_astro/duca.h0QIu2b9_1igRGH.webp" alt="Duca Token">
+</p>
 
 ..background..
 
 **Ruidjert**
-![ruidjert-token](../../../assets/imgs/campaigns/stormwreck-isle/ruidjert.png)
+<p align="center">
+  <img src="https://diariodibordo.github.io/_astro/ruidjert.oFLYu81l_WnOmI.webp" alt="Ruidjert Token">
+</p>
 
 **Rudjiert Siannodel** è un elfo, studioso della magia e amante della conoscenza.
 Un carattere schivo, di poche parole, che non sempre lasciano trasparire cosa realmente pensa.
