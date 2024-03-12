@@ -22,6 +22,7 @@ un'ombra che lentamente si avvicina ad un'isola inghiottendola nell'oscurità.
 Sicuro che questi sogni fossero una chiamata del proprio dio, decise di abbandonare tutto per perseguire un nuovo obbiettivo... Bandire il presagio di morte suscitato da quell'ombra.
 
 Armato di coraggio, fede e disciplina militare, si diresse presso l'**isola delle tempeste**.
+
 **Duca Ignazio di AlbaRadiante**
 ![duca-token](../../../assets/imgs/campaigns/stormwreck-isle/duca.png)
 
