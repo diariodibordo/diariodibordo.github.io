@@ -30,7 +30,14 @@ Armato di coraggio, fede e disciplina militare, si diresse presso l'**isola dell
 **Ruidjert**
 ![ruidjert-token](../../../assets/imgs/campaigns/stormwreck-isle/ruidjert.png)
 
-..background..
+**Rudjiert Siannodel** è un elfo, studioso della magia e amante della conoscenza.
+Un carattere schivo, di poche parole, che non sempre lasciano trasparire cosa realmente pensa.
+La longevità elfica gli ha permesso di studiare per molti anni la magia, in particolare della **scuola di evocazione**, dapprima nella sua comunità natia ed in seguito presso l’**Accademia di Verdinverno**.
+Qui ha potuto entrare in contatto con numerosi maestri ed altri apprendisti maghi suoi colleghi.
+Dopo aver terminato i suoi studi si imbarca in numerosi viaggi in giro per il mondo per cercare nuove nozioni magiche.
+Decide di raggiungere il chiostro di **Sonno del Drago** sulla **Isola Delle Tempeste** dopo aver appreso della morte di un suo collega mago dei tempi dell’accademia.
+La morte di quest’ultimo è avvolta in circostanze misteriose dato che poco tempo prima aveva inviato a Rudjiert una lettera enigmatica che parlava di una fonte di conoscenza perduta sull’Isola.
+Armato della sua insaziabile sete di conoscenza e deciso a risolvere questo oscuro mistero, parte alla volta di una nuova avventura dove si ritrova coinvolto in una guerra secolare tra draghi insieme a dei nuovi compagni inaspettati.
 
 ## Capitolo 1
 
