@@ -13,7 +13,7 @@ weight: 1
 **Burbit**
 
 <p align="center">
-  <img src="https://diariodibordo.github.io/_astro/burbit.mZqmIap3_Z11xY1W.webp" alt="Burbit Token">
+  <img src="https://raw.githubusercontent.com/diariodibordo/diariodibordo.github.io/main/src/assets/imgs/campaigns/stormwreck-isle/burbit.png" alt="Burbit Token">
 </p>
 
 **Burbit** è un nano chierico, nato e cresciuto tra le colline. Raggiunta la maggiore età si è arruolato nell'esercito presso l'**isola di Mintarn**.
