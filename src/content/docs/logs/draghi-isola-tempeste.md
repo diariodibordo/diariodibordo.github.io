@@ -29,14 +29,14 @@ Armato di coraggio, fede e disciplina militare, si diresse presso l'**isola dell
 
 **Duca Ignazio di AlbaRadiante**
 <p align="center">
-  <img src="https://diariodibordo.github.io/_astro/duca.h0QIu2b9_1igRGH.webp" alt="Duca Token">
+  <img src="https://raw.githubusercontent.com/diariodibordo/diariodibordo.github.io/main/src/assets/imgs/campaigns/stormwreck-isle/duca.png" alt="Duca Token">
 </p>
 
 ..background..
 
 **Ruidjert**
 <p align="center">
-  <img src="https://diariodibordo.github.io/_astro/ruidjert.oFLYu81l_WnOmI.webp" alt="Ruidjert Token">
+  <img src="https://raw.githubusercontent.com/diariodibordo/diariodibordo.github.io/main/src/assets/imgs/campaigns/stormwreck-isle/ruidjert.png" alt="Ruidjert Token">
 </p>
 
 **Rudjiert Siannodel** è un elfo, studioso della magia e amante della conoscenza.
