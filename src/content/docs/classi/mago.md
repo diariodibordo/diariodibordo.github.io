@@ -150,6 +150,19 @@ Questi **slot incantesimo** possono avere un livello totale pari o inferiore all
 
 ## Tradizione Arcana
 
+Dal 2° livello un mago sceglie una **tradizione arcana** che modellerà la sua pratica della magia in base ai precetti di una delle otto scuole seguenti:
+
+- [**Abiurazione**](#scuola-di-abiurazione)
+- [**Ammaliamento**](#scuola-di-ammaliamento)
+- [**Divinazione**](#scuola-di-divinazione)
+- [**Evocazione**](#scuola-di-evocazione)
+- [**Illusione**](#scuola-di-illusione)
+- [**Invocazione**](#scuola-di-invocazione)
+- [**Necromanzia**](#scuola-di-necromanzia)
+- [**Trasmutazione**](#scuola-di-trasmutazione)
+
+La scuola scelta conferisce al mago alcuni privilegi al 2° livello e poi di nuovo al 6°, 19° e 14° livello.
+
 ## Aumento dei Punteggi di Caratteristica
 
 ## Maestria negli Incantesimi
