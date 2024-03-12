@@ -18,6 +18,7 @@ def replace_words_in_md_file(file_path):
         "tiro per colpire'": '[**tiro per colpire**](/rules/combattimento#tiro-per-colpire)',
         "tiri per colpire'": '[**tiri per colpire**](/rules/combattimento#tiro-per-colpire)',
         "rituale'": '[**rituale**](/rules/incantesimo#rituale)',
+        "focus arcano'": '[**rituale**](/rules/equipaggiamento#focus-arcano)',
         "Saggezza'": '[**Saggezza**](/rules/punteggi-caratteristica/#saggezza)',
         "Intelligenza'": '[**Intelligenza**](/rules/punteggi-caratteristica/#intelligenza)',
         "saggezza'": '[**Saggezza**](/rules/punteggi-caratteristica/#saggezza)',

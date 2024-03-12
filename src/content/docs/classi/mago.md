@@ -109,13 +109,39 @@ una nuova lista di incantesimi da mago è necessario un certo ammontare di tempo
 
 ### Caratteristiche da Incantatore
 
+Intelligenza' è la caratteristica da incantatore usata per gli incantesimi' da mago, dal momento che egli impara i suoi incantesimi tramite lo studiocostante e la memorizzazione.
+
+Un mago usa Intelligenza ogni volta che un incantesimo fa riferimento alla sua caratteristica da incantatore.
+
+Usa inoltre il suo modificatore di Intelligenza per definire la CD del tiro salvezza' di un incantesimo da mago da lui lanciato e quando effettua un tiro per colpire' con un incantesimo.
+
+**CD del tiro salvezza dell'incantesimo**
+
+**8 + bonus di competenza' del mago + il modificatore di Intelligenza del mago**
+
+**Modificatore di attacco dell'incantesimo**
+
+**bonus di competenza del mago + il modificatore di Intelligenza del mago**
+
 ### Celebrare Rituali
+
+Un mago può lanciare un incantesimo' da mago come rituale' se quell'incantesimo possiede il descrittore rituale.
+
+Non è necessario che abbia preparato quell'incantesimo.
 
 ### Focus da Incantatore
 
+Un mago può usare un focus arcano' come focus da incantatore per i suoi incantesimi da mago.
+
 ### Imparare Incantesimi di 1° Livello e di Livello Superiore
 
-##  Recupero Arcano
+Ogni volta che il personaggio acquisisce un livello da mago, può aggiungere grauitamente due incantesimi' da mago a sua scelta al suo **libro degli incantesimi**.
+
+Ognuno di questi incantesimi deve essere di un livello di cui il mago possiede degli **slot incantesimo**, come indicato nella tabella.
+
+Nel corso delle sue avventure potrebbe trovare altri incantesimi da aggiungere nel suo libro.
+
+## Recupero Arcano
 
 ## Tradizione Arcana
 
