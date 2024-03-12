@@ -92,6 +92,21 @@ Il libro degli incantesimi di un mago è una ocmbinazione unica di incantesimi',
 
 ### Preparare e Lanciare Incantesimi
 
+Per lanciare uno di questi incantesimi', il mago deve spendere uno **slot incantesimo** di livello pari o superiore al livello dell'incantesimo.
+
+Il mago recupera tutti gli slot incantesimo spesi quando completa un riposo lungo'.
+
+Il mago prepara la **lista degli incantesimi** da mago disponibili da lanciare scegliendoli dalla lista degli incantesimi da mago.
+
+Quando lo fa, deve scegliere un numero di incantesimi da mago dal suo libro degli incantesimi pari al suo **modificatore di Intelligenza' + il suo livello da mago** (minimo un incantesimo).
+
+**Gli incantesimi devono essere di un livello di cui il mago possiede degli slot incantesimo.**
+
+Il lancio dell'incantesimo non rimuove l'incantesimo dalla lista, ma ne consuma uno slot. Il mago può cambiare la lista dei suoi incantesimi preparati quando completa un riposo lungo. Per preparare
+una nuova lista di incantesimi da mago è necessario un certo ammontare di tempo da trascorrere studiando il libro degli incantesimi e memorizzando le formule e i gesti necessari per lanciare l'incantesimo.
+
+**Almeno 1 minuto per livello di incantesimo per ogni incantesimo nella sua lista.**
+
 ### Caratteristiche da Incantatore
 
 ### Celebrare Rituali
