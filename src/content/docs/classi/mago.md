@@ -165,6 +165,10 @@ La scuola scelta conferisce al mago alcuni privilegi al 2° livello e poi di nuo
 
 ## Aumento dei Punteggi di Caratteristica
 
+Quando arriva al 4° livello, e poi di nuovo all'8°, 12°, 16° e 19° livello, un mago può aumentare di 2 un punteggio di caratteristica' a sua scelta, oppure può aumentare di 1 due punteggi di caratteristica a sua scelta
+
+Come di consueto, non è consentito aumentare un punteggio di caratteristica a più di 20 utilizzando questo privilegio.
+
 ## Maestria negli Incantesimi
 
 ## Incantesimi Personali
