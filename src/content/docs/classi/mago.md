@@ -143,6 +143,11 @@ Nel corso delle sue avventure potrebbe trovare altri incantesimi da aggiungere n
 
 ## Recupero Arcano
 
+Un mago può recuperare parte della sua eneergia magica studiando il suo **libro degli incantesimi**. Una volta al giorno, quando completa un riposo breve', il mago sceglie quali
+**slot incantesimo** spesi desidera recuperare.
+
+Questi **slot incantesimo** possono avere un livello totale pari o inferiore alla metà del livello da mago e nessuno slot può essere di livello pari o superiore al 6°.
+
 ## Tradizione Arcana
 
 ## Aumento dei Punteggi di Caratteristica
