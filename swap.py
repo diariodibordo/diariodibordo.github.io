@@ -36,6 +36,7 @@ def replace_words_in_md_file(file_path):
         "resistenza'": '[**resistenza**](/rules/combattimento#resistenza)',
         "Destrezza'": '[**Destrezza**](/rules/punteggi-caratteristica/#destrezza)',
         "trucchetto'": '[**trucchetto**](/rules/trucchetto)',
+        "trucchetti'": '[**trucchetti**](/rules/trucchetto)',
         "Costituzione'": '[**Costituzione**](/rules/punteggi-caratteristica/#costituzione)',
         "costituzione'": '[**Costituzione**](/rules/punteggi-caratteristica/#costituzione)',
         "druido'": '[**druido**](/classi/druido)',

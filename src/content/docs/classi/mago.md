@@ -57,7 +57,38 @@ sidebar:
 
 ### Trucchetti
 
+Dal 1° livello conosce tre trucchetti' a sua scelta dalla lista degli incantesimi' da mago.
+
+- Apprende altri trucchetti da mago ai livelli successivi come mostrato nella [**tabella**](#privilegi-di-classe).
+
 ### Libro Degli Incantesimi
+
+Dal 1° livello un mago possiede un **libro degli incantesimi** che contiene 6 incantesimi' da mago di 1° livello a sua scelta.
+
+Questo libro contiene tutti gli incantesimi da mago conosciuti dal personaggio, ad eccezione dei suoi trucchetti', che sono impressi direttamente nella sua mente.
+
+#### Copiare un incantesimo nel libro
+
+Quando un mago entra in possesso di un incantesimo' da mago di libello pari o superiore al 1°, può aggiungerlo al suo libro, se si tratta di un incantesimo di un livello che egli può preparare
+e se dispone del tempo per decifrarlo e copiarlo.
+
+Il personaggio deve fare pratica con l'incantesimo finchè non comprende i suoni o i gesti richiesti, e poi trascriverlo nel proprio libro degli incantesimi usando il suo metodo personale di trascrizione.
+
+Per ogni livello dell'incantesimo, il processo di trascrizione richiede **2 ore e costa 50 mo**. Il costo rappresenta le componenti materiali consumate dal mago nel corso dei suoi esperimenti per padroneggiare l'incantesimo,
+nonchè gli inchiostri pregiati utilizzati per trascriverlo.
+
+#### Sostituire il libro
+
+Un mago può copiare un incantesimo' dal suo libro degli incantesimi a un altro. Questo funziona esattamente come copiare un incantesimo, ma è più rapido e facile in quanto è già conosciuto il metodo di trascrizione
+e come lanciare l'incantesimo.
+
+Dovrà spendere **1 ora e 10 mo** per ogni livello dell'incantesimo copiato.
+
+Se un mago perde il suo libro degli incantesimi, dovrà trovarne di nuovi come di consueto. Per questo motivo molti maghi custodiscono delle copie di riserva dei loro libri degli incantesimi in luoghi sicuri.
+
+#### Aspetto del libro
+
+Il libro degli incantesimi di un mago è una ocmbinazione unica di incantesimi', dotato di rifiniture decorative e note a margine personali.
 
 ### Preparare e Lanciare Incantesimi
 
